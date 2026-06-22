@@ -1,0 +1,190 @@
+﻿Sitemap
+Mailing Systems & Solutions | Quadient
+Target keyword: mailing systems (110; 48KD)
+Supporting keywords: mailing and shipping solutions; mail automation; postage meter solutions; mailroom automation 
+Meta description: Quadient mailing systems simplify mailing and shipping from prep to postage, with mailroom automation that cuts costs, improves accuracy, and ensures compliance.
+________________
+ <hero> Module: Hero Standard
+* <image> Human-led image of teams preparing or sending mail, plus light UI or workflow overlay (avoid equipment-heavy photography).[a][b][c]
+* <h1> Mailing and shipping, without the friction
+* <h2 graphically styled> Keep critical communications moving — from preparation to delivery.
+* <description> From invoices and notices to packages and returns, Quadient helps automate mailing and shipping workflows to reduce errors, control costs and keep work moving. 
+________________
+   * <CTA product buttons ribbon> Module: Mega CTA
+   * Postage Meters
+   * Paper Feeding
+   * Folder Inserters
+   * Production Color Printing
+   * Mail Openers
+   * Address Printers[d]
+________________
+
+
+<intro value / pain point framing> Module: 50-50 Text
+   * <h2> Manual mail creates costs you feel everywhere
+   * <description> Manual mailing and shipping lead to errors, delays and rising costs — from incorrect postage to missed deliveries and disconnected tracking. Delayed invoicing slows cash flow. Slow service impacts customer trust. As volume grows, those inefficiencies become harder to manage.
+
+
+________________
+
+
+   * <TL module> Editorial Content Block
+   * <image or video>
+   * <title>
+   * <description>
+   * <CTA>
+
+
+Module: 50-50 Text
+   * <h2>Modern mailing and shipping should just work
+   * <description>The right automation reduces manual handling, improves accuracy and keeps operations moving — without disrupting the way your business already runs. It brings speed, visibility and control across every step.
+   * <bullet>Reduce manual handling so errors are prevented before they happen
+   * <bullet>Maintain speed, accuracy, and visibility at any volume
+   * <bullet>Meet compliance requirements with consistency and control  
+   * <bullet>Access discounted shipping rates without added complexity
+   * <bullet> Connect every communications workflow across print and digital
+________________
+
+
+<how quadient helps> Module: Stacked Card Block
+   * <image/design>
+   * <h2>Quadient Keeps Mail and Shipping Moving 
+   * <description> With decades of experience in high-volume mailing environments, Quadient understands how mail actually works — and where it breaks. We simplify those workflows, improving accuracy, reducing manual effort and keeping delivery on track.
+   * <h3>Part of a connected automation approach
+   * <description> Mailing and shipping don’t operate in isolation. Quadient connects them with communications and finance, so work flows from start to finish. <bullets>[e][f][g]
+   * <bullet> Calculate and apply the correct postage automatically
+   * <bullet> Verify addresses and prepare mail accurately
+   * <bullet> Track deliveries with full visibility
+   * <bullet> Integrate with the systems you already use
+   * <CTA>See how our unified solutions can help your operation
+   * <links to>/solutions
+________________
+
+
+<product context module> Module: Standard Card Carousel[h]
+   * <h2> What you can do with Quadient mailing systems
+   * <description> The right mailing system helps your team handle mail faster, with fewer errors and lower costs.
+   * <product detail>
+   * <h3> Postage Meters
+   * <description>Send letters and packages with accurate postage and built-in cost control.
+   * <CTA>Browse postage meters
+   * <product detail>
+   * <h3> Paper Feeding
+   * <description>Handle high-volume paper processing with fewer errors and interruptions.
+   * <CTA>Browse paper feeding solutions
+   * <product detail>
+   * <h3> Folder Inserters
+   * <description>Fold, insert and seal mail quickly and accurately at scale.
+   * <CTA>Browse folder inserters
+   * <product detail>
+   * <h3> Production Color Printing
+   * <description>Produce high-quality communications in-house with speed and consistency.
+   * <CTA> Browse production color printing
+   * <product detail>
+   * <h3> Mail Openers
+   * <description>Process incoming mail efficiently while protecting contents.
+   * <CTA> Browse mail openers
+   * <product detail>
+   * <h3> Address Printers
+   * <description>Print accurate, readable addresses at high speed and volume.
+   * <CTA> Browse address printers
+________________
+
+
+<content support module> Module: Solution Cards
+   * <quiz/interactive>
+   * <image>
+   * <title>What solution does your organization need?
+   * <CTA>Take the quiz
+   * <case study>
+   * <image>
+   * <title>of mailing case study
+   * <description>
+   * <CTA>
+________________
+
+
+<proof & trust module> Module: 50-50 Block
+   * <h2> Trusted to Deliver Accuracy and Reliability 
+   * <description> When mailing and shipping operations are critical to business success, companies turn to Quadient. Quadient is a partner. Our products and our consultative approach helps your team increase cash flow, speed up remittance cycles, and free up staff time for the tasks that make a lasting impact.
+   * <compliance badges> Module: Logo Wall
+   * USPS IMI compliance, ISO, FedRAMP, GovRamp, HIPPA, Hi-Tech/Hi-Trust, SOC 1, SOC 2
+
+
+   * <awards row> Module: Stats Block
+   * One row of relevant mail/operations recognitions
+
+
+   * <testimonial>  Module: Testimonial
+   * 1–2 directional customer quotes
+________________
+
+
+<resources module> Module: Solution Cards
+   * <h2> Insights for Mailing and Operations Teams
+   * <cards>
+   * <card> Guide: Reducing costs with mail automation
+   * <card> Case study: How a customer modernized its mailroom
+   * <card> Webinar: USPS rate changes — what you need to know
+   * <CTA> View all mailing resources
+   * <links to>/resources?filter=mailing
+________________
+
+
+<FAQ module – accordion> Module: FAQs List
+   * <h2> Mailing and Shipping FAQ
+   * <accordion>
+   * <question> What is a mailing system?
+<answer> Mailing systems use hardware and software to automate the process of preparing, weighing, preparing postage, and sending business mail and packages. 
+Modern mailing systems, including Quadient's, go beyond the basic postage meter to integrate digital scales, address verification, carrier rate comparison, and postage accounting. That kind of mailroom automation minimizes or eliminates manual handling to increase efficiency and accuracy and reduce waste.
+   * <question> How can Quadient help you mitigate the effects of rising postage costs?
+<answer> Quadient mailing systems keep postage costs under consistent control by ensuring you get the best price for the right postal class automatically, and opening up access to discounted rates.
+Rate Wizard and integrated scales ensure accurate postal class selection. Quadient's S.M.A.R.T. Essential Mailing Software allows organizations to compare to-the-moment rates across USPS, UPS, FedEx, and DHL, so you can optimize every shipment with the most cost-effective carrier and service.
+   * <question> Can Quadient support both SMB and enterprise mailrooms?
+<answer> Quadient mailing systems are designed to scale across both SMB and enterprise environments, from the iX-5 series, ideal for mid-level mail, to the high-output iX-9 series with all-in-one mail center software.
+Whether you're operating a single location or running a high-volume mail center, Quadient has a mailing and shipping solution that's configured for your needs.
+   * <question> Does Quadient offer both print and digital mail solutions?
+<answer> Quadient mailing systems are part of a powerful business automation platform that connects physical mail processes with digital communication channels and finance workflows.
+This unified approach allows organizations to manage customer connections on every level from a single platform, turning fragmented systems and operational complexity into simple, streamlined efficiency.
+________________
+
+
+<CTA footer> Module: CTA Form
+   * <h2> See how Quadient keeps mail and shipping moving.
+   * <primary CTA> Request a demo
+   * <links to>/contact/request-demo
+
+
+[a]“Mailing Systems & Solutions” may feel commodity. “your mailroom can almost run itself” could be fluffy, but I understand the mail audience thinks this way. The description is too long for a hero spot, duplicated and a bit SaaSy. I will go panel by panel and provide an on brand baseline to see what we think. 
+HERO 
+H1
+Mailing and shipping, without the friction
+
+
+H2
+Keep critical communications moving — from preparation to delivery.
+
+
+Description
+From invoices and notices to packages and returns, Quadient helps automate mailing and shipping workflows to reduce errors, control costs and keep work moving
+[b]_Marked as resolved_
+[c]_Re-opened_
+These product family pages  have to perform through search, so the top-level headers on the page need to be geared toward search discoverability. The H1s will be styled to be smaller than the H2s, so the editorial meat will happen visually on this page with the H2 -- this is tweaked but definitely want your feelings on this different direction, Jared.
+[d]TO BE UPDATED TO MATCH SITEMAP
+[e]Bullets Suggestion: 
+
+
+- Automatically calculate and apply the correct postage
+
+
+- Verify addresses and prepare mail accurately
+
+
+- Track deliveries with clear visibility
+
+
+- Integrate with the systems you already use
+[f]_Marked as resolved_
+[g]_Re-opened_
+Did this, but as these spoke more to Quadient capabilities than pain points, moved them down to this section
+[h]TO BE UPDATED TO MATCH SITEMAP

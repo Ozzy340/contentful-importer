@@ -1,0 +1,91 @@
+﻿Page: Offices[a]
+Objective of the page: Our offices across the world
+Future URL: quadient.com/en-us/careers/offices
+-----------------------
+Module: Hero Standard
+<Eyebrow> Careers
+<Heading> Find your place at Quadient
+<SubHeading> Explore our offices, work styles, and culture across global locations.
+<Content copy> Establish this page as the destination for candidates who want to understand where Quadient teams work before they move into job search.
+<CTA> View jobs
+<CTA Microcopy> Search by location
+<links to> quadient.com/en-us/careers/job-hub
+Module: Solutions Toggle
+<Heading> Explore offices by region
+<SubHeading> Use regional toggles so candidates can scan where Quadient operates before engaging with individual office highlights.
+<CTA> View jobs
+<links to> quadient.com/en-us/careers/job-hub
+<Content Heading> Americas
+<Content subheading> Distributed and flexible
+<Content copy> Cover USA, Canada, and LATAM. Focus on broad opportunity, role breadth, and how local teams connect through hybrid and remote-friendly ways of working.
+<Content Heading> Europe
+<Content subheading> Multi-office depth
+<Content copy> Cover Benelux, Czech Republic, France, Germany, Italy, Nordics, and United Kingdom. Emphasize office variety, R&D and commercial hubs, and country-specific culture snapshots.
+<Content Heading> Asia-Pacific
+<Content subheading> Growth-focused hubs
+<Content copy> Cover Australia, China, Japan, and Singapore. Spotlight collaboration, regional growth, and the connection between local teams and broader APAC operations.
+Note: Populate the toggle using the current careers location taxonomy; keep the experience browseable at region level first, then expose featured offices within each region.
+Module: Product Card Listing
+<Eyebrow> Featured offices
+<Heading> Office snapshots
+<SubHeading> Use cards to surface representative offices or location clusters with enough detail to feel real..
+<card>
+<Eyebrow> France
+<Heading> Bagneux
+<SubHeading> Headquarters near Paris; highlight corporate teams, R&D presence, commute context, and workplace amenities.
+<card>
+<Eyebrow> France
+<Heading> Rueil-Malmaison
+<SubHeading> Position this as a commercial and technical-services hub with strong collaboration and regional access.
+<card>
+<Eyebrow> France
+<Heading> Cavaillon and Le Lude
+<SubHeading> Show innovation and production depth through software R&D and manufacturing or remanufacturing capabilities.
+<card>
+<Eyebrow> United States
+<Heading> Distributed footprint
+<SubHeading> Focus on broad geographic reach, hybrid and remote flexibility, and career-growth pathways across functions.
+<card>
+<Eyebrow> Australia
+<Heading> Sydney hub
+<SubHeading> Highlight customer experience focus, collaboration, and local culture in a modern city-center setting.
+<card>
+<Eyebrow> Global
+<Heading> More offices worldwide
+<SubHeading> Use this card to cue additional locations across Canada, LATAM, Benelux, Czech Republic, Germany, Italy, Nordics, United Kingdom, China, Japan, and Singapore.
+Note: Add all the Offices + Keep these cards informational and route all conversion clicks to Job Hub.
+
+
+Module: Insights & Resources
+<Eyebrow> Keep exploring
+<Heading> More career paths
+<CTA> See all
+<links to> quadient.com/en-us/careers/job-hub
+<card>
+<Heading> Life at Quadient
+<Description> Deeper culture, belonging, learning, and growth content for candidates who want the broader employer story.
+<CTA> Explore
+<links to> quadient.com/en-us/careers/life-at-quadient
+<card>
+<Heading> Connect Hub
+<Description> Talent community entry point for candidates who are interested but not ready to apply yet.
+<CTA> Join now
+<links to> quadient.com/en-us/careers/connect-hub
+<card>
+<Heading> Events
+<Description> Recruiter touchpoints, hiring events, and moments for candidates to meet the brand live.
+<CTA> View events
+<links to> quadient.com/en-us/careers/events
+Module: FAQs List
+<Heading> Offices page FAQs
+<SubHeading> Answer the practical questions candidates ask before they search roles.
+<Content copy> Suggested questions: Does Quadient offer hybrid work in every location? Can I search jobs by office or country? Are benefits and office amenities the same everywhere? Does this page show every office or only major hiring hubs? What should candidates expect if a role is remote or region-based?
+Module: Action Block
+<Eyebrow> Next step
+<Heading> Search jobs by location and team
+<Content copy> End the page with a direct move into open roles, using location intent established throughout the page.
+<CTA> View jobs
+<links to> quadient.com/en-us/careers/job-hub
+
+
+[a]Mapped page here: https://gemini.google.com/share/9234fd4d32fa

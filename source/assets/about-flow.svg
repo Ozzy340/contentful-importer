@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">About flow illustration</title>
+  <desc id="desc">A simple flow from source documents to canonical JSON to Contentful.</desc>
+  <rect width="1200" height="630" fill="#f4efe7"/>
+  <rect x="90" y="200" width="250" height="180" rx="24" fill="#1d3557"/>
+  <rect x="475" y="200" width="250" height="180" rx="24" fill="#457b9d"/>
+  <rect x="860" y="200" width="250" height="180" rx="24" fill="#e76f51"/>
+  <text x="215" y="285" font-size="34" text-anchor="middle" fill="#ffffff" font-family="Georgia, serif">Source</text>
+  <text x="215" y="330" font-size="22" text-anchor="middle" fill="#ffffff" font-family="Georgia, serif">Word-style docs</text>
+  <text x="600" y="285" font-size="34" text-anchor="middle" fill="#ffffff" font-family="Georgia, serif">Canonical</text>
+  <text x="600" y="330" font-size="22" text-anchor="middle" fill="#ffffff" font-family="Georgia, serif">JSON + reports</text>
+  <text x="985" y="285" font-size="34" text-anchor="middle" fill="#ffffff" font-family="Georgia, serif">Contentful</text>
+  <text x="985" y="330" font-size="22" text-anchor="middle" fill="#ffffff" font-family="Georgia, serif">Draft entries</text>
+  <path d="M340 290h110" stroke="#264653" stroke-width="10" stroke-linecap="round"/>
+  <path d="M725 290h110" stroke="#264653" stroke-width="10" stroke-linecap="round"/>
+</svg>

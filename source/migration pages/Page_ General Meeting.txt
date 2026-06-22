@@ -1,0 +1,113 @@
+﻿Page: General Meeting
+Objective of the page: General meeting information and materials
+Future URL: quadient.com/en-us/investor-relations/general-meeting
+ Current URL or Current URLs which will be condensed into one URL: https://invest.quadient.com/en/annual-general-meetings ; https://invest.quadient.com/en/individual-shareholders
+Primary audiences
+Individual shareholders preparing for the AGM
+Institutional, nominee, or proxy shareholders preparing to vote or attend
+Shareholders looking for official meeting materials, replay access, and historic AG documents
+Secondary audiences
+Investor relations stakeholders
+Governance and legal teams referencing official meeting records
+Analysts or media looking for past shareholder meeting materials
+Target keyword
+general meeting
+Supporting keywords
+annual general meeting
+AGM materials
+shareholder meeting documents
+AGM voting information
+proxy vote form
+Page title: General Meeting | Quadient Investor Relations
+Meta description: Find Quadient general meeting information, 2025 AGM materials, replay, FAQs, participation details, and previous meeting documents in one place.
+Module: Hero Standard
+ <Eyebrow> Investor Relations
+<Heading> General meeting resources in one place
+<SubHeading> Prepare, participate, and access official AGM materials from a single destination
+<CTA> View 2025 documents
+<links to> #2025-materials
+ <CTA Microcopy> Latest AGM materials
+<Content copy> Centralize current meeting information, replay access, FAQs, contact options, and archive documents for shareholders.
+Note: Anchor destination to validate.
+Module: Siderail Navigation
+ <links to> #2025-report
+ <links to> #2025-replay
+ <links to> #questions-contact
+ <links to> #previous-ag-documents
+ <links to> #faqs
+ Note: Use a sticky in-page navigation so shareholders can jump straight to the section they need. Anchor destinations to validate.
+Module: Product Family Card
+ <card>
+<image> Official AGM document visual
+<Heading> 2025 AGM report
+<Content copy> Access official post-meeting materials and summary.
+<CTA> Read now
+<links to> #2025-report
+<card> <image> AGM replay visual <Heading> 2025 AGM replay <Content copy> Watch the meeting replay and presentation highlights. <CTA> Watch now <links to> `#2025-replay` <card> <image> Shareholder support visual <Heading> Questions and contact <Content copy> Find participation guidance and reach Investor Relations. <CTA> Contact IR <links to> `quadient.com/en-us/investor-relations/contact` Note: These three priority cards should reflect the current live entry points: the 2025 AGM minutes, the 2025 AGM replay, and contact support. The replay is currently marked French only on the live page. :contentReference[oaicite:1]{index=1}
+Module: Product Card Listing
+ <Eyebrow> 2025 AGM
+<Heading> Official AGM materials
+<SubHeading> Filter by document type and date to quickly find the right meeting document.
+<Filters> Document type; Date
+<List behavior> Default sort newest to oldest
+<document group> Key documents to pull through
+<document> Press release - post AGM 2025
+<document> Remuneration policy
+<document> Voting results
+<document> 2025 AGM presentation
+<document> Notice of Meeting published in the BALO
+<document> Proposed resolutions and explanatory statements
+<document> Delegations of authority extract from the 2024 URD
+<document> Proxy postal vote form
+<document> Draft Articles of Association
+<document> Total number of voting rights and shares
+<document> Availability and consultation notices
+<document> Board reports
+<document> Auditors’ reports
+<CTA> View all 2025
+<links to> #2025-materials
+ Note: Preserve the current 2025 AGM resource set, but present it through a filterable document feed instead of a long unstructured list.
+Module: 50-50 Block
+ <Eyebrow> Support
+<Heading> Questions and contact
+<CTA> Contact IR
+<links to> quadient.com/en-us/investor-relations/contact
+ <CTA Microcopy> For shareholder queries
+<Content copy> Left side: brief explanation of when to contact Investor Relations for participation, voting, or document-access questions. Right side: direct contact details plus a secondary pathway to broader shareholder information.
+<Secondary links to> quadient.com/en-us/investor-relations/quadient-share
+ Note: Keep this section practical and task-focused so users do not need to leave the page to understand where to get help.
+Module: Product Card Listing
+ <Eyebrow> Archive
+<Heading> Previous AG documents
+<SubHeading> Let shareholders browse prior meetings by year, then open that year’s filtered document list.
+<Year group> 2024
+<Year group> 2023
+<Year group> 2022
+<Year group> 2021
+<Year group> 2020
+<Year group> 2019
+<Year group> 2018
+<Year group> 2017
+<CTA> Browse archive
+<links to> #previous-ag-documents
+ Note: The current AGM page already surfaces past meeting years back to 2017, so keep year-based access on-page rather than sending users into a separate archive flow.
+Module: FAQs List
+ <Heading> General meeting FAQs
+<SubHeading> Answer the key participation and voting questions
+<question> How can I participate in the Annual General Meeting?
+<Content copy> Clarify eligibility, participation format, registration steps, and where to find the official meeting notice and deadlines.
+<question> I am a shareholder and cannot attend the General Meeting. How can I cast my vote?
+<Content copy> Explain proxy voting, postal voting, and any required forms or deadlines.
+<question> I am a shareholder and would like to ask a written question at the Annual General Meeting. What do I do?
+<Content copy> Outline submission rules, timing, required shareholder proof, and where to send the question.
+<question> I am a shareholder and would like to put an item or draft resolution on the agenda for the Annual General Meeting. What do I do?
+<Content copy> Summarize the process, legal conditions, timing, and supporting documentation required.
+<links to> quadient.com/en-us/investor-relations/contact
+ <links to> quadient.com/en-us/investor-relations/quadient-share
+ Note: Pull these four AGM participation questions directly onto this page instead of leaving them on the separate Individual shareholders page.
+Module: Action Block
+ <Eyebrow> Need help
+<Heading> Need help preparing for this year’s meeting?
+<CTA> Contact IR
+<links to> quadient.com/en-us/investor-relations/contact
+ <Content copy> End with one clear support path so shareholders can get help without breaking the investor relations journey.

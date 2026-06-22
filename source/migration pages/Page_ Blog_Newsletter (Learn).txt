@@ -1,0 +1,147 @@
+﻿Page: Blog/Newsletter (Learn[a])
+Objective of the page: Introduce audience to our blog
+Future URL: https://www.quadient.com/en-us/blog
+Current URL or Current URLs which will be condensed into one URL: https://www.quadient.com/en-us/blog ; https://www.quadient.com/en-us [Proposed] https://mail.quadient.com/en/blog 
+Primary audiences
+• Early-stage buyers looking for educational, non-salesy insight on business automation, customer communications, mailing automation and finance workflows
+• Prospects evaluating Quadient categories who need practical articles, trends and best practices before entering a product journey
+• Visitors willing to subscribe for ongoing thought leadership and newsletter-style updates
+Secondary audiences
+• Existing customers looking for adoption ideas, industry perspectives and broader Quadient thought leadership
+• Partners, analysts and media tracking Quadient’s point of view, launches and market commentary
+Target keyword: Quadient blog
+Supporting keywords: business automation blog; mail automation, customer communications blog; finance automation blog; accounts payable automation articles; accounts receivable automation insights
+Page title: Quadient Blog | Insights for business automation
+Meta description: Explore Quadient blog articles, expert insights and newsletter content on customer communications, finance automation, and mailing automation.
+________________
+
+
+Module: Blog Header
+<Heading> Insights for smarter communications, finance and delivery operations
+<SubHeading> Explore practical articles, expert guidance and newsletter content across customer communications, finance automation, mailing and parcel delivery.
+Module: Siderail Navigation
+<Section links>
+<link> Featured stories
+<link> Browse by view
+<link> Explore by solution
+<link> Subscribe
+<link> More resources
+<Topic filters>
+<filter> Customer communications
+<filter> Finance automation
+<filter> Mail and shipping
+<filter> AI and compliance
+<Industry filters>
+<filter> Finance
+<filter> Insurance
+<filter> Public sector
+<filter> Utilities
+<filter> All industries
+<Sort options>
+<option> Latest
+<option> Most popular
+<option> Editor's pick
+Note: Preserve the current blog’s topic and industry filtering behavior, but surface it as a clearer persistent navigation system on desktop and a collapsible control on mobile.
+Module: Insights & Resources
+<Eyebrow> Featured
+<Heading> Start with these
+<CTA> View library
+<links to> https://www.quadient.com/en-us/resources
+<cards>
+<card>
+<Content Heading> Flagship trend article
+<Content copy> Use the lead card for the most commercially relevant thought-leadership piece or campaign-supporting article.
+<card>
+<Content Heading> Practical how-to guide
+<Content copy> Feature an education-led article that helps first-time visitors solve a real workflow problem quickly.
+<card>
+<Content Heading> Industry perspective
+<Content copy> Reserve one slot for an industry-specific story so the page feels broader than a product blog.
+Note: The lead featured story should be editorially controlled, not purely date-driven, so priority content keeps visibility longer.
+Module: Solutions Toggle
+<Heading> Choose how you want to browse
+<SubHeading> Let visitors switch between new content, evergreen winners and newsletter-style digests without losing page context.
+<CTA> See all
+<links to> https://www.quadient.com/en-us/resources
+<Content Heading> Latest
+<Content subheading> New this month
+<Content copy> Default view surfaces the newest articles in a 6-card grid with pagination or load more.
+<Content Heading> Popular
+<Content subheading> Best-performing reads
+<Content copy> Reuse evergreen, high-engagement posts for visitors who want foundational education instead of just recent updates.
+<Content Heading> Newsletter
+<Content subheading> In your inbox
+<Content copy> Show curated newsletter editions or digest-style editorial collections to build repeat readership and subscription intent.
+Note: This is the page’s main discovery mechanic. Keep filter state persistent as users toggle between views.
+Module: Solution Card Carousel
+<Eyebrow> Explore
+<Heading> Browse by solution
+<Content copy> Move readers from education into relevant solution journeys.
+<card>
+<Content Heading> Customer communications
+<Content copy> Route blog visitors into the customer communications solution journey.
+<links to> https://www.quadient.com/en-us/elevate-customer-communications
+<card>
+<Content Heading> Finance automation
+<Content copy> Connect AP, AR and invoicing content to the finance solution page.
+<links to> https://www.quadient.com/en-us/automate-finance-operations
+<card>
+<Content Heading> Mail and shipping
+<Content copy> Surface operational content for mailing and shipping transformation.
+<links to> https://www.quadient.com/en-us/modernize-mail-and-shipping
+<card>
+<Content Heading> Parcel delivery
+<Content copy> Give logistics-focused readers a clean route into parcel automation.
+<links to> https://www.quadient.com/en-us/streamline-parcel-delivery
+Module: CTA Form
+<Heading> Get Quadient insights in your inbox
+<CTA> Subscribe now
+<CTA Microcopy> Manage preferences
+<links to> https://www.quadient.com/en-us/preferences/manage
+Note: The sitemap does not list Newsletter as a standalone destination. Use Preference Center as the current opt-in path until a dedicated signup URL exists.
+Module: Insights & Resources
+<Eyebrow> More
+<Heading> Keep learning
+<CTA> View library
+<links to> https://www.quadient.com/en-us/resources
+<cards>
+<card>
+<Content Heading> Case studies
+<Content copy> Show proof for readers ready to move from education to validation.
+<CTA> Explore
+<links to> https://www.quadient.com/en-us/case-studies
+<card>
+<Content Heading> Webinars & events
+<Content copy> Offer deeper learning for visitors who prefer guided or live formats.
+<CTA> Explore
+<links to> https://www.quadient.com/en-us/webinars-events
+<card>
+<Content Heading> Knowledge hubs
+<Content copy> Bundle evergreen learning paths by topic for stronger content reuse.
+<CTA> Explore
+<links to> https://www.quadient.com/en-us/knowledge-hub
+<card>
+<Content Heading> Ebooks & papers
+<Content copy> Capture higher-intent visitors with more substantial downloadable content.
+<CTA> Explore
+<links to> https://www.quadient.com/en-us/ebooks-papers
+<card>
+<Content Heading> Calculators
+<Content copy> Route commercially engaged readers toward self-qualification tools.
+<CTA> Explore
+<links to> https://www.quadient.com/en-us/calculators
+<card>
+<Content Heading> FAQs
+<Content copy> Support quick-answer visitors without forcing another search journey.
+<CTA> Explore
+<links to> https://www.quadient.com/en-us/faqs
+Module: Action Block
+<Eyebrow> Next step
+<Heading> Need help applying what you’ve learned?
+<CTA> Talk to us
+<Content copy> Give high-intent readers a soft path into a Quadient conversation after they have engaged with educational content.
+<links to> https://www.quadient.com/en-us/contact-us
+Note: Keep this CTA lower-pressure than a product page. The page should remain discovery-led, with conversion built around subscription first and contact second.
+
+
+[a]I accidentally resolved JB's comment but here is the mapped page on Gemini: https://gemini.google.com/share/7e7712f2bf04

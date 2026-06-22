@@ -1,0 +1,197 @@
+﻿Page: Job Hub[a]
+Objective of the page: Job listing
+Future URL: quadient.com/en-us/careers/job-hub
+Current URL or Current URLs which will be condensed into one URL:
+• https://careers.quadient.com/en/jobs
+• https://careers.quadient.com/en/before-you-apply
+• https://careers.quadient.com/en/job-categories [Proposed]
+Primary audiences
+• Active candidates ready to discover and apply for open roles
+• Job seekers arriving from search, LinkedIn, referral and campaign traffic
+• Candidates who want to filter by function, location or work model before committing
+Secondary audiences
+• Passive candidates comparing employers and role categories
+• Early-career talent exploring Quadient as a future employer
+• Event or community prospects who are not ready to apply and need a lighter-touch entry point
+Target keyword: jobs at Quadient
+Supporting keywords: Quadient careers; Quadient job openings; open roles at Quadient; how to apply at Quadient; job categories at Quadient
+Page title: Jobs at Quadient | Search Open Roles
+Meta description: Search open roles at Quadient by team, location and work model. Get application guidance, explore life at Quadient and take the next step.
+ 
+Module: Hero Standard
+<Eyebrow> Careers
+<h1> Explore open roles at Quadient
+<SubHeading>  Find roles that match your team, location and how you work best
+<CTA> Search roles
+<CTA Microcopy> Live openings only
+<Content copy> Explore open roles, narrow your options and apply with confidence.
+<links to> #open-roles
+Module: Siderail Navigation (should match exactly visible headers on the page)
+<nav item> Open roles
+<links to> #open-roles
+<nav item> Job categories
+<links to> #job-categories
+<nav item> Before you apply
+<links to> #before-you-apply
+<nav item> Hiring process
+<links to> #hiring-process
+<nav item> Life at Quadient
+<links to> quadient.com/en-us/careers/life-at-quadient
+<nav item> Offices
+<links to> quadient.com/en-us/careers/offices
+<nav item> Events
+<links to> quadient.com/en-us/careers/events
+<nav item> Connect Hub
+<links to> quadient.com/en-us/careers/connect-hub
+Module: Solutions Toggle
+<anchor id> open-roles
+<Heading> Filter roles by team, location and how you work.
+<Subheading> Use filters to quickly find roles that fit you.
+<Content Heading> By team
+<Content subheading> Function first
+<Content copy> Explore roles across teams like Sales, Product and Engineering, Customer Operations and more
+<Content Heading> By location
+<Content subheading> Region first
+<Content copy> Browse roles by region, then narrow down to specific office locations
+<Content Heading> By work model
+<Content subheading> Flexibility first
+<Content copy> Filter roles by how you work, remote, hybrid or on-site
+<CTA> View all
+<links to> #job-results
+Note: Use the live ATS feed from https://careers.quadient.com/en/jobs inside this module shell so filters, counts and listings stay current.
+
+
+Module: Product Card Listing
+<anchor id> job-results
+<Eyebrow> Open roles
+<Heading> Current opportunities
+<SubHeading> ATS-powered role cards with title, location, team, work model, posted date and a direct apply entry point.
+<filter> Search by keyword
+<filter> Team
+<filter> Location
+<filter> Work model
+<filter> Clear all
+<sort> Most relevant
+<card pattern>
+<Eyebrow> Function
+<Heading> Role title
+<SubHeading> City, country | hybrid/remote/on-site | posted date
+<Primary CTA> Apply now
+<links to> ATS role detail page
+Note: Default to the highest-conversion sort order and lazy-load additional roles after the initial result set to keep scanning fast.
+
+
+Module: Product Family Card
+<anchor id> job-categories
+<h2> Explore roles by category
+
+
+
+
+<Description>  Quickly find roles that match your area of interest
+<card>
+<Heading> Sales & Success
+<Content copy> Drive revenue, manage accounts and grow customer relationships
+<CTA> See roles
+<links to> #open-roles
+<card>
+<Heading> Product & Engineering
+<Content copy> Build and scale digital experiences.
+<CTA> See roles
+<links to> #open-roles
+<card>
+<Heading> Operations & Support
+<Content copy> Support customers and keep operations running smoothly
+<CTA> See roles
+<links to> #open-roles
+<card>
+<Heading> Finance & Corporate
+<Content copy> Support the business through finance and shared services
+<CTA> See roles
+<links to> #open-roles
+<card>
+<Heading> People & Talent
+<Content copy> Shape culture, hiring and employee experience.
+<CTA> See roles
+<links to> #open-roles
+Note: Each category card should apply the corresponding live filter on-page rather than sending users to a separate category page.
+
+
+Module: 50-50 Block
+<anchor id> before-you-apply
+<Eyebrow> Before applying
+<Heading> Prepare once, apply with confidence
+<CTA> Get ready
+<CTA Microcopy> Key steps first
+<Content copy> Everything you need to get ready and start your application
+<bullet> Prepare a resume/CV and any relevant portfolio or work samples requested for the role.
+<bullet> Clarify location, travel or work authorization expectations before the application begins.
+<bullet> Explain account creation, confirmation email and how candidates can return to saved applications.
+<bullet> Set expectations for response timing and where next-step communication will appear.
+Module: Timeline Block
+<anchor id> hiring-process
+<Eyebrow> Process
+<Heading> What happens next
+<SubHeading> Here’s what to expect after you apply
+<Content Heading> Discover
+<Content copy> Search roles, filter your options and find the best fit
+<Content Heading> Apply
+<Content copy> Submit your application with your resume and any required details
+<Content Heading> Review
+<Content copy> Our team reviews applications and reaches out with next steps
+<Content Heading> Interview
+<Content copy> Interview stages vary by role and may include manager, panel or role-based exercises
+<Content Heading> Decision
+<Content copy> We’ll keep you informed and share updates along the way.
+<CTA> Join hub
+<CTA Microcopy> Stay informed
+<links to> quadient.com/en-us/careers/connect-hub
+Module: Insights & Resources
+<Eyebrow> Explore
+<Heading> Learn more
+<CTA> See hub
+<links to> quadient.com/en-us/careers/connect-hub
+<card>
+<Content Heading> Life at Quadient
+<Content copy> Culture, values and what it's like to work here.
+<links to> quadient.com/en-us/careers/life-at-quadient
+<card>
+<Content Heading> Offices
+<Content copy> Discover our locations and where you could work.
+<links to> quadient.com/en-us/careers/offices
+<card>
+<Content Heading> Events
+<Content copy> Join upcoming events and connect with our team.
+<links to> quadient.com/en-us/careers/events
+<card>
+<Content Heading> Connect Hub
+<Content copy> Stay connected and hear about future opportunities.
+<links to> quadient.com/en-us/careers/connect-hub
+Note: Keep supporting exploration below the core job search modules so secondary journeys build confidence without distracting from the primary apply path.
+
+
+Module: FAQs List
+<Heading> Have questions before you apply?
+<SubHeading> Find answers to common questions before you apply.
+<question> How do I narrow the open roles list quickly?
+<answer> Use filters to search by team, location and how you work, or enter keywords to find relevant roles.
+<question> What if I don’t see a role that fits right now?
+<answer> Join our Connect Hub to stay updated on new roles and upcoming events
+<question> Where can I learn what it is like to work at Quadient?
+<answer> Explore Life at Quadient and our office locations to learn more about our culture and teams
+<question> What should I prepare before starting an application?
+<answer> Have your resume/CV ready, along with any requested work samples and the eligibility details relevant to the role of location.
+<question> How will I know my application was submitted?
+<answer> You’ll receive a confirmation email and updates on next steps after you apply.
+Note: Validate any country-specific employment or application guidance with HR/legal before publishing.
+
+
+Module: CTA Form
+<Heading> Didn't find the right role today?
+<CTA> Join hub
+<CTA Microcopy> Get future openings
+<links to> quadient.com/en-us/careers/connect-hub
+Note: If a lightweight talent-community signup can be embedded here, use it; otherwise route to Connect Hub as the fallback conversion path.
+
+
+[a]Mapped page here: https://gemini.google.com/share/ddddc2b601aa

@@ -1,0 +1,74 @@
+﻿Page: Financial Results
+Objective of the page: Latest financial results
+Future URL: quadient.com/en-us/investor-relations/financial-results
+Current URL or Current URLs which will be condensed into one URL: https://invest.quadient.com/en/financial-results
+Primary audiences
+Current shareholders
+Prospective investors
+Buy-side and sell-side analysts
+Financial journalists
+Secondary audiences
+Employees seeking official IR materials
+Partners and stakeholders monitoring company performance
+Target keyword
+quadient financial results
+Supporting keywords
+quadient annual results
+quadient half-year results
+quadient quarterly sales
+quadient webcast
+quadient investor presentation
+Page title
+Financial results | Quadient Investor Relations
+Meta description
+Access Quadient’s latest financial results, presentation materials and webcast replay, then browse past results by year, reporting period and document type.
+________________
+
+
+Module: Announcement Banner
+<Heading> Latest results
+<SubHeading> Surface 2 direct access points to the latest webcast and the latest presentation above the archive.
+<CTA> Watch webcast
+<links to> Dynamic latest webcast asset
+<CTA> View presentation
+<links to> Dynamic latest presentation asset
+Module: Editorial Content Block
+<Eyebrow> Results
+<Heading> Find results by year and type
+<CTA> View archive
+<links to> #results-table
+<Content copy> Find Quadient results by year, interim period, and by type of document. Watch our webcasts to review the presentation of the quarterly and annual results.
+Module: Insights & Resources
+<Eyebrow> Latest
+<Heading> News results
+<CTA> View all
+<links to> Dynamic latest results listing
+<card> <h3> Latest results press release <Description> Most recent results announcement surfaced first for fast scanning. <CTA> Read release <links to> Dynamic latest press release asset <card> <h3> Latest presentation <Description> Most recent investor presentation aligned to the current reporting period. <CTA> View file <links to> Dynamic latest presentation asset <card> <h3> Latest webcast <Description> Replay link for the latest quarterly or annual results presentation. <CTA> Watch replay <links to> Dynamic latest webcast asset
+Module: Siderail Navigation
+<h2> Filter by year <year> 2025 <year> 2024 <year> 2023 <year> 2022 <year> 2021 <year> 2020 <year> 2019
+Note: Use a dropdown interaction on smaller screens and a persistent year selector on desktop. The workbook specifies filtering by year from 2019 to 2025. Default to the latest available year.
+Module: Comparison Table
+<Eyebrow> Archive
+<Heading> Results table
+<SubHeading> Organize content by reporting period and document type so investors can scan quickly.
+<Column Header> Q1
+<Column Header> Q2-H1
+<Column Header> Q3
+<Column Header> Q4-H2
+<Table Row> Press release <Table Row> Presentation <Table Row> Webcast <Table Row> Report
+Module: Summary Card
+<h2> Table behavior <Description> Keep the latest year selected by default. Within each year, display the full matrix of reporting periods and asset types in one consistent view.
+<bullet> Latest year preselected
+<bullet> One row per document type
+<bullet> One column per reporting period
+<bullet> Direct asset links from each populated cell
+<bullet> No extra navigation required to reach latest materials
+Module: Promo Banner
+<Heading> Investor contact
+<Content copy> Need help finding a document or investor resource?
+<CTA> Contact IR
+<links to> quadient.com/en-us/investor-relations/contact
+[a]
+
+
+[a]visual mockup: https://gemini.google.com/share/08467acc116d

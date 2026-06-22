@@ -1,0 +1,75 @@
+﻿Page: Market-based Financing
+
+Objective of the page: Debt and market operations information
+Future URL: quadient.com/en-us/investor-relations/market-based-financing
+Current URL or Current URLs which will be condensed into one URL: https://invest.quadient.com/en/market-based-financing
+Primary audiences
+Debt investors and bondholders
+Sell-side and buy-side analysts
+Institutional investors reviewing Quadient’s capital structure
+Secondary audiences
+Prospective investors
+Rating agencies
+Financial media
+Legal and compliance stakeholders looking for historical financing documents
+Target keyword: market-based financing
+Supporting keywords: Quadient debt, capital structure information, notes and prospectus, debt emissions press releases, investor relations financing
+Page title: Market-based financing | Quadient Investor Relations
+Meta description: Access Quadient debt and market operations information, including notes, prospectus materials and debt-related press releases, in one streamlined investor relations page.
+
+
+________________
+
+
+
+
+Module: Hero Standard
+<Eyebrow> Investor relations
+<h1> Market-based financing information hub <SubHeading> Access Quadient debt and market operations materials in one streamlined investor relations page. <CTA> Contact IR <CTA Microcopy> For financing questions <Content copy> Bring prospectus materials and debt-related releases together so investors and analysts can find capital structure information without hunting across legacy pages. <links to> quadient.com/en-us/investor-relations/contact
+Module: Big Idea Panel
+<h2> Debt information, organized for faster access <SubHeading> Prioritize findability, chronology and legal clarity over promotional messaging.
+Module: Siderail Navigation
+<link> Notes and prospectus <links to> #notes-and-prospectus <link> Debt emission press releases <links to> #debt-emission-press-releases <link> Financial results <links to> quadient.com/en-us/investor-relations/financial-results <link> Capital market day <links to> quadient.com/en-us/investor-relations/capital-market-day <link> Regulated information <links to> quadient.com/en-us/investor-relations/regulated-information <link> Contact <links to> quadient.com/en-us/investor-relations/contact
+Module: Announcement Banner
+<Heading> Access notice
+<SubHeading> Some notes and prospectus materials require a legal eligibility disclaimer, so the notice should sit directly above the document table.
+<CTA> View terms
+<links to> #notes-and-prospectus
+
+Module: Comparison Table
+<Eyebrow> Documents
+<h2> Notes and prospectus archive <SubHeading> Filter by year and document type. <Column Header> Year <Column Header> Type <Column Header> Document <Column Header> Date <Table Row> 2026 <Table Row> 2025 <Table Row> 2024 <Table Row> 2021 <Table Row> 2019 <CTA> View all <links to> #notes-and-prospectus Note: Keep this as the core utility module of the page. It should support year-based filtering and document-type filtering, with the latest year open by default. Note: Under document type, prioritize Notes, Prospectus, Amendments, Final Terms, and any related market-operation materials validated by IR/legal.
+Module: Timeline Block
+<Eyebrow> Releases
+<Heading> Debt releases
+<SubHeading> Group press releases related to debt emissions by year, with the most recent year expanded by default.
+<CTA> View all
+<CTA Microcopy> Sorted by year
+<Content Heading> 2026 releases
+<Content copy> Issuance announcements, completion notices and financing updates listed in reverse chronological order.
+<Content Heading> 2025 releases
+<Content copy> Same structure as above, preserving fast scanability for analysts reviewing recent activity.
+<Content Heading> Archive releases
+<Content copy> Retain older financing press releases in clearly labeled archive years, including 2024, 2021 and 2019 where relevant.
+Module: Insights & Resources
+<Eyebrow> Related
+<Heading> Continue exploring IR
+<CTA> View all
+<card> Financial results
+<links to> quadient.com/en-us/investor-relations/financial-results
+<card> Capital market day
+<links to> quadient.com/en-us/investor-relations/capital-market-day
+<card> Regulated information
+<links to> quadient.com/en-us/investor-relations/regulated-information
+<card> Investor relations hub
+<links to> quadient.com/en-us/investor-relations
+<card> Contact investor relations
+<links to> quadient.com/en-us/investor-relations/contact
+Module: FAQs List
+<h2> Market-based financing page FAQs <SubHeading> Answer the questions investors ask before they contact IR. <question> What documents are included in the notes and prospectus section? <question> Why is access to some prospectus materials restricted? <question> Where can I find press releases related to debt emissions? <question> How is this page different from regulated information? <question> Who should I contact about historical financing materials? Note: Keep answers concise and factual. This is primarily a friction-reduction module, not an SEO expansion module.
+Module: Action Block
+<Eyebrow> Contact
+<Heading> Need additional detail on Quadient financing activity?
+<CTA> Contact IR
+<Content copy> Use the investor relations contact page for document requests, clarification on historical debt materials, or market-operations questions.
+<links to> quadient.com/en-us/investor-relations/contact

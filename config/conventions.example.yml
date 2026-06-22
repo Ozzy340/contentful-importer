@@ -1,0 +1,48 @@
+defaults:
+  locale: en-US
+  documentContentType: contentPage
+  defaultParent:
+    enabled: false
+    entryId: contentPage--default-parent
+
+naming:
+  parentEntryIdPattern: "{{contentType}}--{{slug}}"
+  childEntryIdPattern: "{{parentId}}--{{componentSlug}}--{{index}}"
+  assetIdPattern: "asset--{{documentSlug}}--{{basename}}"
+  slugStyle: kebab
+  childIndexPadding: 3
+
+sandboxes:
+  requireExplicitNonSandbox: true
+  allowedPrefixes:
+    - sandbox
+    - dev
+    - qa
+    - stage
+    - uat
+
+tags:
+  createIfMissing: false
+  namespaceSeparator: ":"
+
+taxonomy:
+  attachConcepts: false
+  requireMappings: true
+
+assets:
+  titleFallback: Imported asset
+  sharedPlaceholder:
+    enabled: false
+    mode: missing-only
+    assetId: asset--import-placeholder
+    sourcePath: source/assets/uat-placeholder.svg
+    title: Imported placeholder image
+    description: Shared placeholder image used while final media is pending.
+
+cli:
+  bin: contentful
+  exportConfigFile: exports/model-export.config.json
+  exportFile: exports/content-model-export.json
+  enableModelExport: true
+  enableTaxonomyExport: false
+  taxonomyExportCommand: ""

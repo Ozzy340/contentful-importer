@@ -1,0 +1,115 @@
+﻿Page: Financial Information
+Objective of the page: Financial information hub
+Future URL: quadient.com/en-us/investor-relations/financial-information
+Current URLs which will be condensed into one URL: https://invest.quadient.com/en/quadient-investor-relations
+; https://invest.quadient.com/en/financial-results
+; https://invest.quadient.com/en/market-based-financing
+; https://invest.quadient.com/en/regulated-information
+; https://invest.quadient.com/en/stock-price
+; https://invest.quadient.com/en/shareholders
+Primary audiences
+Institutional investors
+Equity analysts
+Current and prospective shareholders
+Secondary audiences
+Individual shareholders
+Financial media
+Governance and compliance researchers
+Target keyword
+quadient financial information
+Supporting keywords
+quadient financial results
+quadient regulated information
+quadient market-based financing
+quadient share
+quadient stock price
+________________
+
+
+Page title: Financial Information | Quadient Investor Relations
+Meta description
+Access Quadient financial results, market-based financing, regulated information, and share-related resources from one Investor Relations hub.
+
+
+________________
+
+
+
+
+Module: Hero Standard
+<Eyebrow> Investor Relations
+<Heading> Financial information, organized for faster access
+<SubHeading> Start with the latest results, then move quickly to financing, disclosures, and share information
+<CTA> View results
+<CTA Microcopy> Latest presentation and webcast
+<Content copy> Give investors one clear starting point for the latest performance update, with fast access to the most recent presentation, webcast, and the key financial pages that support deeper review.
+<links to> /en-us/investor-relations/financial-results
+Module: Siderail Navigation
+<link> Latest results <links to> /en-us/investor-relations/financial-results <link> Market-based financing <links to> /en-us/investor-relations/market-based-financing <link> Regulated information <links to> /en-us/investor-relations/regulated-information <link> Quadient share <links to> /en-us/investor-relations/quadient-share <link> Capital Market Day <links to> /en-us/investor-relations/capital-market-day <link> Investor Relations contact <links to> /en-us/investor-relations/contact
+Module: Announcement Banner
+<Heading> Latest financial results
+<SubHeading> Go straight to the most recent full-year or half-year results, with direct access to the latest presentation and webcast.
+<CTA> See results
+<links to> /en-us/investor-relations/financial-results
+Module: Solution Card Carousel
+<Eyebrow> Explore
+<Heading> Core financial pages
+<Content copy> Separate the main investor routes clearly, so users can move straight to the content they need.
+<card> <Content Heading> Financial Results <Content copy> Access the latest results, then browse archived materials by year, quarter, and content type, including presentations, webcasts, reports, and press releases. <CTA> View page <links to> /en-us/investor-relations/financial-results <card> <Content Heading> Capital Market Day <Content copy> Explore Capital Market Day materials by year, with direct access to event presentations, webcasts, and related announcements. <CTA> View page <links to> /en-us/investor-relations/capital-market-day <card> <Content Heading> Market-based Financing <Content copy> Review notes, prospectus materials, and debt-related press releases in one dedicated financing section. <CTA> View page <links to> /en-us/investor-relations/market-based-financing <card> <Content Heading> Regulated Information <Content copy> Find regulated disclosures, reports, and filings in one trusted location, with clear filtering by document type and date. <CTA> View page <links to> /en-us/investor-relations/regulated-information
+Note: The current site already separates these topics into dedicated destinations, so this module should work as the core routing block rather than duplicating full-page content.
+Module: Big Idea Panel
+<Heading> Built to reduce friction for investors
+<SubHeading> This hub should make it easier to reach the latest materials, review archived financial information, and move confidently across the core Investor Relations pages.
+Module: Product Family Card
+<Heading> Stock Quote
+<CTA> View quote
+<Content copy> Live stock price and chart access.
+<links to> /en-us/investor-relations/share-price
+Note: Destination to validate against the proposed future slug /en-us/investor-relations/stock-quote.
+Module: Product Family Card
+<Heading> Analysts
+<CTA> View list
+<Content copy> Analyst coverage and market visibility.
+<links to> /en-us/investor-relations/analysts
+Module: Product Family Card
+<Heading> Quadient Share
+<CTA> View details
+<Content copy> Share capital, capital structure, dividends, and shareholder information.
+<links to> /en-us/investor-relations/quadient-share
+Note: The current stock/share experience already contains stock information, live quote access, analysts, share capital, capital structure, and dividends, so the hub should deep-link into those pages rather than recreate them.
+Module: 50-50 Block
+<Eyebrow> Event
+<Heading> Keep Capital Market Day easy to find
+<CTA> View page
+<CTA Microcopy> Materials organized by year
+<Content copy> Give Capital Market Day a strong place within the hub for investors looking for annual strategy updates, event materials, and archived content.
+<links to> /en-us/investor-relations/capital-market-day
+Module: USP listing
+<Eyebrow> Why this page
+<Heading> What investors should be able to find quickly
+<SubHeading> Use this module to reinforce the practical value of the hub
+<Content Heading> Latest performance update
+<Content subheading> Immediate access to the newest results materials, including the latest presentation and webcast
+<Content Heading> Financing materials
+<Content subheading> Clear access to notes, prospectus information, and debt-related communications
+<Content Heading> Regulated disclosures
+<Content subheading> A trusted route to reports, filings, and other regulated documents
+<Content Heading> Share and market data
+<Content subheading> Fast access to stock quote, analyst coverage, and shareholder information
+Module: Action Block
+<Eyebrow> Contact
+<Heading> Need a direct Investor Relations contact?
+<CTA> Contact IR
+<Content copy> Keep a visible route for investors and analysts who need support beyond the published materials.
+<links to> /en-us/investor-relations/contact
+Note: Destination to validate if the final IR slug becomes /en-us/investor-relations/contacts.
+Module: Mega CTA
+<Heading> Explore more
+<links to> /en-us/investor-relations/financial-results
+<link label> Financial Results
+<links to> /en-us/investor-relations/capital-market-day
+<link label> Capital Market Day
+<links to> /en-us/investor-relations/market-based-financing
+<link label> Market-based Financing
+<links to> /en-us/investor-relations/regulated-information
+<link label> Regulated Information

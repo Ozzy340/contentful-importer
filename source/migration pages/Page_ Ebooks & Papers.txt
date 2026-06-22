@@ -1,0 +1,110 @@
+﻿Page: Ebooks & Papers[a]
+Objective of the page: List all Quadient white papers and ebooks in one filterable discovery experience.
+Future URL: https://www.quadient.com/en-us/ebooks-papers
+Current URL or Current URLs which will be condensed into one URL
+·         https://www.quadient.com/en-us/ebooks-papers
+·         https://www.quadient.com/en-us [Proposed]
+Primary audiences
+·         Mid-funnel buyers researching Quadient solution areas.
+·         Practitioners looking for downloadable guidance before talking to sales.
+·         Visitors from organic search, nurture, and campaign traffic seeking deeper education.
+Secondary audiences
+·         Existing prospects needing proof and supporting content.
+·         Sales and partner teams reusing assets in follow-up.
+·         Analysts and researchers reviewing Quadient thought leadership.
+Target keyword: ebooks and white papers
+Supporting keywords: business automation ebooks; finance automation white papers; customer communications ebooks; downloadable guides; Quadient resources
+Page title: Ebooks & white papers | Quadient
+Meta description: Browse Quadient ebooks and white papers by topic, industry and solution to find practical guidance on automation, communications and operational efficiency.
+________________
+
+
+Module: Hero Standard
+<Eyebrow> Resources
+<Heading> Ebooks & white papers
+<SubHeading> Browse downloadable guidance by topic, industry and solution.
+<CTA> All resources
+<CTA Microcopy> Explore every format
+<links to> https://www.quadient.com/en-us/resources
+<Content copy> Make this the dedicated destination for mid-funnel, downloadable content that helps buyers research before they convert.
+Note: Keep the hero clear and utility-led. This page should feel like a library, not a campaign landing page.
+Module: Editorial Content Block
+<Eyebrow> Featured
+<Heading> Start with the most useful download
+<CTA> Read now
+<links to> Note: destination to validate
+<Content copy> Use this slot for the newest flagship ebook, annual report, or campaign-priority asset.
+Note: Rotate this module based on campaign priorities, new launches, or the strongest-converting gated asset.
+Module: Solutions Toggle
+<Heading> Browse by the job to be done
+<SubHeading> Help visitors self-select before they scan the full library.
+<CTA> Browse all
+<Content Heading> Finance automation
+<Content subheading> Cash flow control
+<Content copy> Surface AR, AP, invoicing, and payments assets for finance buyers researching operational efficiency.
+<Content Heading> Customer communications
+<Content subheading> Compliance and CX
+<Content copy> Surface CCM, billing communications, and omnichannel engagement assets for teams modernizing customer interactions.
+<Content Heading> Regulated industries
+<Content subheading> Vertical-specific guidance
+<Content copy> Surface resources for finance, insurance, utilities, and public sector visitors who need contextualized proof.
+Note: Use the toggle to pre-apply on-page filters rather than sending users to separate destinations.
+Module: Siderail Navigation
+<Heading> Filter and sort
+<Filter group> Format
+<Options> Ebook; White paper
+<Filter group> Solution
+<Options> Customer communications; Finance automation; Mail & shipping; Parcel delivery
+<Filter group> Industry
+<Options> Finance; Insurance; Utilities; Public sector; Healthcare; Retail
+<Filter group> Topic
+<Options> Billing; Payments; Compliance; Digital transformation; Customer experience
+<Filter group> Sort
+<Options> Newest; Most popular; Recommended
+Note: Power the filter rail from CMS taxonomy so new assets appear automatically without manual page edits.
+Note: Support multi-select and preserve filter state when users open and close a gated asset.
+Module: Insights & Resources
+<Eyebrow> Library
+<Heading> Browse all downloads
+<CTA> All resources
+<links to> https://www.quadient.com/en-us/resources
+<Card layout> 3-up desktop grid; 1-up mobile; paginate or lazy-load after the first 12 assets.
+<Card fields> Format label; title; 1-2 line summary; topic, solution, and industry tags; publish date; CTA.
+<CTA> Download
+<links to> Note: dynamic destination to asset landing page or gated form page to validate
+<Default sort> Newest
+<Optional utility> Keyword search above results
+Note: Use this module as the core engine of the page, pulling every CMS asset tagged ebook or white paper only.
+Note: Required CMS metadata should include format, solution, industry, topic, funnel stage, publish date, and gating status.
+Note: Show whether an asset is gated before click so expectations stay clear.
+Module: Insights & Resources
+<Eyebrow> More resources
+<Heading> Keep exploring
+<CTA> View all
+<links to> https://www.quadient.com/en-us/resources
+<card> Case Studies
+<Description> For proof, outcomes, and customer stories.
+<CTA> Explore
+<links to> https://www.quadient.com/en-us/case-studies
+<card> Webinars & Events
+<Description> For live or on-demand education.
+<CTA> Explore
+<links to> https://www.quadient.com/en-us/webinars-events
+<card> Knowledge Hub
+<Description> For evergreen educational content.
+<CTA> Explore
+<links to> https://www.quadient.com/en-us/knowledge-hub
+<card> Blog / Newsletter
+<Description> For regular thought leadership and updates.
+<CTA> Explore
+<links to> https://www.quadient.com/en-us/blog
+Module: CTA Form
+<Heading> Need help finding the right resource fast?
+<CTA> Contact us
+<CTA Microcopy> Ask for guidance
+<links to> https://www.quadient.com/en-us/contact-us
+Note: Keep this secondary to the core conversion path: filtering into relevant gated assets and downloadable content.
+
+
+[a]Mapped page here
+https://gemini.google.com/share/06dfd1a44a9f

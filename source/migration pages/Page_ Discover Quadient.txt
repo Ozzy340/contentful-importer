@@ -1,0 +1,144 @@
+﻿https://gemini.google.com/share/33b302b770d5
+Page: Discover Quadient[a]
+
+Objective of the page: Investor Relations entry page
+quadient.com/en-us/investor-relations/discover-quadient
+Take wording and content from Current URL: https://invest.quadient.com/en/quadient-investor-relations
+Primary audiences
+Institutional investors
+Sell-side analysts
+Existing shareholders
+Prospective investors
+Secondary audiences
+Individual shareholders
+Financial media
+Governance-focused stakeholders
+Partners conducting corporate due diligence
+Target keyword
+quadient investor relations
+Supporting keywords
+quadient activities
+quadient strategy
+quadient governance
+quadient financial results
+quadient share information
+Page title: Discover Quadient | Investor Relations | Quadient
+Meta description: Start your investor journey with Quadient. Explore Quadient’s activities, strategy, governance, financial results, and share information. Access key investor resources and contacts.
+________________
+
+
+Module: Hero Standard
+<eyebrow> Investors
+<h1> Discover Quadient
+<SubHeading> See how Quadient creates long-term value through its business model, strategy, and governance.
+<Content copy> Access key information on activities, performance, disclosures, and share data.
+<CTA> View results 
+<CTA Microcopy> Latest published results 
+<links to> `quadient.com/en-us/investor-relations/financial-results`
+
+
+________________
+
+
+Module: 50-50 Block
+<eyebrow> Overview
+<h2> How Quadient operates across its business
+<Content copy> Start with Quadient’s activities to see how the business runs day to day, within its broader strategy and governance.
+<CTA> See activities 
+<CTA Microcopy> Explore the business 
+<links to> `quadient.com/en-us/investor-relations/activities`
+
+
+________________
+
+
+Module: Product Card Listing
+<eyebrow> Start here
+<h2> Key areas to understand Quadient
+<SubHeading> Choose a focus area to understand how Quadient runs, grows, and is managed.
+<card> 
+<h3> Our activities 
+<Description> What Quadient does, where it operates, and how it generates revenue.
+<CTA> View activities 
+<links to> `quadient.com/en-us/investor-relations/activities` 
+<card> 
+<h3> Our strategy 
+<Description> How Quadient drives growth, allocates capital, and delivers long-term performance.
+<CTA> View strategy 
+<links to> `quadient.com/en-us/investor-relations/strategy` 
+<card> 
+<h3> Our governance 
+<Description> How leadership and oversight ensure accountability and support decision-making.
+<CTA> View governance 
+<links to> https://www.quadient.com/en-us/team
+
+
+________________
+
+
+Module: Solutions Toggle
+<h2> Key investor information and updates
+<SubHeading> Find performance data, disclosures, share information, and key dates.
+<Content Heading> Financial results
+<Content subheading> Performance updates
+<Content copy> Access annual and interim results, presentations and webcasts. 
+<CTA> View results
+<links to> quadient.com/en-us/investor-relations/financial-results
+<Content Heading> Quadient share
+<Content subheading> Share information
+<Content copy> View share price data, market information, and investor resources.
+<CTA> View share information
+<links to> quadient.com/en-us/investor-relations/quadient-share
+<Content Heading> Regulated information
+<Content subheading> Required disclosures
+<Content copy> Access official disclosures and regulatory filings.
+<CTA> View disclosures
+<links to> quadient.com/en-us/investor-relations/regulated-information
+<Content Heading> Calendar
+<Content subheading> Key dates
+<Content copy> View upcoming reporting dates and investor events.
+<CTA> View calendar
+<links to> quadient.com/en-us/investor-relations/contacts-calendar
+<Content Heading> Contacts
+<Content subheading> Investor support
+<Content copy> Contact the Investor Relations team for enquiries and support.
+<CTA> Contact Investor Relations
+<links to>`quadient.com/en-us/investor-relations/contacts-calendar`
+________________
+
+
+Module: Action Block
+<eyebrow> Calendar
+<h2> Upcoming investor events and reporting dates 
+<Content copy> Stay up to date on reporting dates, earnings releases, and key events. 
+<CTA> View calendar 
+<links to> `quadient.com/en-us/investor-relations/contacts-calendar`
+________________
+
+
+Module: Insights & Resources
+<eyebrow> Resources
+<h2> Key investor resources 
+<CTA> View more 
+<card> 
+<h3> Financial results 
+<Description> Results, presentations, and webcast replays. 
+<links to> `quadient.com/en-us/investor-relations/financial-results` 
+<card> 
+<h3> Market-based financing 
+<Description> Debt structure and financing information for investors and analysts. 
+<links to> `quadient.com/en-us/investor-relations/market-based-financing`
+ <card> 
+<h3> General meeting 
+<Description> Meeting materials, voting information, and archives. 
+<links to> `quadient.com/en-us/investor-relations/general-meeting`
+________________
+
+
+Module: Action Block
+<eyebrow> Contact
+<h2> Contact Investor Relations 
+<Content copy> Get in touch for investor information, shareholder support, or analyst enquiries.
+<CTA> Contact Investor Relations  
+<links to> `quadient.com/en-us/investor-relations/contact-calendar`
+[a]mapped here: https://gemini.google.com/share/52e4d405b631

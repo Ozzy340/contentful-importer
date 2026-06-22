@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">UAT placeholder image</title>
+  <desc id="desc">A simple placeholder image for UAT content imports.</desc>
+  <rect width="1600" height="900" fill="#f4f4f2"/>
+  <path d="M0 680 C260 560 420 760 690 620 C960 480 1120 560 1600 430 L1600 900 L0 900 Z" fill="#e66a2c" opacity="0.18"/>
+  <path d="M0 210 C250 120 420 260 650 180 C920 80 1140 170 1600 70 L1600 0 L0 0 Z" fill="#42464d" opacity="0.10"/>
+  <g fill="none" stroke="#42464d" stroke-width="3" opacity="0.35">
+    <circle cx="520" cy="430" r="84"/>
+    <circle cx="800" cy="430" r="84"/>
+    <circle cx="1080" cy="430" r="84"/>
+    <path d="M604 430 H716 M884 430 H996"/>
+  </g>
+  <text x="800" y="560" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="42" fill="#42464d">UAT content placeholder</text>
+</svg>

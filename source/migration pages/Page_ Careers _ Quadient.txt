@@ -1,0 +1,120 @@
+﻿Page:  Careers | Quadient[a]
+Objective of the page: Careers home that lets candidates search jobs immediately while also acting as the main careers hub for culture, locations, events and talent community pathways.
+Future URL: quadient.com/en-us/careers/life-at-quadient
+Current URLs which will be condensed into one URL:
+·         https://www.quadient.com/en/careers-quadient
+·         https://careers.quadient.com/
+·         https://careers.quadient.com/en/jobs
+·         https://careers.quadient.com/en/why-quadient
+·         https://careers.quadient.com/en/empowered-culture
+·         https://careers.quadient.com/en/learning-and-growth
+·         https://careers.quadient.com/en/belonging-together
+·         https://careers.quadient.com/en/locations
+·         https://careers.quadient.com/en/connect-hub
+·         https://careers.quadient.com/en/events
+Primary audiences
+·         Active job seekers ready to search open roles by keyword, function or location
+·         Passive candidates evaluating Quadient’s culture, growth opportunities and employer brand
+·         Experienced professionals in sales, digital, consulting, finance, operations and product-adjacent roles
+Secondary audiences
+·         Early-career candidates exploring future-fit employers
+·         Candidates comparing global offices, hybrid flexibility and regional opportunities
+·         Talent-community members and event attendees not ready to apply yet
+Target keyword: quadient careers
+Supporting keywords: careers at Quadient; Quadient jobs; life at Quadient; Quadient job hub; Quadient offices; Quadient careers events
+Page title: Careers at Quadient | Search jobs and explore life at Quadient
+Meta description: Explore careers at Quadient, search open jobs, discover our culture, learning opportunities, global locations and ways to stay connected.
+________________
+
+
+Module: Hero Standard
+<Eyebrow> Careers
+<Heading> Find your future at Quadient
+<SubHeading> Search open roles and discover life at Quadient.
+<CTA> Search jobs
+<CTA Microcopy> Updated roles every day
+<Content copy> Make job discovery the first action while also signaling culture, growth, flexibility and global opportunities above the fold.
+<links to> https://www.quadient.com/en-us/careers/job-hub
+Module: Solutions Toggle
+<Heading> Explore careers from every angle at Quadient
+<SubHeading> This module should help visitors self-select by intent instead of forcing one linear path.
+<Content Heading> Search jobs
+<Content subheading> Job Hub
+<Content copy> Give high-intent candidates the fastest route to searchable openings, saved jobs and job alerts.
+<CTA> Explore
+<links to> https://www.quadient.com/en-us/careers/job-hub
+<Content Heading> Life at Quadient
+<Content subheading> Culture and growth
+<Content copy> Position this page as the narrative employer-brand destination covering purpose, values, development and belonging.
+<Content Heading> Global footprint
+<Content subheading> Offices
+<Content copy> Help candidates browse by region and understand hybrid or remote work options.
+<CTA> Explore
+<links to> https://www.quadient.com/en-us/careers/offices
+<Content Heading> Stay connected
+<Content subheading> Connect Hub
+<Content copy> Capture passive talent through talent-community, social and event pathways.
+<CTA> Explore
+<links to> https://www.quadient.com/en-us/careers/connect-hub
+<Content Heading> Meet us live
+<Content subheading> Events
+<Content copy> Give candidates another low-friction conversion route through recruiting events and employer-brand moments.
+<CTA> Explore
+<links to> https://www.quadient.com/en-us/careers/events
+Note: This module resolves the dual objective: the page behaves like a careers home while Job Hub remains the transactional search destination.
+Module: USP listing
+<Eyebrow> Why join
+<Heading> What candidates should understand in the first minute
+<SubHeading> Turn the employer value proposition into clear decision-making signals.
+<Content Heading> Meaningful work
+<Content subheading> Connect people, data and customers through market-leading automation platforms.
+<Content Heading> EPIC culture
+<Content subheading> Show empowerment, passion, inspiration and community in practical, everyday terms.
+<Content Heading> Learning momentum
+<Content subheading> Highlight continuous learning, internal mobility and personalized development support.
+<Content Heading> Belonging together
+<Content subheading> Reinforce inclusion, authenticity and support across a global workforce.
+Note: Use proof-rich microcopy, not generic employer-brand language. Pull in benefits, flexibility and people-development examples where available.
+Module: 50-50 Block
+<Eyebrow> Global teams
+<Heading> Work where you do your best
+<CTA> Explore offices
+<CTA Microcopy> See global teams
+<Content copy> Show the global office footprint across the Americas, Europe and Asia Pacific, then translate that footprint into candidate-friendly guidance around hybrid and remote flexibility.
+<links to> https://www.quadient.com/en-us/careers/offices
+Module: Timeline Block
+<Eyebrow> Before applying
+<Heading> What to expect
+<SubHeading> Reduce friction by showing how candidates move from exploration to application.
+<CTA> Start exploring
+<CTA Microcopy> Make the next step clear
+<Content Heading> Step 1
+<Content copy> Understand the company. Start with purpose, products, culture and how teams work together.
+<Content Heading> Step 2
+<Content copy> Find the right fit. Search openings by keyword, function, location and working style.
+<Content Heading> Step 3
+<Content copy> Prepare with confidence. Surface guidance on what candidates should know before applying.
+<Content Heading> Step 4
+<Content copy> Stay connected. Offer the talent community and events for visitors not ready to apply.
+<links to> https://www.quadient.com/en-us/careers/job-hub
+Module: Insights & Resources
+<Eyebrow> Connect
+<Heading> More ways to engage
+<CTA> See more
+<card> Connect Hub
+<Description> Give passive candidates a low-pressure entry point into the talent community and social channels.
+<links to> https://www.quadient.com/en-us/careers/connect-hub
+<card> Offices
+<Description> Let candidates continue browsing by geography after culture and role discovery.
+<links to> https://www.quadient.com/en-us/careers/offices
+Module: Action Block
+<Eyebrow> Careers
+<Heading> Start your next chapter with Quadient today
+<CTA> Search jobs
+<Content copy> End on the primary conversion: open roles first, talent community second.
+<links to> https://www.quadient.com/en-us/careers/job-hub
+
+
+
+
+[a]Mapped page here: https://gemini.google.com/share/f3541bc986c3

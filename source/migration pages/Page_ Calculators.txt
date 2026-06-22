@@ -1,0 +1,139 @@
+﻿Page: Calculators[a]
+Objective of the page: List all our interactive calculators on one page so users can filter, open, and use them without leaving the page
+Future URL: https://www.quadient.com/en-us/calculators
+Current URL or Current URLs which will be condensed into one URL: https://www.quadient.com/en-us/calculators ; https://www.quadient.com/en-us [Proposed]
+Primary audiences
+Finance leaders
+Operations leaders
+Mailing and shipping decision-makers
+Prospects building a business case
+Secondary audiences
+Digital transformation leaders
+Procurement teams
+Existing prospects comparing options
+Small and mid-sized business owners
+Target keyword: calculators
+Supporting keywords: ROI calculator, AP ROI calculator, AR ROI calculator, cash flow calculator, postage savings calculator
+________________
+
+
+Page title: Calculators | Quadient
+Meta description: Use Quadient calculators to estimate savings, improve cash flow, and compare mailing and automation options all in one place.
+Module: Hero Standard
+ <Eyebrow> Calculators
+<Heading> Run the numbers fast
+<SubHeading> Filter by topic and use each calculator right here on the page.
+<CTA> Start now
+<CTA Microcopy> No extra clicks
+<Content copy> Whether you want to save time, cut costs, or improve cash flow, these calculators help you get to a practical estimate in just a few steps.
+Module: Solutions Toggle
+ <Heading> Find the right calculator
+<SubHeading> Choose a category to narrow the list, then open the tool you want without leaving the page.
+<CTA> Show all
+<Content Heading> All calculators
+<Content subheading> See everything
+<Content copy> Start here if you want the full list in one view.
+<Content Heading> Finance
+<Content subheading> Improve cash flow
+<Content copy> Explore AP, AR, and cash flow calculators built for finance teams.
+<Content Heading> Mailing
+<Content subheading> Cut send costs
+<Content copy> Compare mailing options and look for practical postage savings.
+<Content Heading> Savings
+<Content subheading> Build a case
+<Content copy> Focus on calculators that show time saved, cost reduced, or money recovered.
+Note: Use this module as the on-page filter bar. On desktop it can behave like sticky filter tabs. On mobile it can collapse into filter chips. No page refresh.
+Module: Standard Card
+ <Heading> AP ROI calculator
+<Content copy> See how much time your team could get back by automating invoice processing and approvals.
+<Filter tags> Finance
+<Filter tags> AP
+<Filter tags> ROI
+<Intro text> Enter a few details about your current AP workload to get a quick estimate of time savings and process impact.
+<Inputs> Number of AP team members
+<Inputs> Monthly invoice volume
+<Inputs> Time spent on manual processing
+<Inputs> Time spent on approvals and follow-up
+<Results> Estimated hours saved
+<Results> Estimated efficiency gain
+<Results> Stronger business case for AP automation
+<Primary CTA> Talk to us
+<links to> /contact/request-demo
+Module: Standard Card
+ <Heading> AR ROI calculator
+<Content copy> Measure how faster collections and better visibility could improve cash flow.
+<Filter tags> Finance
+<Filter tags> AR
+<Filter tags> ROI
+<Intro text> Add your current receivables inputs and get a simple view of where automation could help you collect faster.
+<Inputs> Monthly invoice volume
+<Inputs> Current DSO
+<Inputs> Collector workload
+<Inputs> Average payment timing
+<Results> Potential DSO improvement
+<Results> Time saved on collections work
+<Results> Better view of cash coming in
+<Primary CTA> Talk to us
+<links to> /contact/request-demo
+Module: Standard Card
+ <Heading> Business cash flow calculator
+<Content copy> Get a quick read on money in, money out, and what your ending cash position could look like.
+<Filter tags> Finance
+<Filter tags> Cash flow
+<Filter tags> Planning
+<Intro text> This calculator is for teams that need a plain-English view of short-term cash health.
+<Inputs> Starting cash
+<Inputs> Cash in
+<Inputs> Cash out
+<Inputs> Time period
+<Results> Net cash flow
+<Results> Ending cash position
+<Results> Early warning if cash gets tight
+<Primary CTA> Talk to us
+<links to> /contact/request-demo
+Module: Standard Card
+ <Heading> Postage savings calculator
+<Content copy> Estimate how smarter mailing choices could reduce postage spend over time.
+<Filter tags> Mailing
+<Filter tags> Savings
+<Filter tags> Postage
+<Intro text> Add your mail volume and current habits to see where savings may be hiding.
+<Inputs> Monthly mail volume
+<Inputs> Letter and parcel mix
+<Inputs> Current postage spend
+<Inputs> Current mailing method
+<Results> Estimated mailing savings
+<Results> Better send method options
+<Results> Clearer next step for reducing cost
+<Primary CTA> Talk to us
+<links to> /contact/request-demo
+Module: Standard Card
+ <Heading> Stamps vs. meter savings calculator
+<Content copy> Compare what you spend today with what you could save by moving from stamps to a mailing system.
+<Filter tags> Mailing
+<Filter tags> Comparison
+<Filter tags> Savings
+<Intro text> This is the quick side-by-side tool for businesses still asking whether a meter is worth it.
+<Inputs> Monthly letter volume
+<Inputs> Monthly package volume
+<Inputs> Current stamp usage
+<Inputs> Current mailing process
+<Results> Estimated cost difference
+<Results> Potential postage savings
+<Results> Best-fit next conversation with sales
+<Primary CTA> Get a quote
+<links to> /contact/request-demo
+Note: Each calculator card should expand inline on this page. Keep one open at a time, preserve the selected filter, and allow direct anchor links to each calculator for campaigns and SEO.
+Module: Editorial Content Block
+ <Eyebrow> Need context
+<Heading> Not sure which calculator to start with?
+<CTA> See resources
+<Content copy> Browse practical guides and articles if you want help understanding the numbers behind the estimate.
+<links to> /resources
+Module: CTA Form
+ <Heading> Want help turning the estimate into a plan?
+<CTA> Contact us
+<CTA Microcopy> Speak with an expert
+
+
+[a]Mapped page here: https://gemini.google.com/share/89e963c24a6a

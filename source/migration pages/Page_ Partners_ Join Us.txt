@@ -1,0 +1,135 @@
+﻿Page: Become a software partner
+Objective of the page: Make it easy for potential partners to apply to become a software partner
+Future URL: https://www.quadient.com/en-us/become-partner
+Current URL or Current URLs which will be condensed into one URL:
+https://partners.quadient.com/prm/English/c/join
+https://www.quadient.com/en/quadient-experience-partner-network
+https://resources.quadient.com/m/1bdf19edec0305d/original/Quadient_EPN_Guide_.pdf
+Primary audiences
+Software companies and ISVs
+ERP and platform partners
+Systems integrators
+Implementation and delivery partners
+Consultancies building customer communications, AP or AR offerings
+Secondary audiences
+Referral partners
+Regional service providers
+OEM and white-label partners
+Existing partners adding AP or AR to a current CCM relationship
+Target keyword: software partner program
+Supporting keywords
+become a software partner
+technology partner program
+customer communications partners
+accounts payable automation partners
+accounts receivable automation partners
+ERP integration partner program
+Page title: Become a software partner | Quadient
+Meta description: Apply to become a Quadient software partner and explore opportunities across customer communications, AP automation and AR automation.
+Module: Hero Impact
+<Heading> Become a software partner
+<SubHeading> Join Quadient to build, integrate, sell or deliver solutions in customer communications, AP and AR.
+<CTA> Apply now
+<links to> https://partners.quadient.com/prm/English/c/newpartnerapplication
+<CTA Microcopy> Start your application
+Note: Use the direct application URL rather than a generic join hub to remove one click from conversion. The live partner portal exposes both a join page and a dedicated new partner application flow.
+Module: Mission Framing
+<Eyebrow> Why Quadient
+<Heading> Grow with a proven software ecosystem
+<SubHeading> Position Quadient as a partner platform spanning customer communications, AP automation and AR automation, with enablement and support built in.
+<CTA> Explore program
+<links to> https://www.quadient.com/en-us/partner-program
+Note: The brochure positions the Experience Partner Network across Inspire, Accounts Payable Automation and Accounts Receivable Automation, with knowledge, collaboration and support as core value drivers.
+Module: Solutions Toggle
+<Heading> Partner across three solution areas
+<SubHeading> Let visitors self-identify the solution focus that best matches their product, integration or services motion.
+<CTA> Apply now
+<Content Heading> Customer communications
+<Content subheading> Inspire platform
+<Content copy> For ISVs, SIs and consulting partners building around enterprise communications, orchestration and document experiences.
+<links to> https://www.quadient.com/en-us/customer-communications
+<Content Heading> AP automation
+<Content subheading> Accounts payable
+<Content copy> For ERP, workflow and finance software partners extending invoice capture, approvals, payments and procure-to-pay automation.
+<links to> https://www.quadient.com/en-us/ap-automation
+<Content Heading> AR automation
+<Content subheading> Accounts receivable
+<Content copy> For billing, ERP and payment ecosystem partners improving invoice-to-cash, collections and digital payment experiences.
+<links to> https://www.quadient.com/en-us/ar-automation
+Note: The current partner materials explicitly include Inspire, AP and AR, and the live partner network page already showcases AP and AR ecosystem integrations.
+Module: Stacked Card
+<Eyebrow> Partner fit
+<Heading> Choose your partner path
+<SubHeading> Built for both technology-led and delivery-led partner models.
+<card> <Content Heading> Technology partners <Content copy> ISVs, ERP connectors, OEM partners and platform partners extending Quadient products. <card> <Content Heading> Business partners <Content copy> Resellers, consultancies, referral partners and implementation partners who influence, sell or deliver solutions. Note: The brochure defines two tracks: business partners and technology partners. :contentReference[oaicite:4]{index=4}
+Module: USP listing
+<Eyebrow> Benefits
+<Heading> What partners gain with Quadient
+<SubHeading> Keep the value proposition practical and conversion-focused.
+<CTA> Apply now
+<Content Heading> Training and certification
+<Content subheading> Build credibility faster with structured enablement and partner badges.
+<Content Heading> Co-sell and marketing support
+<Content subheading> Access sales enablement, partner community events and joint go-to-market support.
+<Content Heading> Technical and delivery support
+<Content subheading> Equip teams to implement, integrate and expand value for customers.
+<Content Heading> Recognition and growth
+<Content subheading> Progress through tiers as customer success, advocacy and pipeline maturity increase.
+Note: Training, certification, community, support, listing, joint planning and rewards are all established program benefits in the brochure.
+Module: Timeline Block
+<Eyebrow> Progression
+<Heading> Grow your tier
+<SubHeading> Show how partners advance as investment, certification and customer success deepen.
+<CTA> View program
+<links to> https://www.quadient.com/en-us/partner-program
+<Content Heading> Registered
+<Content copy> Best for new partners starting enablement and early pipeline development.
+<Content Heading> Silver
+<Content copy> For partners with first sales or first implementation success.
+<Content Heading> Gold
+<Content copy> For recurring sales or delivery success plus customer advocacy.
+<Content Heading> Platinum
+<Content copy> For predictable pipeline, repeat wins and ecosystem leadership.
+Note: The partner program uses four yearly tiers: Registered, Silver, Gold and Platinum.
+Module: Stats Block
+<Eyebrow> Proof
+<Heading> Why Quadient
+<stat> Hundreds of thousands of businesses served
+<stat> Recognized by Gartner, Forrester and IDC
+<stat> Global partner ecosystem
+<stat> Opportunities across CXM, AP and AR
+Note: Use proof that reinforces partner confidence, not generic corporate metrics. Current partner materials already reference analyst recognition and broad customer scale.
+Module: CTA Form
+<Heading> Ready to apply and join the partner ecosystem?
+<CTA> Apply now
+<links to> https://partners.quadient.com/prm/English/c/newpartnerapplication
+<CTA Microcopy> Secure partner application
+Note: If embedding the external application is not feasible, use this module as a handoff block and add a short “What you’ll need” intro above it. The live application asks about partnership type, solution interest, regions, implementation services, active opportunities and business motivation.
+Module: FAQs List
+<Heading> Before you apply
+<SubHeading> Remove friction before the form handoff.
+<question> Who should apply through this page?
+<Content copy> Software companies, ERP and platform partners, consultancies, integrators and service providers supporting customer communications, AP or AR use cases.
+<question> What information should applicants prepare?
+<Content copy> Ask for company details, partner model, regions served, Quadient solutions of interest, implementation capabilities and any active opportunity.
+<question> What happens after submission?
+<Content copy> Explain that applications are reviewed by the partner team and routed by region, partner type and solution focus.
+<question> I am already a Quadient partner. Should I apply again?
+<Content copy> No. Existing partners should be routed to the partner portal or the join-your-team path instead of the new partner application.
+<question> Where can I learn more before applying?
+<Content copy> Link to the partner program page and keep the downloadable guide available as a secondary research path.
+Note: The live portal explicitly separates new partner applications from existing partner team-join and sign-in support.
+Module: Editorial Content Block
+<Eyebrow> Learn more
+<Heading> Review the full partner program
+<Content copy> Give cautious, higher-consideration visitors one more confidence-building step before they submit.
+<CTA> View program
+<links to> https://www.quadient.com/en-us/partner-program
+Note: Keep the brochure available as supporting content, but the page itself should carry the core value proposition so prospects do not need to leave the site to understand fit.
+Module: Action Block
+<Eyebrow> Join us
+<Heading> Start your Quadient partner application today
+<CTA> Apply now
+<links to> https://partners.quadient.com/prm/English/c/newpartnerapplication
+<Content copy> Keep the final action simple, direct and high-intent.
+Note: Existing partners should be routed to the portal/team-join path instead of the new partner application.

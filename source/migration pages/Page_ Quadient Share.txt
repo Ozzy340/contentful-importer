@@ -1,0 +1,83 @@
+﻿Page: Quadient Share
+Objective of the page: Share information hub
+Future URL: quadient.com/en-us/investor-relations/quadient-share
+Current URL or Current URLs which will be condensed into one URL: https://invest.quadient.com/en/stock-price ; https://invest.quadient.com/en/shareholders
+Primary audiences
+Current shareholders
+Prospective investors
+Individual shareholders
+Financial analysts
+Secondary audiences
+Financial media
+Governance-focused investors
+Investor relations stakeholders
+Target keyword
+quadient share
+Supporting keywords
+quadient share price
+quadient stock
+quadient shareholders
+quadient dividend
+becoming a shareholder
+Page title
+Quadient Share | Share price, dividends and shareholder information
+Meta description
+Explore Quadient share information in one place, including share price, capital structure, dividends, analyst coverage and shareholder resources.
+Module: Hero Standard
+<eyebrow> Investor relations
+<h1> Everything about Quadient shares <SubHeading> Track performance, understand ownership and access shareholder essentials in one place <Content copy> Centralize stock performance, ownership details, dividends and shareholder resources so visitors can move from insight to action without switching sections. <CTA> View price <CTA Microcopy> Live market data <links to> quadient.com/en-us/investor-relations/share-price
+Module: Action Block
+<eyebrow> Updates
+<h2> Get Quadient shareholder updates in your inbox <Content copy> Create a clear secondary action near the top of the page for visitors who want ongoing investor and shareholder communications. <CTA> Subscribe now <links to> Note: destination to validate for investor news subscription or email sign-up
+Module: Siderail Navigation
+<link> Stock information <links to> #stock-information <link> Live share price <links to> #live-share-price <link> Analyst coverage <links to> #analyst-coverage <link> Share capital <links to> #share-capital <link> Capital structure <links to> #capital-structure <link> Dividends <links to> #dividends <link> Becoming a shareholder <links to> #becoming-a-shareholder <link> Shareholder resources <links to> #shareholder-resources <link> FAQs <links to> #shareholder-faqs <link> Contact <links to> #contact
+Module: USP listing
+<eyebrow> Share data
+<h2> Key Quadient stock information at a glance <SubHeading> Fast-reference market details for current and prospective shareholders <CTA> View filings <links to> quadient.com/en-us/investor-relations/regulated-information
+<Content Heading> Where the share trades
+<Content subheading> Euronext Paris listing details and market compartment for quick investor reference
+<Content Heading> Key market codes
+<Content subheading> ISIN, Reuters and Bloomberg identifiers grouped in one easy-to-scan block
+<Content Heading> Index inclusion
+<Content subheading> Primary index memberships that help investors place Quadient in market context
+<Content Heading> Shareholder basics
+<Content subheading> PEA-PME eligibility, vote structure and other core ownership facts
+Module: 50-50 Block
+<eyebrow> Performance
+<h2> Follow live Quadient share performance <Content copy> Reuse the live stock quote component as the core visual for this section. Include chart-range switches for 7D, 30D, 1Y and Max, plus timestamped performance context. <CTA> Full chart <CTA Microcopy> Live data view <links to> quadient.com/en-us/investor-relations/share-price
+Module: 50-50 Block
+<eyebrow> Coverage
+<h2> See analyst coverage beside the market view <Content copy> Keep analyst coverage close to the live quote so research-oriented visitors can move naturally from price context to market perspective without leaving the share journey. <CTA> View analysts <CTA Microcopy> Research overview <links to> quadient.com/en-us/investor-relations/analysts
+Module: Promo Banner
+<Heading> Share capital
+<Content copy> Surface the latest issued capital and number of shares in one line.
+Note: Keep this field dynamic or easy to refresh from the current IR source.
+Module: 50-50 Block
+<eyebrow> Ownership
+<h2> Understand the current shareholder mix <Content copy> Pair a current shareholder-structure visual with a short explanation of the main ownership categories, so visitors can quickly understand the composition of the capital base. <CTA> View filings <CTA Microcopy> Official updates <links to> quadient.com/en-us/investor-relations/regulated-information
+Module: 50-50 Block
+<eyebrow> Returns
+<h2> See dividends and allocation policy <Content copy> Bring together the capital allocation policy, the latest approved dividend and an image-led dividend history so investors can read both the current message and longer-term payout context. <CTA> View AGM <CTA Microcopy> Approval context <links to> quadient.com/en-us/investor-relations/general-meeting
+Module: Comparison Table
+<eyebrow> Ownership
+<h2> Choose your holding structure <SubHeading> Help investors compare the main ownership arrangements <CTA> Learn more <links to> quadient.com/en-us/investor-relations/becoming-a-shareholder
+<Column Header> Form
+<Column Header> Best fit
+<Column Header> Managed by
+<Column Header> Benefit
+<row> Pure registered | Long-term holders | Quadient | Direct relationship with the company
+<row> Administered registered | Investors using an intermediary | Financial intermediary | Registered ownership with intermediary support
+<row> Bearer shares | Flexible brokerage-led ownership | Financial intermediary | Standard market-holding route
+Note: Add threshold-disclosure guidance directly below the table or as a compact expandable item within the same module.
+Module: Insights & Resources
+<eyebrow> Resources
+<h2> Shareholder documents and updates <CTA> View IR hub <links to> quadient.com/en-us/investor-relations <card> <h3> General meeting <Description> Lead with the latest AGM report and replay, then show prior AGM documents in a clean dated list below. <CTA> View AGM <links to> quadient.com/en-us/investor-relations/general-meeting <card> <h3> Letters to shareholders <Description> Feature the latest letter first, then list previous letters in descending order to show continuity and cadence. <CTA> Read letters <links to> quadient.com/en-us/investor-relations/letters-to-shareholders <card> <h3> Shareholder presentation <Description> Surface the latest individual-shareholder presentation with newsletter sign-up placed nearby. <CTA> View latest <links to> Note: destination to validate <card> <h3> Regulated information <Description> Provide a direct path to voting-right declarations, share buyback updates and other official share-related filings. <CTA> View filings <links to> quadient.com/en-us/investor-relations/regulated-information
+Note: If web radios, videos and press reviews remain important, fold them into this resource area rather than giving each its own standalone module.
+Module: FAQs List
+<h2> Questions shareholders ask most <SubHeading> Answer the common participation and voting questions <Content copy> Use this section to reduce friction for individual shareholders around participation, voting, written questions and agenda submissions. Keep answers concise, date-aware and linked to the latest AGM or contact destination whenever the process changes from one year to the next.
+<question> How can I participate in the Annual General Meeting?
+<question> I am a shareholder and cannot attend the General Meeting. How can I cast my vote?
+<question> I am a shareholder and would like to ask a written question at the Annual General Meeting. What do I do?
+<question> I am a shareholder and would like to put an item or draft resolution on the agenda for the Annual General Meeting. What do I do?
+Module: CTA Form
+<h2> Need help with investor or shareholder questions? <CTA> Contact us <CTA Microcopy> IR and shareholder support <links to> quadient.com/en-us/investor-relations/contact

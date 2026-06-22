@@ -1,0 +1,73 @@
+﻿Page: Press/News[a]
+Objective of the page: List of press releases
+Future URL: https://www.quadient.com/en-us/news
+Current URL or Current URLs which will be condensed into one URL: https://www.quadient.com/en-us/news ; https://www.quadient.com/en/news?page=1
+Primary audiences
+Media and journalists
+Industry analysts
+Prospective enterprise buyers validating Quadient
+Investors and shareholders
+Secondary audiences
+Partners
+Customers tracking company updates
+Prospective employees
+General corporate stakeholders
+Target keyword: Quadient news
+Supporting keywords
+Quadient press releases
+Quadient newsroom
+Quadient company news
+Quadient announcements
+corporate press releases
+Page title: Quadient news and press releases | Quadient
+Meta description: Browse the latest Quadient press releases, company updates and announcements in one newsroom designed to reinforce trust and long-term brand credibility.
+Module: Hero Standard
+<eyebrow> Newsroom
+<h1> Quadient news and press releases <SubHeading> Latest announcements, milestones and company updates from Quadient. <Content copy> Explore the latest press releases while quickly understanding Quadient’s scale, stability and momentum as a long-term automation partner. <CTA> About us <CTA Microcopy> See company overview <links to> https://www.quadient.com/en-us/about
+Module: Stats Block
+<eyebrow> Trust
+<Heading> Quadient at a glance
+<stat> 100 years of innovation
+<stat> Euronext Paris: QDT
+<stat> Global automation platform
+<stat> Digital and physical expertise
+Note: Official Quadient properties currently emphasize 100 years of innovation, public-market status on Euronext Paris, and the company’s positioning as a global automation platform. Final proof points should be validated with Comms/IR before build.
+Module: Siderail Navigation
+<h2> Find the right release <search> Search all press releases <filter> Topic <filter> Year <sort> Newest first <result count> Visible total results <pagination> Previous | Next Note: The current live Newsroom already supports search, filtering by Topics and Year, and Previous/Next pagination. Preserve that utility in the new page rather than simplifying it away. :contentReference[oaicite:1]{index=1}
+Module: Insights Card
+<h2> Latest press releases <listing logic> Auto-populated feed ordered from newest to oldest <card> <Publish date> Dynamic <Topic> Dynamic <Heading> Press release title <Description> 1-2 sentence standfirst pulled from CMS excerpt <CTA> Read release <card> <Publish date> Dynamic <Topic> Dynamic <Heading> Press release title <Description> 1-2 sentence standfirst pulled from CMS excerpt <CTA> Read release <card> <Publish date> Dynamic <Topic> Dynamic <Heading> Press release title <Description> 1-2 sentence standfirst pulled from CMS excerpt <CTA> Read release <card> <Publish date> Dynamic <Topic> Dynamic <Heading> Press release title <Description> 1-2 sentence standfirst pulled from CMS excerpt <CTA> Read release <pagination> Previous | Next Note: Keep this module purely feed-driven. No editorialized promo content should interrupt the release list before visitors reach the archive behavior they expect.
+Module: Editorial Content Block
+<eyebrow> Company
+<Heading> Why Quadient earns long-term partner trust
+<Content copy> Use this short brand framing block to connect the newsroom to Quadient’s broader story, mission and long-term credibility.
+<CTA> Learn more
+<links to> https://www.quadient.com/en-us/about
+Module: Insights & Resources
+<eyebrow> Explore
+<Heading> More proof points
+<CTA> View resources
+<links to> https://www.quadient.com/en-us/resources
+<card>
+<Heading> Investor relations news
+<Description> Direct visitors looking for financial and regulated updates to the dedicated IR news page.
+<CTA> View IR news
+<links to> https://www.quadient.com/en-us/investor-relations/news
+<card>
+<Heading> Customer stories
+<Description> Show real-world outcomes and credibility through case studies.
+<CTA> View stories
+<links to> https://www.quadient.com/en-us/case-studies
+<card>
+<Heading> Our story
+<Description> Give brand validators a direct route into Quadient’s mission, history and positioning.
+<CTA> Learn more
+<links to> https://www.quadient.com/en-us/our-story
+Module: Action Block
+<eyebrow> Contact
+<Heading> Need a media or corporate contact?
+<Content copy> Give journalists, analysts and corporate stakeholders a clean path to reach Quadient without forcing a sales-led CTA.
+<CTA> Contact us
+<links to> https://www.quadient.com/en-us/contact-us
+
+
+[a]Mapped page here: https://gemini.google.com/share/6dfd4524191e

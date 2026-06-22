@@ -1,0 +1,148 @@
+﻿Sitemap
+Target keyword: automation solutions (7.3Kgv/2.9KdvUS/54%kd)
+Supporting keywords: industry automation solutions; enterprise industries
+Page title: Industries We Serve | Quadient
+Meta description: See how Quadient supports finance, insurance, retail, healthcare, and public sector organizations with communication automation and workflow solutions.
+________________
+ <hero> Module: Hero Standard
+
+
+* <image> Directional: Montage showing professionals from finance, insurance, retail, healthcare, and public sector environments. 
+* <h1>Automation solutions that work, no matter what industry you're in. 
+* Running a complex, highly regulated business is hard enough. We make the everyday work simple, secure, and reliable. Welcome to a better way to get things done. 
+* <primary CTA>Request a demo 
+   * <links to>/contact/request-demo 
+* <secondary CTA>Explore all solutions 
+   * <links to>/solutions
+
+
+________________
+
+
+
+
+<industry cards grid> Module: Standard Cards
+
+
+* <h2>Every industry runs differently. The work behind it doesn’t have to.
+* <description>Each card links to a dedicated industry page. 
+* <cards>
+   * <card>  
+      * <image>Finance-themed imagery  
+      * <h3>Finance  
+      * <description>From billing and payments to customer communications, keep cash flow moving with accuracy and control. 
+      * <CTA>Learn more  
+         * <links to>/markets/finance  
+   * <card>  
+      * <image>Insurance-themed imagery  
+      * <h3>Insurance  
+      * <description>Manage high-volume policyholder communications with accuracy, compliance and consistency. 
+      * <CTA>Explore insurance solutions 
+         * <links to>/markets/insurance  
+   * <card>  
+      * <image>Retail-themed imagery  
+      * <h3>Retail  
+      * <description>Keep customers informed from order to delivery while reducing the operational load on your team.
+      * <CTA>Explore retail solutions   
+         * <links to>/markets/retail  
+   * <card>  
+      * <image>Healthcare-themed imagery  
+      * <h3>Healthcare  
+      * <description>Simplify complex, regulated workflows to deliver timely, compliant patient communications.
+      * <CTA>Explore healthcare solutions  
+         * <links to>/markets/healthcare  
+   * <card>  
+      * <image>Public sector imagery (government offices, municipal services)  
+      * <h3>Public Sector  
+      * <description>Communicate clearly with the communities you serve, from billing notices to regulatory correspondence. 
+      * <CTA>Explore public sector solutions 
+         * <links to>/markets/public-sector  
+
+
+________________
+
+
+
+
+<intro framing> Module: 50-50 Block
+
+
+* <image optional> 
+* <h2>How Quadient simplifies the work behind your operations
+* <description> Finance, insurance, retail, healthcare — every industry has its own operational demands, from managing communications and payments to meeting compliance requirements. Quadient makes it simple to manage, so your business keeps moving.
+* <bullets> 
+   * <bullet>Ensure secure, compliant communication 
+   * <bullet>Automate finance and communication workflows 
+   * <bullet>Simplify experiences for customers, patients, and constituents 
+   * <bullet>Connect digital and physical channels
+
+
+________________
+
+
+
+
+Modules: Rich text, Full Video block
+* <h2 graphically styled>Solutions shaped for the way your team communicates
+* <description>Communication automation needs vary industry by industry, business to business, team to team. It's why we designed Quadient's solutions to be as adaptable as they are easy to integrate. 
+* <video optional> If a cross-industry overview video exists, embed; otherwise, add to content production list.
+ 
+________________
+
+
+
+
+<platform connection module> Module: Stacked Card Block
+
+
+* <image>Conceptual diagram of Quadient’s Digital Automation Platform 
+* <h2>Where automation makes the biggest impact
+* <description>The work that keeps your business running is often repetitive, manual, and easy to overlook. But it’s also where errors, delays, and inefficiencies build up.
+* Quadient helps you take control of this work so it gets done faster, more accurately, and with less manual effort.
+* <capability cluster> 
+   * <h3>Automate critical communications 
+   * <bullets> 
+      * <bullet>Manage communications through one central hub
+      * <bullet>Coordinate across every channel (print, email, SMS, web) 
+      * <bullet>Simplify governance and compliance 
+* <capability cluster> 
+   * <h3>Streamline finance operations 
+   * <bullets> 
+      * <bullet>Automate AR and AP workflows
+      * <bullet>Enable flexible digital payments
+      * <bullet>Connect billing and communication journeys
+* <capability cluster> 
+   * <h3>Improve customer, patient, and constituent experiences 
+   * <bullets> 
+      * <bullet>Deliver personalized, timely communications 
+      * <bullet>Automate delivery according to each user’s journey 
+      * <bullet>Provide self-service access to documents and payments
+________________
+ <resources module> Module: Mega CTA
+
+
+* <h2>Industry insights and resources 
+* <description>Explore curated resources for key industries Quadient supports. 
+* <cards> 
+   * <card>Industry-focused case study 
+   * <card>Analyst report or comparison 
+   * <card>Webinar or video 
+* <CTA>View all resources <links to>/resources
+
+
+________________
+
+
+<FAQ> Module: FAQs List
+* <h2>Frequently Asked Questions
+* <description>Get answers to common questions about Quadient’s industry-centered service.
+   * <FAQ accordion>
+________________
+ <CTA footer> Module: CTA Form
+
+
+* <h2>Let’s talk about how your business runs.
+* <primary CTA>Request a demo 
+   * <links to>/contact/request-demo 
+* <secondary CTA>Explore all solutions 
+   * <links to>/solutions

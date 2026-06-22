@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 200" role="img" aria-labelledby="title">
+  <title id="title">Radius placeholder logo</title>
+  <rect width="360" height="200" rx="24" fill="#eef0f5"/>
+  <text x="180" y="118" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#394559">Radius</text>
+</svg>

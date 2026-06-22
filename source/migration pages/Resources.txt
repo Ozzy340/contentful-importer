@@ -1,0 +1,162 @@
+﻿Sitemap[a]
+Target keyword: business automation resources (low volume, brand support)
+Supporting keywords: customer communications resources; finance automation insights; enterprise automation content
+Page title: Resources & Insights | Quadient
+Meta description: Explore Quadient’s insights, guides, case studies, and thought leadership on customer communications, finance automation and operational efficiency.
+________________
+ <hero> 
+
+
+* <image> Directional: Abstract / conceptual visual (networks, connections, insights). No product UI.
+* <h1> Resources & insights
+[b]
+   * <h2 graphically styled> Perspectives on automation, communication, and efficiency
+   * <description>  Directional: Set expectation that this is a knowledge hub — not a sales page.
+________________
+
+
+<guided search module>
+
+
+* <h2> Find what you’re looking for[c]
+* <description> Directional: Get to the right resource faster.
+* <input field> Placeholder: “I’m looking for a case study on AR automation in finance…”
+
+
+[d]
+________________
+ <filter + browse module> (keep existing structure)[e][f]
+
+
+* <filters>
+   * <filter> Type
+      * Case studies
+      * Webinars & events
+      * Knowledge hub
+      * eBooks & papers
+      * Calculators
+      * FAQs
+      * Video
+   * <filter> Solution[g]
+      * Connect (Customer communications)
+      * Pay (Finance automation)
+      * Send (Mailing & shipping)
+      * Receive (Parcel management)
+   * <filter> Industry
+      * Finance
+      * Insurance
+      * Government
+      * Utilities
+      * Retail
+      * Healthcare
+________________
+
+
+<industry quick-select module>
+
+
+* <h3> Browse by industry[h][i][j]
+* <buttons>
+   * <button> Finance
+   * <button> Insurance
+   * <button> Public Sector
+   * <button> Healthcare
+   * <button> Retail
+   * <button> Utilities
+
+
+________________
+ <resource grid> (core of the page)
+
+
+* <resource cards> Ex:
+   * <card>
+      * <eyebrow> Case Study[k]
+      * <h3> How a global insurer reduced regulatory risk with CCM
+      * <description> Learn how automated communications improved compliance and speed.
+      * <CTA> Read case study
+
+
+________________
+ <optional: featured resource>[l]
+
+
+* <featured resource> One optional featured resource; editorially driven, not campaign-driven
+* <h2> Featured insight
+* <card>[m]
+
+
+[n][o]
+________________
+ <pagination or load more>
+
+
+________________
+ <cross-linking support>
+
+
+* <links>
+   * <link> Explore solutions →
+   * <link> Explore customer stories →
+[a]Mapped page here: https://gemini.google.com/share/7c4ccc4894da
+[b]Resources & insights
+"Perspectives on automation, communication, and efficiency" can be upped some to Quadientize it a little and differentiate from other B2B SaaS. 
+
+
+Suggestion: 
+H1
+Insights from the work behind business
+
+
+Subhead
+Real-world perspectives on communications, payments, mail and operations — and how to keep them moving.
+[c]Find what you’re looking for/Get to the right resource faster could feel a little filler or without personality. We could up it some with: 
+Suggestion: 
+H2
+Start with what you need
+
+
+Description
+Search for real examples, ideas and guidance based on how your business works.
+
+
+Placeholder for input: 
+Search by topic, industry or type of work…
+[d]Maybe AI module or search bar where people can explain what they're looking for? (Specific brochure, case study, etc.)
+[e]I could see adding some brand personality here, above all the stuff people are about to search: Suggestion: 
+"The best ideas come from the work itself".
+[f]Would rather use buttons for the Industry? So that in one click the user gets what they're looking for rather than filters which typically take 2 clicks?
+[g]While I know we are using solution and solutions, here I wonder if it should be 'area of focus'. Additionally, in lieu of connect, pay, send, receive, let's go with JB's new solutions or areas of focus, which are: 
+Automate Finance Operations 
+Elevate Customer Communications 
+Modernize Mail & Shipping Operations 
+Streamline Parcel Delivery
+[h]totally works. but I kind of like this: 
+See what matters in your industry
+[i]👍
+[j]Also prefer this!
+[k]“How a global insurer reduced regulatory risk with CCM” “CCM” feels like internal language, and also we seem to refer to it internally as CCM, CX, CC, Customer Communications, Inspire and the Quadient Suite, so...let's huddle on this to zero in on what we say when we need to say. 
+
+
+Suggestion for h3/description: 
+How a global insurer reduced regulatory risk in customer communications
+
+
+Description
+See how automation improved accuracy, speed and compliance across high-volume communications.
+[l]Yes please
+[m]This could be at the top of the page?
+[n]Featured Insight is OK, touch meh. For something a touch more personality-driven, we could say: A closer look.
+
+
+Explore is OK too, but maybe we explore 
+
+
+Suggestion: 
+
+
+See how Quadient supports your business →
+
+
+Read customer stories →
+[o]I agree, I think this sounds a bit generic and cold. 'Read customer stories' feels more human to me

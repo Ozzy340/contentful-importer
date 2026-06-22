@@ -1,0 +1,118 @@
+﻿Page: Regulated Information[a]
+Objective of the page: Legally required disclosures
+Future URL: quadient.com/en-us/investor-relations/regulated-information
+Current URL or Current URLs which will be condensed into one URL: https://invest.quadient.com/en/regulated-information
+Primary audiences
+Institutional investors
+Financial analysts
+Individual shareholders
+Legal and compliance stakeholders
+Secondary audiences
+Prospective investors
+Financial media
+Governance researchers
+Rating and advisory firms
+Target keyword: regulated information
+Supporting keywords: investor disclosures; legal disclosures; universal registration document; interim financial report; voting rights and shares
+________________
+
+
+Page title: Regulated information | Quadient
+Meta description: Access Quadient’s legally required disclosures, reports and periodic investor information in one trusted location, with clear navigation to current and archived documents.
+Module: Hero Standard
+<Eyebrow> Investor relations
+<Heading> Regulated information
+<SubHeading> Access legally required disclosures quickly and confidently.
+<CTA> Browse filings
+<CTA Microcopy> By type and year
+<Content copy> Centralize permanent and periodic disclosures in a single trusted location that is easy to scan, filter and verify.
+Module: Announcement Banner
+<Heading> Official disclosures
+<SubHeading> Centralize required investor disclosures in one authoritative location, with the newest filings surfaced first and archive access always visible.
+<CTA> View latest
+Module: Product Card Listing
+<Eyebrow> Quick access
+<Heading> Start by document family
+<SubHeading> Give users immediate entry points to the highest-intent disclosure paths.
+<card> <Heading> Press releases <SubHeading> Route users to investor news and permanent-information announcements. <CTA> View news <links to> quadient.com/en-us/investor-relations/news <card> <Heading> Annual and interim reports <SubHeading> Route users to financial results materials while keeping regulated copies accessible here. <CTA> View results <links to> quadient.com/en-us/investor-relations/financial-results <card> <Heading> Quarterly financial information <SubHeading> Route users to quarterly sales and results materials for faster investor navigation. <CTA> View results <links to> quadient.com/en-us/investor-relations/financial-results
+Module: Siderail Navigation
+<link> Latest reports <link> Periodic information <link> Regulated documents <link> Managers operations <link> Related investor pages <link> Contact investor relations
+Note: Keep this visible on scroll for desktop. On mobile, collapse into a jump menu at the top of the library.
+Module: Solutions Toggle
+<Heading> Browse by disclosure type
+<SubHeading> Organize the library around the document groups investors and compliance users expect, with filters visible above the results.
+<CTA> Contact IR
+<links to> quadient.com/en-us/investor-relations/contact-calendar
+<Content Heading> Latest reports
+<Content subheading> Core filings
+<Content copy> Default view highlights the newest interim financial report, URD and other flagship disclosures first.
+<Content Heading> Periodic information
+<Content subheading> Ongoing updates
+<Content copy> Include monthly voting-rights declarations, share buyback information, liquidity contract updates and availability notices.
+<Content Heading> Regulated documents
+<Content subheading> Standing documents
+<Content copy> Surface articles of association, board rules, ethics code and other evergreen regulated documents with last updated dates.
+<Content Heading> Managers operations
+<Content subheading> Executive filings
+<Content copy> Keep managers’ dealings easy to locate from the same page rather than forcing archive navigation.
+Note: Filters should sit directly above the results and include document type and year/date. Start archive coverage at 2007 and let the end year roll forward automatically.
+Module: Summary Card
+<Heading> Latest reports
+<Description> Dynamic feed of the newest flagship regulated filings, sorted by publication date.
+<bullet> Interim financial report
+<bullet> Universal registration document
+<bullet> ESEF version, where applicable
+<bullet> Other major annual reporting documents as relevant
+Note: Each document row should show title, publication date, file type, file size and a direct download link.
+Module: Summary Card
+<Heading> Latest periodic information
+<Description> Group recurring disclosures into clear, filterable families so users can find required updates without knowing the exact filing name.
+<bullet> Monthly declarations of voting rights and shares
+<bullet> Share buyback programs
+<bullet> Information on share buybacks
+<bullet> Half-yearly reports on the liquidity contract
+<bullet> Press releases related to availability notices
+Note: Keep this section scan-friendly. The user should be able to move from category to document list in one interaction.
+Module: Summary Card
+<Heading> Regulated documents
+<Description> Evergreen corporate and governance documents presented with “last updated” labels to reinforce trust and clarity.
+<bullet> Articles of association
+<bullet> Internal rules of the Board of Directors and Committees
+<bullet> Stock market code of ethics and annexes
+<bullet> Other standing regulated documents as needed
+Note: This section should prioritize stability and traceability over volume.
+Module: Summary Card
+<Heading> Managers operations
+<Description> Dedicated area for executive dealing disclosures, clearly separated from other document families.
+<bullet> Reverse-chronological listing
+<bullet> Same date and type filter behavior as the rest of the page
+<bullet> Clear path to older archived records if pagination is required
+Module: Product Family Card
+<card>
+<Heading> Financial Results
+<Content copy> Quarterly and annual results materials.
+<CTA> View page
+<links to> quadient.com/en-us/investor-relations/financial-results
+<card> <Heading> Market-based financing <Content copy> Debt, notes and financing-related documents. <CTA> View page <links to> quadient.com/en-us/investor-relations/market-based-financing <card> <Heading> Agenda <Content copy> Upcoming investor events and dates. <CTA> View page <links to> quadient.com/en-us/investor-relations/agenda <card> <Heading> Quadient Share <Content copy> Share information and market-related content. <CTA> View page <links to> quadient.com/en-us/investor-relations/quadient-share
+Module: FAQs List
+<Heading> Finding disclosures fast
+<SubHeading> Answer the practical questions users have before they need to contact investor relations.
+<question> What documents are included on this page?
+<Content copy> Explain that the page centralizes flagship filings, periodic information, standing regulated documents and managers operations.
+<question> How far back does the archive go?
+<Content copy> Confirm that users can filter back to 2007 and browse forward by year.
+<question> Where do I find quarterly results and webcasts?
+<Content copy> Direct users to Financial Results.
+<question> Where do I find financing and debt-related documents?
+<Content copy> Direct users to Market-based financing.
+<question> Who should I contact if I cannot find a filing?
+<Content copy> Direct users to the investor relations contact page.
+Module: Action Block
+<Eyebrow> Contact
+<Heading> Need help finding a filing?
+<Content copy> Route users to the investor relations contact page for document questions or disclosure support.
+<CTA> Contact IR
+<links to> quadient.com/en-us/investor-relations/contact-calendar
+
+
+[a]mapped here: https://gemini.google.com/share/f540d66d4658

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Services grid illustration</title>
+  <desc id="desc">A bold grid of service cards.</desc>
+  <rect width="1200" height="630" fill="#fdf0d5"/>
+  <g fill="#003049">
+    <rect x="120" y="110" width="250" height="170" rx="20"/>
+    <rect x="475" y="110" width="250" height="170" rx="20"/>
+    <rect x="830" y="110" width="250" height="170" rx="20"/>
+    <rect x="120" y="350" width="250" height="170" rx="20"/>
+    <rect x="475" y="350" width="250" height="170" rx="20"/>
+    <rect x="830" y="350" width="250" height="170" rx="20"/>
+  </g>
+  <g fill="#fdf0d5" font-family="Georgia, serif" font-size="28" text-anchor="middle">
+    <text x="245" y="205">Discovery</text>
+    <text x="600" y="205">Parsing</text>
+    <text x="955" y="205">Mapping</text>
+    <text x="245" y="445">Validation</text>
+    <text x="600" y="445">Upload</text>
+    <text x="955" y="445">Publish</text>
+  </g>
+</svg>

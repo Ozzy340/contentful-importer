@@ -1,0 +1,206 @@
+﻿Sitemap
+Target keyword: why quadient (0; 0 KD)
+Supporting keywords: business automation platform; customer communication leader; enterprise automation solutions
+Page title: Why Quadient | Trusted Business Automation 
+Meta description: Quadient helps organizations simplify communication, automate financial and mail workflows, and build trusted connections at scale.
+________________
+
+
+<hero> Module: Hero Standard
+
+
+* <image> Directional: Human-centered, global imagery showing people interacting across communication, finance, mail, and delivery contexts (no UI).
+* <h1> Why Quadient
+* <h2 graphically styled> Because connections matter
+* <description> Directional: 1–2 lines positioning Quadient as a trusted partner for organizations that depend on clear, compliant, high-volume communication and workflows.
+* <primary CTA> Explore solutions
+   * <links to>/solutions
+* <secondary CTA>Explore products
+   * <links to>/products[a]
+
+
+________________
+
+
+<reputation & leadership module>[b][c] Module: 50-50 Block
+
+
+* <h2> A recognized leader in business communications and automation
+* <description> Directional: Establish Quadient’s credibility, scale, and longevity. Can include link to this
+* <proof points>
+   * <bullet> #1 worldwide market share in Customer Communications Management
+   * <bullet> Named a leader by leading industry analysts
+   * <bullet> Trusted by thousands of organizations globally
+* <logos or badges> Analyst recognition, market share visuals, certifications
+________________
+
+
+<business challenges framing>
+
+
+* <h2> The challenges organizations face today
+* <description> Directional: Frame the *why* behind Quadient’s existence — not product benefits.
+* <bullets>[5-7 words]
+   * <bullet> Growing communication volume across digital and physical channels
+   * <bullet> Increasing regulatory and compliance pressure
+   * <bullet> Disconnected systems and fragmented workflows
+   * <bullet> Rising customer expectations for clarity, speed, and personalization
+   * <bullet> Manual processes that drive cost, risk, and inefficiency
+* <tertiary CTA>Explore industries
+   * <links to>/industries
+
+
+________________
+
+
+<how quadient helps>
+
+
+* <h2>How Quadient helps organizations succeed
+* <description> Directional: High-level explanation of Quadient’s approach to solving complex operational and communication challenges.
+* <capability cluster>
+   * <h3> Unify communications and workflows
+   * <bullets>
+      * <bullet> Centralize communication creation and governance
+      * <bullet> Connect finance, operations, and customer-facing teams
+      * <bullet> Orchestrate journeys across systems and channels
+* <capability cluster>
+   * <h3> Operate with confidence and compliance
+   * <bullets>
+      * <bullet> Built for regulated, high-volume environments
+      * <bullet> Full auditability and governance
+      * <bullet> Secure, reliable delivery at scale
+* <capability cluster>
+   * <h3> Adapt and scale over time
+   * <bullets>
+      * <bullet> Modular solutions that evolve with your needs
+      * <bullet> Support for digital, physical, and hybrid communication
+      * <bullet> Designed for long-term transformation, not one-off fixes
+
+
+________________
+
+
+<solutions overview>
+
+
+* <h2> Solutions built around the connections that matter
+* <description> Directional: Quadient organizes its solutions around the core moments where organizations connect with customers, partners, and communities.
+* <cards>
+   * <card>
+      * <eyebrow>Customer communications
+      * <h3>Connect
+      * <description> Design, deliver, and measure personalized communications at scale—so every interaction is timely, relevant, compliant, and on brand.
+      * <outcomes>
+         * <bullet> Consistent experiences across digital and physical channels
+         * <bullet> Faster communication cycles with fewer manual steps
+         * <bullet> Greater engagement, trust, and customer loyalty
+      * <CTA>Explore Connect solutions
+         * <links to>/solutions/connect
+   * <card>
+      * <eyebrow> Finance automation
+      * <h3> Pay
+      * <description> Streamline accounts payable and receivable through cloud-based automation that improves speed, accuracy, and cash flow visibility.
+      * <outcomes>
+      * <bullet> Faster invoice processing and approvals
+      * <bullet> Accelerated collections and reduced DSO
+      * <bullet> Clear insight into cash position and payment status
+      * <CTA>Explore Pay solutions
+         * <links to>/solutions/pay
+   * <card>
+      * <eyebrow> Mailing and shipping
+      * <h3> Send
+      * <description> Simplify and optimize outbound mail through automated preparation, postage management, tracking, and compliance—at enterprise scale.
+      * <outcomes>
+      * <bullet> Lower mailing and shipping costs
+      * <bullet> Improved accuracy and regulatory compliance
+      * <bullet> Reliable delivery across distributed operations
+      * <CTA>Explore Send solutions
+         * <links to>/solutions/send
+   * <card>
+      * <eyebrow>Parcel and locker solutions
+      * <h3> Receive
+      * <description> Modernize last-mile delivery with intelligent locker systems that bring security, convenience, and sustainability to receiving and returns.
+      * <outcomes>
+      * <bullet> Secure chain-of-custody for packages
+      * <bullet> Reduced delivery friction and operational cost
+      * <bullet> Improved experience for residents, customers, and employees
+      * <CTA>Explore Receive solutions
+         * <links to>/solutions/receive
+
+
+________________
+
+
+<why quadient is different>
+
+
+* <h2> What sets Quadient apart
+* <description> Directional: Answer “why Quadient” vs. generic automation vendors.
+* <bullets>
+   * <bullet> Built specifically for communication-intensive, regulated environments
+   * <bullet> Proven at enterprise scale across industries
+   * <bullet> Combines software, hardware, and services where needed
+   * <bullet> Focused on long-term partnership, not point solutions
+
+
+________________
+
+
+<customer proof module>
+
+
+* <h2> Trusted by organizations worldwide
+* <description> Directional: Social proof across industries and geographies.
+* <testimonial>
+   * <large quote>
+   * <Name, title, organization>
+   * <CTA>See customer stories
+      * <links to>/resources?filter=case-studies
+
+
+________________
+
+
+<vision & purpose>
+
+
+* <h2> Our purpose
+* <description> Directional: Summarize Quadient’s mission and vision without repeating About Us.
+* <bullets>
+   * <bullet> Empower meaningful connections between organizations and the people they serve
+   * <bullet> Reduce friction, waste, and complexity in essential workflows
+   * <bullet> Help businesses operate with clarity, trust, and efficiency
+
+
+________________
+
+
+<resources module>
+
+
+* <h2> Insights and perspectives
+* <cards>
+   * <card> Thought leadership article
+   * <card> Analyst report or market insight
+   * <card> Customer success story
+* <CTA> View all resources
+   * <links to>/resources
+
+
+________________
+
+
+<CTA footer>
+
+
+* <h2> Ready to see how Quadient can help your organization?
+* <secondary CTA> Explore solutions
+   * <links to>/solutions
+
+
+
+
+[a]It's complicated to understand the difference between both? Maybe only one CTA?
+[b]customer communications feels specific to one of our four categories. Maybe at this high level, it's Business Communications.
+[c]noted for copywriting purposes

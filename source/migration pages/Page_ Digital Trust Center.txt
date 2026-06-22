@@ -1,0 +1,238 @@
+﻿Page: Digital Trust Center
+Objective of the page: Share all Quadient software compliance and security information in one transparent, externally facing destination while preserving and reworking all material from the current Trust Center page.
+Future URL: quadient.com/en-us/digital-trust-center
+ Current URL or Current URLs which will be condensed into one URL: https://www.quadient.com/en/security-privacy-compliance
+Primary audiences
+Vendor risk and procurement teams
+Security and IT stakeholders
+Privacy and compliance teams
+Existing customers completing due-diligence reviews
+Secondary audiences
+Prospective customers evaluating Quadient software
+Legal and audit stakeholders
+Partners and system integrators
+Internal account teams supporting security reviews
+Target keyword
+digital trust center
+Supporting keywords
+software security and compliance
+security privacy compliance
+software certifications and assessments
+data privacy and governance
+Quadient security
+Page title: Digital Trust Center | Quadient
+Meta description
+Explore Quadient’s software security, privacy and compliance information, including covered solutions, certifications, governance practices and trust updates.
+________________
+
+
+Module: Hero Standard
+ <Eyebrow> Digital trust
+<Heading> Security, privacy and compliance
+<SubHeading> Clear, current information for customers, partners and review teams.
+<CTA> Contact us
+<CTA Microcopy> Questions on requirements?
+<Content copy> Find out how Quadient governs security, privacy and compliance across software solutions, certifications, operational controls and trust updates.
+Module: Mission Framing
+ <Eyebrow> Scope
+<Heading> Built for Quadient Digital software reviews
+<SubHeading> This Trust Center covers Quadient Digital software solutions and supporting security, privacy and compliance information. For Mail, Lockers or Quadient internal IT topics, please contact the appropriate support or account contact.
+<CTA> Get support
+<links to> https://www.quadient.com/en-us/support
+ Note: The live page explicitly limits scope to Quadient Digital software and routes Mail, Lockers and other non-covered topics elsewhere.
+Module: Stats Block
+ <Eyebrow> At a glance
+<Heading> Trust coverage
+<stat> 15+ standards
+<Content copy> Certifications and frameworks listed
+<stat> 7 solution areas
+<Content copy> Covered in this hub
+<stat> Apr 2026
+<Content copy> Latest posted update
+<stat> Direct contacts
+<Content copy> Privacy and security channels
+Note: Count based on the current badge library, covered solution list and update archive published on the live page.
+Module: Logo Wall
+ <Eyebrow> Included
+<Heading> Current badge library
+<logo> ISO 27001
+<logo> ISO 27701
+<logo> ISO 27017
+<logo> ISO 27018
+<logo> ISO 9001
+<logo> ISO 14001
+<logo> GDPR
+<logo> CCPA
+<logo> HIPAA
+<logo> HITRUST
+<logo> PCI DSS
+<logo> SOC 2
+<logo> SOC 3
+<logo> Cloud Security Alliance
+<logo> NIST 800-53
+<logo> CIS
+
+Module: USP listing
+ <Eyebrow> Governance
+<Heading> Program leadership and accountability
+<SubHeading> How Quadient structures oversight, policy management and specialist ownership across security, privacy and compliance.
+ <CTA> Contact us
+<links to> https://www.quadient.com/en-us/contact-us
+ <Content Heading> Compliance governance
+<Content subheading> Central program management across ISMS, PIMS, QMS, ESG, OHS and fire safety.
+<Content Heading> Oversight committees
+<Content subheading> Cross-functional reviews supports accountability, escalation and continuous improvement.
+<Content Heading> Policies and standards
+<Content subheading> Documented controls guide including acceptable use, access, risk and operational security.
+<Content Heading> Dedicated specialists
+<Content subheading> Security managers, DPOs, cyber analysts, testers and experienced teams support the program.
+<Content Heading> External validation
+<Content subheading> Internal and independent external auditors regularly review controls and compliance levels.
+
+Module: USP listing
+ <Eyebrow> Infrastructure
+<Heading> Product, platform and data safeguards
+<SubHeading> Technical trust content around how Quadient protects environments, access and customer data.
+<CTA> View privacy statement
+<links to> quadient.com/en-us/quadient-website-privacy-statement
+ <Content Heading> Product security
+<Content subheading> How security is considered across software design, delivery and lifecycle management.
+<Content Heading> Data centers
+<Content subheading> Clarify Quadient’s hosting approach and environmental protections for covered cloud services.
+<Content Heading> Customer data separation
+<Content subheading> Show how tenant separation and access boundaries reduce exposure risk.
+<Content Heading> Quadient access to customer data
+<Content subheading> When data access is allowed, how it is controlled and how activity is governed.
+<Content Heading> Subprocessors
+<Content subheading> How third-party providers are governed, reviewed and disclosed where required.
+<Content Heading> Shared responsibility
+<Content subheading> The controls that Quadient manages and which remain with the customer.
+[a] Note: These topics are all named as separate trust areas on the current live page and should remain visible in the new structure.
+Module: USP listing
+ <Eyebrow> Security
+<Heading> Preventive and detective controls
+<SubHeading> Day-to-day security controls are grouped into language that is easier for external reviewers to scan.
+<CTA> Contact us
+<links to> https://www.quadient.com/en-us/contact-us
+ <Content Heading> Awareness and acceptable use
+<Content subheading> Security awareness training and acceptable-use expectations support secure employee behavior.
+<Content Heading> Access and authentication
+<Content subheading> Access control and password management protect systems, data and administrative actions.
+<Content Heading> Hardening and network protection
+<Content subheading> Hardening, encryption and network security reduce exposure across environments and services.
+<Content Heading> Secure development
+<Content subheading> Secure development, quality assurance and vulnerability management strengthen software resilience.
+<Content Heading> Logging and monitoring
+<Content subheading> Logging, monitoring and audit activity improve visibility, traceability and response readiness.
+<Content Heading> External reporting
+<Content subheading> External security reports and responsible disclosure mechanisms support transparency.
+Note: These control areas are all explicitly listed on the current page and should be preserved as reviewable topics.
+Module: USP listing
+ <Eyebrow> Resilience
+<Heading> Continuity, response and operational resilience
+<SubHeading> Keep business continuity and operational assurance highly visible for customer due diligence.
+<CTA> Contact us
+<links to> https://www.quadient.com/en-us/contact-us
+ <Content Heading> Availability and continuity
+<Content subheading> Availability planning, backups and continuity measures support reliable service delivery.
+<Content Heading> Incident response
+<Content subheading> Incident management and security bulletin processes support timely investigation and communication.
+<Content Heading> Recovery readiness
+<Content subheading> Disaster recovery and business continuity planning support restoration and operational resilience.
+<Content Heading> Change and asset management
+<Content subheading> Change management and asset governance help protect system integrity over time.
+<Content Heading> Third-party and HR security
+<Content subheading> Third-party management, HR security and physical security reduce operational risk.
+<Content Heading> Risk and assurance
+<Content subheading> Risk management, cyber insurance and internal or external audits support ongoing assurance.
+Note: These operational topics are all present in the live Trust Center topic list and should remain fully maintained.
+Module: USP listing
+ <Eyebrow> Privacy
+<Heading> Privacy rights and data lifecycle
+<SubHeading> Easier navigate of the privacy section for legal, procurement and customer stakeholders.
+<CTA> View privacy statement
+<links to> quadient.com/en-us/quadient-website-privacy-statement
+ <Content Heading> Data privacy
+<Content subheading> How Quadient approaches lawful, secure and transparent data processing.
+<Content Heading> Data Protection Officer
+<Content subheading> DPO oversight and ownership for privacy matters where applicable.
+<Content Heading> Breach notification
+<Content subheading> Notification commitments and incident communication processes.
+<Content Heading> Data subject rights
+<Content subheading> How rights requests are supported and routed for action.
+<Content Heading> Retention and erasure
+<Content subheading> Retention expectations and data deletion principles.
+<Content Heading> How to contact us
+<Content subheading> Clear routes for privacy questions, requests and follow-up.
+Note: The current page includes distinct sections for privacy, DPO, breach notification, data subject rights, retention, erasure, contact and privacy statement.
+Module: USP listing
+ <Eyebrow> ESG
+<Heading> Environmental management and responsible operations
+ <SubHeading> Retain the environmental and governance content already published in the current Trust Center, while keeping it clearly secondary to software trust information.
+<CTA> Explore sustainability
+<links to> https://www.quadient.com/en-us/sustainability
+ <Content Heading> ESG program
+<Content subheading> Connect trust, governance and responsible business operations at a company level.
+<Content Heading> Environmental goals
+<Content subheading> State environmental ambitions in concise, externally understandable language.
+<Content Heading> Environmental vision
+<Content subheading> Show how long-term environmental thinking supports responsible operations.
+<Content Heading> Recycling and waste
+<Content subheading> Preserve current recycling and waste-reduction content in simplified language.
+<Content Heading> EMS rules
+<Content subheading> Keep environmental management system references visible for reviewers who need them.
+Note: ESG, environmental goals, environmental vision, recycling waste and EMS rules all appear as named sections on the live page.
+Module: Timeline Block
+ <Eyebrow> Updates
+<Heading> Latest trust updates
+<SubHeading> Keep the update archive visible and date-stamped so customers can quickly validate recent certifications, assessments and notices.
+<CTA> Contact us
+<links to> https://www.quadient.com/en-us/contact-us
+ <Content Heading> Apr 2026
+<Content copy> Trust Center update focused on improved structure and easier access to key certifications.
+<Content Heading> Feb 2026
+<Content copy> Security notice published on recognizing fraudulent communications.
+<Content Heading> Jan 2026
+<Content copy> GDPR and CCPA compliance assessment completed.
+<Content Heading> Dec 2025
+<Content copy> HIPAA recertification and SOC 2 recertification published.
+<Content Heading> Aug to Jul 2025
+<Content copy> PCI DSS certification for AR, CSA STAR update and AR payment-card security audit updates published.
+<Content Heading> May to Jun 2025
+<Content copy> ISO 27701, ISO 9001, ISO 27001 and privacy assessment updates published for AR and broader trust programs.
+<Content Heading> 2024 highlights
+<Content copy> HITRUST interim, ISO surveillance, PCI DSS v4.0, ISO 27701 recertification, ISO 27017 and ISO 27018, privacy reassessments and CSA STAR updates remain in archive.
+<Content Heading> 2023 to 2020 archive
+<Content copy> Preserve the full historic update archive already published on the current page rather than truncating it.
+Note: The current page contains a dated update archive running from April 2026 back to 2020.[b]
+Module: FAQs List
+ <Heading> Common trust center questions
+<SubHeading> Make due diligence faster and clearer.
+<question> What does this page cover?
+<Content copy> This page covers Quadient Digital software solutions and the security, privacy and compliance information associated with them. It should clearly state that other Quadient areas, including Mail, Lockers and internal IT topics, may follow different standards or support paths.
+<question> Do all certifications apply to every covered solution?
+<Content copy> No. The page should state this plainly and make solution-level applicability easy to understand through the certification display and related solution sections. This reduces confusion for procurement, legal and security reviewers.
+<question> Which Quadient solutions are included here?
+<Content copy> The page should cover Customer Communications Management, Intelligent Document Automation, Accounts Receivable, Accounts Payable, Quadient Digital Platform, iForms and Managed Services. Each covered area should have concise context so reviewers understand what is in scope.
+<question> How can I request security or privacy information?
+<Content copy> Visitors should be able to contact the right team without searching. Keep both direct email routes and a broader contact path visible so questions can move quickly to privacy, security or commercial stakeholders.
+<question> Where can I find privacy and legal information?
+<Content copy> The page should point visitors to Quadient’s website privacy statement and terms resources in a clearly labeled related-resources section. This helps legal and procurement teams complete reviews faster.
+<question> Why keep the updates archive visible?
+<Content copy> A visible archive shows ongoing program maintenance and makes it easier for customers and partners to confirm recent certifications, assessments and notices. It also reinforces transparency, which is a core purpose of the current page.
+Module: Insights & Resources
+ <Eyebrow> Related
+<Heading> Trust resources
+<CTA> View resources
+<card> <Heading> Website privacy statement <links to> `quadient.com/en-us/quadient-website-privacy-statement` <card> <Heading> Terms and conditions <links to> `quadient.com/en-us/terms-and-conditions` <card> <Heading> FAQs <links to> `https://www.quadient.com/en-us/faqs` <card> <Heading> Resources library <links to> `https://www.quadient.com/en-us/resources`
+Module: Action Block
+ <Eyebrow> Contact
+<Heading> Need information for your review?
+<CTA> Contact us
+<links to> https://www.quadient.com/en-us/contact-us
+ <Content copy> For privacy questions, contact privacyteam@quadient.com. For security questions, contact security@quadient.com. For broader support, use Quadient’s contact form.
+
+
+[a]Note: could/should be a dedicated matrix of what Quadient handles (e.g., infrastructure security) vs. what the customer handles.
+[b]@jb.grossetti@gmail.com Hey! These are bits which haven't run properly and are still instructions at this point. I actually went in and corrected a little bit of copy, before I realised it wasn't quite right, so it's no strictly the original but very close
+_Assigned to jb.grossetti@gmail.com_

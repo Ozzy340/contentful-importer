@@ -1,0 +1,240 @@
+﻿Page: IX-5
+Page goal: Position the Quadient iX-5 as a flexible mailing system for mid-volume offices that need more speed, stronger cost control, and current USPS compliance without stepping up to production equipment. Emphasize simple operation, HF and AF model choice, postage savings, and connected mailing workflows.
+Primary audiences
+ Office managers
+Mailroom managers
+Administrative teams
+Operations leaders
+Secondary audiences
+ Finance teams tracking postage spend
+Businesses upgrading from entry-level meters
+Teams sending both letters and parcels
+Target keyword: iX-5 mailing system
+Supporting keywords:
+ iX-5 postage meter
+mid-volume mailing system
+office postage meter
+USPS IMI postage meter
+auto-feed postage meter
+mailing system for business
+Page title: iX-5 mailing system for mid-volume mail | Quadient
+Meta description: Discover the Quadient iX-5 mailing system for mid-volume mail. Choose hand-feed or auto-feed processing, stay IMI compliant, and manage postage with more speed and control.
+________________
+
+
+<Hero> Contentful module: Hero Standard
+<eyebrow>
+Mid-size business mailing system
+<h1>
+Process mid-volume mail faster with less effort
+<Description>
+The Quadient iX-5 helps simplify daily mailing, control postage costs, and connect mail and shipping workflows with hand-feed and auto-feed options to fit your needs.
+<Primary CTA>
+ Request a demo
+<links to>
+ /contact/request-demo
+<Secondary CTA>
+ Download brochure
+<links to>
+ /resources/ix-5-series-simple-flexible-reliable
+________________
+
+
+<Value proposition intro> Contentful module: USP Listing
+<h2>
+A smarter fit for busy offices
+<Description>
+Mail letters, flats, and parcels faster with the iX-5.
+<bullets>
+ <bullet> Choose hand-feed or auto-feed processing
+<bullet> Meet current USPS IMI and DIM requirements
+<bullet> Save 4 cents on First-Class postage
+<bullet> Manage mailing and shipping costs with connected tools
+________________
+
+
+<Pain points> Contentful module: Stacked Card Block[a]
+<h2>
+ As mail volume grows, small delays add up
+<cards>
+<card>
+ <h3> Processing slows down
+<Description> Manual steps start to bottleneck daily mail.
+<card>
+ <h3> Rate selection takes time
+<Description> Choosing classes and prices manually creates extra work.
+<card>
+ <h3> Spend is harder to track
+<Description> Disconnected tools make postage costs less visible.
+<card>
+ <h3> Letters and parcels stay separate
+<Description> Different systems add steps to everyday mailing.
+________________
+
+
+<How product helps> Contentful module: Stacked Card Block
+<h2>
+ Built to keep mail moving
+<cards>
+<card>
+ <h3> Process more, faster
+<Description> The iX-5 HF runs up to 75 lpm. The iX-5 AF runs up to 110 lpm.
+<card>
+ <h3> Choose rates with less guesswork
+<Description> The color screen, Rate Wizard, and shortcut keys simplify setup.
+<card>
+ <h3> Weigh mail accurately
+<Description> A 5 lb. scale is standard, with larger platform options available.
+<card>
+ <h3> Track costs by account
+<Description> Department accounting and reporting tools improve control.
+________________
+[b]
+
+
+<AI block> Contentful module: AI Block
+<h2>
+Smarter rate selection for everyday users
+<Description>
+The iX-5 guides mail class and rate selection, so you can process mail with more confidence.
+<bullets>
+ <bullet> Guided prompts reduce setup errors
+<bullet> Shortcut keys speed repeat jobs
+<bullet> Clear navigation keeps teams aligned
+________________
+[c]
+
+
+<Key features> Contentful module: USP Listing
+<h2>
+ Designed for speed, control, and ease
+<bullets>
+ <bullet> Up to 75 lpm on iX-5 HF and 110 lpm on iX-5 AF
+<bullet> Color display and intuitive control panel
+<bullet> USPS IMI compliant with on-screen DIM calculations
+<bullet> 5 lb. scale standard with 10, 30, and 70 lb. options
+<bullet> 100 accounts standard, upgradeable to 300 or 500
+<bullet> Neoslogan included for branded envelopes
+________________
+
+
+<Feature spotlight: usability> Contentful module: 50-50 Block[d]
+<h2>
+ Easy to use from the first day
+<Description>
+The iX-5 is designed for everyday office use, with a color screen, shortcut keys, and guided rate selection that reduce training time.
+________________
+
+
+<Feature spotlight: control + reporting> Contentful module: 50-50 Block
+<h2>
+ See mailing costs more clearly
+<Description>
+Connected reporting tools help teams track postage, allocate costs, and manage mailing activity with less manual work.
+________________
+
+
+<Feature spotlight: branding> Contentful module: 50-50 Block
+<h2>
+Bring branding to every envelope
+<Description>
+Neoslogan lets you add logos or messages to outgoing mail. The iX-5 supports a library of more than 100 images and stores up to 10 for quick use.
+________________
+
+
+<Connectivity> Contentful module: USP Listing
+<h2>
+Connected for updates and control
+<Description>
+ The iX-5 connects to online tools that help teams manage postage, reporting, and shipping activity more efficiently.
+<bullets>
+ <bullet> LAN connectivity standard
+<bullet> Online tools for mailing and shipping management
+<bullet> Low Ink Email Alerts help avoid interruptions
+<bullet> S.M.A.R.T. adds shipping, accounting, reporting, and tracking
+________________
+
+
+<Specifications> Contentful module: Comparison Table
+<h2>
+ iX-5 specifications at a glance
+<table>
+ <columns> Feature | Details
+<rows>
+ <row> Processing speed | Up to 75 letters per minute (HF); up to 110 letters per minute (AF)
+<row> Feeding | Semi-automatic hand feed or automatic feed
+<row> Scale capacity | 5 lb. standard; 10, 30, or 70 lb. optional
+<row> Accounts | 100 standard; upgradeable to 300 or 500
+<row> Envelope size | 3.5" x 5" minimum; 10" x 13" maximum
+<row> Envelope thickness | Up to 1/2"
+<row> Connectivity | LAN standard
+<row> Compliance | USPS IMI compliant; on-screen DIM calculations standard
+________________
+
+
+<Who this is for> Contentful module: Solution Card Stacked
+<h2>
+ Built for growing mail operations
+<cards>
+ <card> Offices with steady daily outbound mail
+<card> Teams moving up from entry-level meters
+<card> Organizations that need departmental cost tracking
+<card> Businesses sending both letters and parcels
+________________
+
+
+<Proof> Contentful module: Testimonial
+<h2>
+ Trusted by businesses like yours
+<quote>
+ “The Quadient mailing system is great, easy use and they have great customer service.”
+<attribution>
+ Brian Fahl, Business Professional | US Department of Veterans Affairs
+________________
+
+
+<Related products> Contentful module: Product Family Card
+<h2>
+ Explore other mailing solutions
+<cards>
+<card>
+ DS-64i folder inserter
+Prepare mail quickly at speeds up to 2,500 envelopes per hour.
+<card>
+ S.M.A.R.T. mailroom software
+Bring shipping, mailing, accounting, reporting, and tracking into one dashboard.
+<card>
+ IM-16c letter opener
+Speed up inbound mail as well as outbound processing.
+________________
+
+
+<FAQ module> Contentful module: FAQs List
+<h2>
+ Frequently asked questions
+<accordion>
+ <question> What is the difference between the iX-5 HF and iX-5 AF?
+<question> How fast can the iX-5 process mail?
+<question> Does the iX-5 meet current USPS IMI requirements?
+<question> Can I track postage by department or account?
+<question> Can the iX-5 connect with shipping and reporting tools?
+________________
+
+
+<CTA footer> Contentful module: Mega CTA
+<h2>
+ Ready to make mid-volume mailing easier?
+<Primary CTA>
+ Request a demo
+<links to>
+ /contact/request-demo
+<Secondary CTA>
+ Compare postage meters
+<links to>
+ /postage-meters-mailing-systems
+
+
+[a]comparison table?
+[b]Upsell block here?
+[c]comparison with the alternatives block?
+[d]for which products to use feature spotlight modules?

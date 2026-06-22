@@ -1,0 +1,67 @@
+﻿Page: Stock Quote
+Objective of the page: Share price and stock performance
+Future URL: quadient.com/en-us/investor-relations/stock-quote
+Current URL or Current URLs which will be condensed into one URL: https://invest.quadient.com/en/stock-price
+Primary audiences
+Current shareholders
+Prospective investors
+Institutional investors and analysts
+Financial media and market watchers
+Secondary audiences
+Investor relations contacts
+Employees following market performance
+Corporate finance and governance stakeholders
+Target keyword
+quadient stock quote
+Supporting keywords
+quadient share price
+quadient stock price
+quadient share performance
+quadient investor relations
+Page title: Quadient stock quote & share price | Quadient
+Meta description
+Track Quadient share price with a live stock chart, recent performance views, and key trading information for investors and shareholders.
+________________
+
+
+Module: Hero Standard
+<Eyebrow> Investors
+<Heading> Track Quadient share performance
+<SubHeading> Access live pricing, chart views and core trading information in one place.
+<CTA> Contact IR
+<links to> /en-us/investor-relations/contact
+<CTA Microcopy> Questions for our team
+<Content copy> Built for investors who want immediate access to share performance, trading identifiers and adjacent shareholder resources without extra navigation.
+Module: Stats Block
+<Eyebrow> At a glance
+<Heading> Stock information
+<stat> ISIN
+<Content copy> current ISIN identifier
+<stat> Reuters
+<Content copy> current Reuters code
+<stat> Bloomberg
+<Content copy> current Bloomberg code
+<stat> Listing market
+<Content copy> exchange and compartment
+<stat> Indices
+<Content copy> current index inclusion
+Note: Keep this block directly above the chart so users can confirm trading details before interacting with the live quote.
+Module: Big Idea Panel
+<Heading> See live Quadient share price performance
+<SubHeading> Make the live chart the page’s primary visual with fast-switch time ranges.
+Note: Reuse the live stock quote pattern from the current page, including 7d, 30d, 1y and Max views. Add a compact metrics strip beneath the chart for current price, open price and last updated timestamp.
+Module: Editorial Content Block
+<Eyebrow> Analysts
+<Heading> Review current analyst coverage for Quadient
+<CTA> View analysts
+<links to> /en-us/investor-relations/analysts
+<Content copy> Keep this as a short supporting module with the existing analysts visual and minimal explanatory copy.
+Note: This should sit below the chart, not compete with it.
+Module: Action Block
+<Eyebrow> Quick links
+<Heading> Continue into the rest of investor relations
+<CTA> View agenda
+<links to> /en-us/investor-relations/agenda
+<Content copy> Add lightweight links to Quadient Share and Contact for adjacent shareholder tasks.
+<links to> /en-us/investor-relations/quadient-share
+<links to> /en-us/investor-relations/contact

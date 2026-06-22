@@ -1,0 +1,140 @@
+﻿Page: Capital Market Day
+
+Objective of the page: Capital Market Day event page
+
+Future URL: quadient.com/en-us/investor-relations/capital-market-day
+Current URL or Current URLs which will be condensed into one URL: New page. Current relevant source content lives on:
+invest.quadient.com/en/quadient-investor-relations
+ invest.quadient.com/en/strategy
+ invest.quadient.com/en/newsroom/2900902
+ resources.quadient.com/m/17d6c7fc02e14177/original/CMD-2024-Final-vUS.pdf
+ The current investor experience surfaces Capital Markets Day content across the IR homepage, Strategy page, press release, and standalone presentation deck rather than one dedicated destination.
+Primary audiences
+Institutional investors
+Sell-side analysts
+Existing shareholders
+Prospective shareholders
+Secondary audiences
+Financial media
+Corporate governance stakeholders
+Investor relations contacts
+Target keyword: quadient capital market day
+Supporting keywords: capital markets day, investor presentation, investor event, Quadient strategy, CMD presentation
+Page title: Capital Market Day | Quadient Investor Relations
+Meta description: Explore Quadient Capital Market Day agenda, webcast replay, presentation materials and key strategic takeaways for investors and analysts.
+________________
+
+
+Module: Hero Standard
+ <Eyebrow> Investor Relations
+<Heading> Capital Market Day
+<SubHeading> Agenda, materials and strategic takeaways in one place
+<CTA> View materials
+<CTA Microcopy> Latest event assets
+<Content copy> Central hub for the latest event date, webcast replay, presentation deck and key management messages.
+Module: Announcement Banner
+ <Heading> Latest update
+<SubHeading> Use this space for the current-year event status: registration before the event, replay and materials after it closes.
+<CTA> View agenda
+<links to> quadient.com/en-us/investor-relations/agenda
+ Note: The current IR site references CMD 2024 from the homepage and points users to separate assets; this banner should become the annual switch for live status.
+Module: Siderail Navigation
+<link> Overview <link> Agenda <link> Replay <link> Materials <link> Key takeaways <link> FAQ <link> Contact IR
+Module: Mission Framing
+ <Eyebrow> Event purpose
+<Heading> One annual hub for investors and analysts
+<SubHeading> This page should work as both a live-event destination and a year-over-year archive. Before the event, it helps visitors review the agenda and register. After the event, it becomes the primary source for replay, presentation materials, press release coverage and strategic summary.
+<CTA> Contact IR
+<links to> quadient.com/en-us/investor-relations/contact
+Module: Big Idea Panel
+ <Heading> Elevate to 2030 takes center stage
+<SubHeading> Use this panel for the annual headline theme and the main strategic message management wants investors to remember first.
+Note: The 2024 CMD and current Strategy page center the story on “Elevate to 2030,” making this the right place for the event’s lead narrative.
+Module: Timeline Block
+ <Eyebrow> Agenda
+<Heading> Event flow
+<SubHeading> Keep the day easy to scan, with clear session blocks and speakers
+<Content Heading> Opening remarks
+<Content copy> CEO and CFO frame the strategic context, financial outlook and goals for the session.
+<Content Heading> Platform deep dives
+<Content copy> Break out the core business areas into distinct sessions so investors can understand growth levers, priorities and profitability drivers.
+<Content Heading> Financial framework
+<Content copy> Reserve a clear section for medium-term guidance, capital allocation and ambition-setting.
+<Content Heading> Q&A
+<Content copy> End with dedicated analyst and investor Q&A, supported by downloadable materials.
+<CTA> View agenda
+<links to> quadient.com/en-us/investor-relations/agenda
+ Note: The 2024 CMD agenda covered Customer value, Digital automation platform, Mail automation platform, Lockers automation platform, Global capabilities, Growing sustainably, and Elevate in numbers.
+Module: Full Video Block
+ <Heading> Watch the event replay
+<Content copy> Embed the most recent Capital Market Day webcast replay directly on page so investors do not need to leave the experience.
+<CTA> Watch replay
+<links to> [external asset placeholder – current year webcast replay]
+Note: External asset URL to validate annually. The current investor site already surfaces CMD replay access within the broader IR experience.
+Module: Insights & Resources
+ <Eyebrow> Materials
+<Heading> Event documents
+<card>
+<Heading> Presentation deck
+<Content copy> Primary slide deck for the current year’s Capital Market Day.
+<links to> [external asset placeholder – current year PDF]
+<card>
+<Heading> Press release
+<Content copy> Official company announcement summarizing the event and strategic updates.
+<links to> [external asset placeholder – current year newsroom release]
+<card>
+<Heading> Replay transcript
+<Content copy> Transcript or summary page for investors who want a fast written recap.
+<links to> [placeholder – destination to validate]
+<card>
+<Heading> Financial results
+<Content copy> Related annual and interim results that support the event narrative.
+<links to> quadient.com/en-us/investor-relations/financial-results
+ <CTA> View news
+<links to> quadient.com/en-us/investor-relations/news
+ Note: Current CMD source materials exist as separate press release and PDF presentation assets; this module should unify them on one page.
+Module: Stats Block
+ <Eyebrow> Highlights
+<Heading> In numbers
+<stat> >€1bn subscription-related revenue ambition by 2030
+<stat> c.€250m current EBIT ambition by 2030
+<stat> -35% CO2 ambition vs 2018 baseline
+Note: These are strong candidates for the key-highlight strip because they are specific, memorable and investor-relevant takeaways from the 2024 CMD materials.
+Module: Standard Card
+ <Heading> Customer-centric platform
+<Content copy> Summarize how Quadient positions the platform around stronger customer value and more seamless experiences.
+Module: Standard Card
+ <Heading> Recurring revenue model
+<Content copy> Highlight subscription-related growth, cross-sell potential and higher value per customer.
+Module: Standard Card
+ <Heading> Sustainable growth focus
+<Content copy> Show how ESG commitments and long-term operating discipline support the strategy.
+Module: Standard Card
+ <Heading> Investment proposition
+<Content copy> Clarify the long-term growth, profitability and capital allocation story for investors.
+Note: These four cards should reflect the major strategic pillars already articulated on the Strategy page and in the CMD messaging.
+Module: FAQs List
+ <Heading> Capital Market Day FAQs
+<SubHeading> Answer the key practical questions before and after the event
+<question> When is the next Capital Market Day?
+<answer> Confirm the event date here first, then direct users to the detailed agenda section.
+<question> Where can I access the presentation and webcast replay?
+<answer> Surface both assets in-page and keep them available in the materials section after the event.
+<question> Will previous Capital Market Day materials remain available?
+<answer> Yes — maintain an archive so investors can compare strategic messaging across years.
+<question> Where can I find related financial results and regulated information?
+<answer> Link directly to Financial Results and Regulated Information from the FAQ and footer CTA area.
+<question> How can I contact Investor Relations?
+<answer> Provide a direct path to the IR contact page for follow-up questions.
+<links to> quadient.com/en-us/investor-relations/contact
+ <links to> quadient.com/en-us/investor-relations/financial-results
+ <links to> quadient.com/en-us/investor-relations/regulated-information
+Module: Action Block
+ <Eyebrow> Next steps
+<Heading> Stay connected with Investor Relations
+<Content copy> Follow Quadient’s strategy, review results and contact the Investors Relations team.
+<CTA> Contact Investors Relations at Quadient
+<links to> quadient.com/en-us/investor-relations/contact
+ <links to> quadient.com/en-us/investor-relations
+ <links to> quadient.com/en-us/investor-relations/news
+ <links to> quadient.com/en-us/investor-relations/financial-results

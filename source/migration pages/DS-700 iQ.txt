@@ -1,0 +1,200 @@
+﻿DS-700 iQ
+Sitemap
+Folder inserters > Production mail > DS-700 iQ folder inserter
+Page goal: Position the Quadient DS-700 iQ as a high-volume, scalable folder inserter for production mail centers that need speed, flexibility, closed-loop verification, and reliable handling for complex mail applications.
+Primary audiences
+ Production mail managers
+Mail center operations teams
+Print and mail service providers
+Compliance-focused operations teams
+Secondary audiences
+ Healthcare billing teams
+Financial services teams
+Direct mail production teams
+Organizations upgrading from DS-600 iQ or mid-volume inserters
+Target keyword: DS-700 iQ folder inserter
+Supporting keywords:
+ high-volume folder inserter
+production folder inserter
+mail inserting machine
+document inserting machine
+automated insertion management system
+Quadient DS-700 iQ
+Page title: DS-700 iQ high-volume folder inserter | Quadient
+Meta description: Discover the Quadient DS-700 iQ folder inserter for high-volume production mail. Process up to 7,000 envelopes per hour with modular feeding, barcode reading, and closed-loop verification.
+________________
+
+
+<Hero> Contentful module: Hero Standard
+<eyebrow>
+ Production folder inserter
+<h1>
+ High-volume mail assembly, built to scale
+<Description>
+ The Quadient DS-700 iQ helps production mail centers to handle applications from direct mail campaigns to confidential medical billing and financial statements.
+<Primary CTA>
+ Speak with an expert
+<CTA microcopy>
+ See how the DS-700 iQ can be configured for your operation.
+<Secondary CTA>
+ Download brochure
+________________
+
+
+<Value proposition intro> Contentful module: USP Listing
+<h2>
+A new standard for high-volume mail
+<Description>
+ The DS-700 iQ combines speed, modularity, automatic setup, and closed-loop tracking to help production teams take on more jobs with fewer manual touchpoints.
+<bullets>
+ <bullet> Process up to 300,000 envelopes per month.
+<bullet> Run up to 7,000 envelopes per hour.
+<bullet> Configure up to 11 insert or sheet feeders.
+<bullet> Use AIMS for closed-loop mailpiece verification.
+________________
+
+
+<Video Block> Contentful module: Full Video Block
+<h2>
+ See the DS-700 iQ in production
+________________
+
+
+<How product helps> Contentful module: Stacked Card Block
+<h2>
+ Built for complex production jobs
+<cards>
+<card>
+ <h3> Speeds up output
+<Description> Automatically collate, fold, insert, seal, and count up to 7,000 mail pieces per hour.
+<card>
+ <h3> Adapts to each job
+<Description> Load documents and envelopes, press Start, and the system adjusts folding, pack size, and envelope settings.
+<card>
+ <h3> Protects mailpiece integrity
+<Description> AIMS monitors, records, and reports document assembly for end-to-end closed-loop verification.
+<card>
+ <h3> Scales as needs change
+<Description> Modular feeder and output options let teams adapt the system as applications grow.
+________________
+
+
+<Upsell bundle> Contentful module: Product Family Card
+<h2>
+ Enhance your mailing workflow
+<cards>
+<card>
+ AIMS
+ Track mailpiece assembly in real time and verify that the right documents reach the right envelope.
+<card>
+ Impress Automate
+ Format, sort, group, personalize, and barcode documents before inserting.
+<card>
+ Dynamic envelope printing
+ Print recipient details, return addresses, slogans, or permit indicias on envelopes.
+<card>
+ Postage meter interface
+ Connect inserting and postage workflows for a smoother production finish.
+________________
+
+
+<Comparison with the alternatives> Contentful module: Comparison Table
+<h2>
+ See the difference in production mail
+<table>
+ <columns> Alternatives | Quadient DS-700 iQ
+<rows>
+ <row> Manual setup | Automatic adjustments for folding, pack size, and envelope settings.
+<row> Fixed inserting capacity | Modular design with up to 11 insert or sheet feeders.
+<row> Manual integrity checks | AIMS provides closed-loop verification and reporting.
+<row> Limited application range | Handles #10 envelopes through 10" x 13" formats.
+________________
+
+
+<Key features> Contentful module: USP Listing
+<h2>
+ Key features at a glance
+<bullets>
+ <bullet> Up to 300,000 envelopes monthly volume.
+<bullet> Up to 7,000 envelopes per hour.
+<bullet> 22" touchscreen with wizard-based software.
+<bullet> Accumulation speed up to 14,000 sheets per hour.
+<bullet> Optional OMR, BCR, 2D, and QR code reading.
+<bullet> Full modularity with multiple output options.
+________________
+
+
+<Specifications> Contentful module: Comparison Table
+<h2>
+ Specifications at a glance
+<table>
+ <columns> Feature | Details
+<rows>
+ <row> Monthly volume | 300,000 envelopes per month
+<row> System speed | Up to 7,000 envelopes/hour
+<row> Accumulation speed | Up to 14,000 sheets/hour
+<row> Set thickness | Up to 10 mm / 3⁄8"
+<row> Touchscreen PC control | Yes
+<row> Automatic job setup | Yes
+<row> Sheet feeder capacity | 2,000 sheets
+<row> Number of feeders | 11 insert or sheet feeders
+<row> Insert feeder capacity | Up to 250 mm / 10"
+<row> Envelope feeder capacity | Up to 800 #10 or 500 10" x 13" envelopes
+<row> Sealing liquid capacity | 10 liters
+<row> Multiple folders | Up to 8
+<row> Mark reading | Optional OMR, BCR, 2D, or QR
+<row> Doubles detection | Yes
+<row> Closed-loop verification | Yes, with AIMS
+<row> Postage meter interface | Optional
+<row> Dynamic envelope printing | Optional
+<row> Full modularity | Yes
+Specs sourced from the official Quadient DS-700 iQ brochure.
+<CTA>
+ Download full specifications
+________________
+
+
+<Related products and solutions> Contentful module: Product Family Card
+<h2>
+ Explore other Quadient products
+<cards>
+<card>
+ DS-1200 G5iQ folder inserter
+ Step up to the highest-volume production inserting workflows.
+<card>
+ iX-9 mailing system
+ Add high-output metering for production mail centers.
+<card>
+ AIMS
+ Monitor mailpiece integrity with real-time tracking and reporting.
+________________
+
+
+<FAQ module> Contentful module: FAQs List
+<h2>
+ Frequently asked questions
+<accordion>
+ <question> What mail volume is the DS-700 iQ built for?
+<question> How fast can the DS-700 iQ process mail?
+<question> Can the DS-700 iQ handle variable and complex jobs?
+<question> Does the DS-700 iQ support closed-loop verification?
+________________
+
+
+<Proof> Contentful module: Testimonial
+<h2>
+ Trusted by production mail teams
+<quote>
+ “With lower operating overheads, the new system has already made a significant contribution to the company’s performance.”
+<attribution>
+ Steve Beeching, Managing Director, FCS
+________________
+
+
+<Final CTA> Module: CTA Form
+<h2>
+ Ready to scale high-volume mail assembly?
+<Primary CTA>
+ Speak with an expert
+<links to>
+ /contact

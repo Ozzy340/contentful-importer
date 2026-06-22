@@ -1,0 +1,92 @@
+﻿Page: Calendar - IR
+Objective of the page: Investor Relations calendar
+Future URL: quadient.com/en-us/investor-relations/calendar
+Current URL or Current URLs which will be condensed into one URL: https://invest.quadient.com/en/agenda
+Primary audiences
+Institutional investors
+Financial analysts
+Existing shareholders
+Prospective shareholders
+Secondary audiences
+Financial media
+Corporate governanvidual shareholders
+Target keyword
+investor relations calendar
+Supporting keywords
+financial calendar
+investor events calendar
+IR calendar
+Quadient investor calendar
+Page title
+Investor Relations Calendar | Quadient
+Meta description
+Track upcoming Quadient Investor Relations events, including financial results, shareholder meetings and other key dates.
+Module: Hero Standard
+<Eyebrow> Investor Relations
+<Heading> Track every key IR date
+<SubHeading> See upcoming results, AGM and investor milestones in one place.
+<CTA> View events
+<CTA Microcopy> Updated as dates change
+<Content copy> This page helps investors plan ahead with a clear view of reporting dates, meetings and other important Quadient milestones.
+Module: Timeline Block
+<Eyebrow> 20XX
+<Heading> Upcoming events
+<SubHeading> Key reporting dates and investor milestones for the year ahead.
+<Content Heading> FY results
+<Date> [Month day, year]
+<Content copy> Publication of [FY 20XX results and Q4 20XX sales]. Quiet period: [Month day] to [Month day, year].
+<CTA> Add to calendar
+<CTA Microcopy> Download Outlook invite
+<Content Heading> Q1 sales
+<Date> [Month day, year]
+<Content copy> Publication of [Q1 20XX sales]. Quiet period: [Month day] to [Month day, year].
+<CTA> Add to calendar
+<CTA Microcopy> Download Outlook invite
+<Content Heading> Annual Meeting
+<Date> [Month day, year]
+<Content copy> [Annual General Meeting of shareholders]. Include time, format and registration details if relevant.
+<CTA> Add to calendar
+<CTA Microcopy> Download Outlook invite
+<Content Heading> HY results
+<Date> [Month day, year]
+<Content copy> Publication of [HY 20XX results and Q2 20XX sales]. Quiet period: [Month day] to [Month day, year].
+<CTA> Add to calendar
+<CTA Microcopy> Download Outlook invite
+<Content Heading> Q3 sales
+<Date> [Month day, year]
+<Content copy> Publication of [Q3 20XX sales]. Quiet period: [Month day] to [Month day, year].
+<CTA> Add to calendar
+<CTA Microcopy> Download Outlook invite
+Note: Each event should be a separate CMS entry with structured fields for date, event title, short description, quiet period, add-to-calendar file, and optional supporting link.
+Note: Replace generic “upcoming events” utility language with an event-level “Add to calendar” CTA, per the attached IR planning guidance.
+Module: Editorial Content Block
+<Eyebrow> Financial results
+<Heading> Find the latest results materials
+<CTA> View results
+<Content copy> When an event has passed, direct visitors to Financial Results for the related press release, presentation, webcast and report.
+<links to> quadient.com/en-us/investor-relations/financial-results
+Module: Stacked Card
+<Eyebrow> Quick links
+<Heading> Go deeper into investor information
+<SubHeading> Three useful destinations beyond the calendar
+<Content Heading> Financial results page
+<Content copy> Access reports, presentations, webcasts and releases by period.
+<CTA> Open page
+<CTA Microcopy> Latest published materials
+<links to> quadient.com/en-us/investor-relations/financial-results
+<Content Heading> Share price page
+<Content copy> Review current share data and recent market performance.
+<CTA> Open page
+<CTA Microcopy> Market data overview
+<links to> quadient.com/en-us/investor-relations/share-price
+<Content Heading> IR contact page
+<Content copy> Find contacts for analysts, investors and shareholders.
+<CTA> Open page
+<CTA Microcopy> Direct team details
+<links to> quadient.com/en-us/investor-relations/contact
+Module: Action Block
+<Eyebrow> Questions
+<Heading> Need help from the investor relations team?
+<CTA> Contact IR
+<Content copy> Send visitors to the dedicated Investor Relations contact page for analyst, shareholder and media enquiries.
+<links to> quadient.com/en-us/investor-relations/contact

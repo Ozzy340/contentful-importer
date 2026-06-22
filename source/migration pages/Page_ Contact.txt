@@ -1,0 +1,146 @@
+﻿Page: Contact[a]
+Objective of the page: Contact us form
+Future URL: https://www.quadient.com/en-us/contact-us
+Current URL or Current URLs which will be condensed into one URL: https://www.quadient.com/en-us/contact-us[b] ; https://www.quadient.com/en-us
+Primary audiences
+• Prospective customers who need to reach sales or ask product questions quickly
+• Existing customers looking for the fastest route to product or service support
+• Visitors seeking legal, privacy, or general corporate contact information
+Secondary audiences
+• Investors and analysts
+• Partners and prospective partners
+• Job seekers
+Target keyword: quadient support
+Supporting keywords: quadient customer service phone number; quadient phone number; quadient service client
+Page title: Contact us | Quadient
+Meta description: Contact Quadient for sales inquiries, support, investor relations, partner questions, and legal or privacy requests from one clear utility page.
+________________
+
+
+Module: Announcement Banner
+<Heading> Need support?
+<SubHeading> Existing customers should start in the Support Center for service requests, troubleshooting, and product help.
+<CTA> Get support
+<links to> https://www.quadient.com/en-us/support
+Note: Keep this banner visible above the hero on both desktop and mobile because support intent is likely the highest-volume alternate pathway.
+Module: Hero Standard
+<Eyebrow> Contact
+<Heading> Get to the right team
+<SubHeading> Find the fastest route for sales, support, legal, or corporate questions.
+<CTA> Complete form
+<CTA Microcopy> For general inquiries
+<Content copy> This page should behave like a routing hub first and a lead form second, helping visitors self-select the right path before they submit.
+Module: Solutions Toggle
+<Heading> Choose the help you need
+<SubHeading> Let visitors self-select by intent before they use the general form.
+<Content Heading> Sales
+<Content subheading> Product questions
+<Content copy> Direct prospects and active evaluations to the contact form with a preselected reason for contact.
+<CTA> Use form
+<Destination> Embedded form or same-page section
+<Content Heading> Support
+<Content subheading> Existing customers
+<Content copy> Send service requests and troubleshooting needs to the Support Center instead of the general form.
+<CTA> Get support
+<links to> https://www.quadient.com/en-us/support
+<Content Heading> Legal & Privacy
+<Content subheading> Policies and requests
+<Content copy> Route privacy, terms, cookies, and security questions to the dedicated legal and compliance resources below.
+<CTA> View legal links
+<Destination> Embedded form or same-page section
+<Content Heading> Investor Relations
+<Content subheading> Financial contacts
+<Content copy> Provide a direct path for analysts and investors to the dedicated Investor Relations contact page.
+<CTA> Contact IR
+<links to> https://www.quadient.com/en-us/investor-relations/contact
+<Content Heading> Careers
+<Content subheading> Job seekers
+<Content copy> Send candidates to the careers hub or job listings rather than the general inquiry form.
+<CTA> View careers
+<links to> https://www.quadient.com/en-us/careers
+<Content Heading> Partners
+<Content subheading> Channel inquiries
+<Content copy> Route partner and reseller interest to the partner hub and application paths.
+<CTA> Explore partners
+<links to> https://www.quadient.com/en-us/partners
+Note: Use simple labels and avoid marketing language; the goal is fast task completion and clean routing.
+Module: CTA Form
+<Heading> Tell us what you need help with
+<CTA> Submit form
+<CTA Microcopy> Routed by inquiry type
+<Field> First name
+<Field> Last name
+<Field> Work email
+<Field> Company
+<Field> Country
+<Field> Reason for contact
+<Field> Product or solution of interest
+<Field> Message
+<Routing logic> Adjust the form experience dynamically based on the selected reason for contact.
+<Path> Sales or product information -> submit as standard lead or inquiry
+<Path> Support -> prompt the visitor to use the Support Center before continuing
+<Path> Investor Relations -> route or redirect to the dedicated IR contact page
+<Path> Partner inquiry -> route or redirect to the partner page
+<Path> Other corporate inquiry -> submit through the general contact workflow
+<Privacy notice> Add concise consent copy with a direct link to https://www.quadient.com/en-us/quadient-website-privacy-statement
+Note: Reason for contact should appear early in the form so the page can reduce misrouted submissions and suppress unnecessary fields.
+Module: Product Card Listing
+<Eyebrow> Legal
+<Heading> Legal and privacy resources
+<SubHeading> Give visitors direct access to policy, security, and cookie-management pages without using the contact form.
+<card>
+<Heading> Security, Privacy, Compliance
+<Description> Primary hub for security and privacy information.
+<CTA> View page
+<links to> https://www.quadient.com/en-us/security-privacy-compliance
+<card>
+<Heading> Website Privacy Statement
+<Description> Website privacy statement and terms of use.
+<CTA> View page
+<links to> https://www.quadient.com/en-us/quadient-website-privacy-statement
+<card>
+<Heading> Terms & Conditions
+<Description> Website terms and conditions.
+<CTA> View page
+<links to> https://www.quadient.com/en-us/terms-and-conditions
+<card>
+<Heading> Preference Center
+<Description> Manage cookie and communication preferences.
+<CTA> Manage preferences
+<links to> https://www.quadient.com/en-us/preferences/manage
+Module: Product Card Listing
+<Eyebrow> More routes
+<Heading> Other Quadient destinations
+<SubHeading> Offer direct paths for audiences with a specific business need outside the general contact form.
+<card>
+<Heading> Investor Relations
+<Description> Dedicated contact path for investors and analysts.
+<CTA> Contact IR
+<links to> https://www.quadient.com/en-us/investor-relations/contact
+<card>
+<Heading> Careers
+<Description> Direct job seekers to careers information and open roles.
+<CTA> View careers
+<links to> https://www.quadient.com/en-us/careers
+<card>
+<Heading> Job Hub
+<Description> Send candidates straight to current job listings.
+<CTA> View jobs
+<links to> https://www.quadient.com/en-us/careers/job-hub
+<card>
+<Heading> Partners
+<Description> Route prospective partners and resellers to partner information.
+<CTA> Explore partners
+<links to> https://www.quadient.com/en-us/partners
+<card>
+<Heading> Become a Partner
+<Description> Direct application path for partner recruitment.
+<CTA> Join us
+<links to> https://www.quadient.com/en-us/become-partner
+Module: FAQs List
+
+
+
+
+[a]Mapped page here: https://gemini.google.com/share/f2c202420035
+[b]and mail: https://mail.quadient.com/en/contact-us

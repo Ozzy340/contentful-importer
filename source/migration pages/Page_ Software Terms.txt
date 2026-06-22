@@ -1,0 +1,271 @@
+﻿Page: Software Terms
+ Objective of the page: Share all Quadient software products terms and conditions in one place, across products, regions and languages, including current and past versions.
+Future URL: https://www.quadient.com/en-us/software-terms
+ Current URL or Current URLs which will be condensed into one URL:
+https://www.quadient.com/en/digital-terms
+ https://www.quadient.com/en-int/eula
+ https://www.quadient.com/en/software-terms-eula-archived
+ https://mail.quadient.com/en/software-terms
+Primary audiences
+Procurement, legal and compliance teams reviewing software agreements
+Existing customers and prospects validating contract terms before purchase, renewal or deployment
+IT, security and operations stakeholders checking product-specific terms, support terms and DPAs
+Secondary audiences
+Quadient sales representatives sharing gated documents
+Customer support and renewal teams helping customers locate the right agreement version
+Regional teams managing country-specific service terms
+Target keyword
+software terms
+Supporting keywords
+software terms and conditions
+software EULA
+archived software terms
+software license agreement
+data processing addendum
+Page title
+Software Terms | Quadient
+Meta description
+Access current and archived Quadient software terms and conditions by product, region, language and version.
+Module: Hero Standard
+ <Eyebrow> Legal
+<Heading> Find the right terms
+<SubHeading> Current and archived software agreements, organized by product, region, language and version.
+<CTA> Contact us
+<CTA Microcopy> Need access help
+<Content copy> Access current software terms, archived versions, support terms and related legal documents from one structured hub.
+<links to> https://www.quadient.com/en-us/contact-us
+ Note: Replace the current explanatory paragraphs with a cleaner utility-focused intro, but retain every document family currently surfaced on the source page. Some restricted documents can still point users to contact Quadient for access support.
+Module: Siderail Navigation
+ <anchor> Overview
+<links to> #overview
+ <anchor> General terms
+<links to> #general-terms
+ <anchor> Specific terms
+<links to> #specific-terms
+ <anchor> Archived software terms
+<links to> #archived-software-terms
+ <anchor> Digital support services
+<links to> #digital-support-services
+ <anchor> Data processing addendums & InfoSec
+<links to> #data-processing-addendums-infosec
+ <anchor> Professional services
+<links to> #professional-services
+ <anchor> Digital licensors
+<links to> #digital-licensors
+ <anchor> Need help?
+<links to> #need-help
+ Note: The repeated “Top of page” behavior on the live source page should become sticky in-page navigation instead of repeated text links.
+Module: Announcement Banner
+ <Heading> Archived terms
+<SubHeading> Need an older agreement? Jump directly to past versions and pre-May 2024 documents.
+<CTA> View archive
+<links to> #archived-software-terms
+ Note: The current software-terms model already separates current terms from archived terms; keep that pattern in the new US page.
+Module: Mission Framing
+ <Eyebrow> Overview
+<Heading> One legal hub for every software agreement
+<SubHeading> Users should be able to browse by document status, product, deployment model, region and language without losing legacy documents or historical versions.
+<CTA> Browse now
+Module: Solutions Toggle
+ <Heading> Browse software terms your way
+<SubHeading> Let users switch between live agreements, archived versions and regional-language documents.
+<CTA> View all
+<links to> #specific-terms
+ <Content Heading> Current terms
+<Content subheading> Live agreements
+<Content copy> Show the latest valid terms first, with a clear current badge and effective date.
+<Content Heading> Archived terms
+<Content subheading> Past versions
+<Content copy> Surface prior agreements in reverse chronological order under each product family.
+<Content Heading> Regions & languages
+<Content subheading> Local variants
+<Content copy> Keep regional and translated files grouped under the relevant product instead of duplicating full-page sections.
+Note: This is the core structural improvement for the new CMS page: easier browsing without changing the legal inventory.
+Module: Insights & Resources
+ <Eyebrow> General
+<Heading> General terms
+<CTA> View specific terms
+<links to> #specific-terms
+ <card> Current General Terms & Conditions
+<Description> Primary current agreement record, with effective date, language tags and direct downloads.
+<card> Language variants
+<Description> Group translated versions under the same record so users can switch language without leaving the section.
+<card> Past versions
+<Description> Archived General Terms & Conditions listed newest to oldest beneath the current record.
+Note: The live source page opens with General Terms & Conditions before product-specific and other legal documents; keep that order.
+Module: Solution Card Stacked
+ <Eyebrow> Specific
+<Heading> Browse specific terms by software family
+<SubHeading> Preserve the current three-part structure, but make it easier to scan and filter.
+<card> Global Cloud Solutions
+<Description> Product-specific terms for global cloud products.
+<links to> #global-cloud-solutions
+ <card> Country Specific Cloud Services
+<Description> Country or regional services with local agreements and language variants.
+<links to> #country-specific-cloud-services
+ <card> Global On-Premise Software
+<Description> On-premise product terms and deployment-specific agreements.
+<links to> #global-on-premise-software
+ Note: These three groupings come directly from the source page and should remain explicit in the new IA.
+Module: Insights & Resources
+ <Eyebrow> Specific
+<Heading> Global cloud solutions
+<CTA> View archive
+<links to> #archived-software-terms
+ <card> Inspire Evolve
+<Description> Current product terms, language variants, effective date, and archived versions link.
+<card> Inspire Flex Cloud
+<Description> Cloud agreement record with regional variants where applicable and direct path to archived versions.
+<card> Inspire iForms
+<Description> Current product terms and language-specific files retained from the source page.
+<card> Inspire Journey
+<Description> Current software terms aligned with the newer software-terms model.
+<card> Quadient Impress Cloud
+<Description> Current cloud agreement record with version history and language groupings.
+<card> Accounts Receivable (AR) by Yaypay
+<Description> Maintain current source-page terms and archive links under the AR product family.
+<card> Accounts Payable (AP) by Beanworks
+<Description> Maintain current source-page terms and archive links under the AP product family.
+<card> Cloud Services
+<Description> Shared cloud services documents that apply across product families, clearly separated from product-specific terms.
+Note: Use current product naming in headings where needed, but do not lose legacy document groupings from the source page. The current global software-terms page and archived page should enrich this section, not replace the original inventory.
+Module: Insights & Resources
+ <Eyebrow> Specific
+<Heading> Country specific cloud services
+<CTA> View archive
+<links to> #archived-software-terms
+ <card> DCS - UK and Ireland
+<Description> Country-specific terms, current files, language variants and archived versions.
+<card> e-Services - Germany
+<Description> Germany-specific service terms with local-language document handling.
+<card> France - e-Invoicing Services
+<Description> France-specific service agreements, current and archived.
+<card> Neotouch - France & Benelux
+<Description> Preserve local service terms and translated variants under one regional record.
+<card> Neobox - France & Benelux
+<Description> Preserve local service terms and translated variants under one regional record.
+<card> EDI B4 - France & Benelux
+<Description> Retain all current and historical document files for this service family.
+<card> Aangetekend Mailen - Belgium & The Netherlands
+<Description> Keep local-language agreements visible and versioned under the same service record.
+Note: This section should stay grouped by geography/service, not folded into generic product buckets.
+Module: Insights & Resources
+ <Eyebrow> Specific
+<Heading> Global on-premise software
+<CTA> View archive
+<links to> #archived-software-terms
+ <card> Inspire Flex On Premise
+<Description> Current on-premise agreements, effective dates and archived versions grouped together.
+<card> Impress Automate
+<Description> Preserve the original on-premise product terms from the source page.
+<card> Quadient Impress On-Premise
+<Description> Align with the newer software-terms naming while retaining historical files.
+Note: On-premise agreements are explicit on both the older digital-terms page and the newer software-terms model, so this section should consolidate rather than simplify.
+Module: Timeline Block
+ <Eyebrow> Archive
+<Heading> Version history
+<SubHeading> Make older agreements easy to find without competing with current documents.
+<Content Heading> Current
+<Content copy> The latest valid agreement appears first with a current badge and effective date.
+<Content Heading> Archived
+<Content copy> Pre-May 2024 and older agreements appear directly beneath each related product family.
+<Content Heading> Legacy
+<Content copy> Historic regional versions stay accessible through version labels, not orphan pages.
+Note: The current archived software-terms page is explicitly positioned as the pre-May 2024 archive and should remain one click away from the current terms experience.
+Module: Insights & Resources
+ <Eyebrow> Archive
+<Heading> Archived software terms
+<CTA> View current
+<links to> #specific-terms
+ <card> Inspire family archive
+<Description> Archived records for Inspire Evolve, Inspire Flex Cloud, Inspire Flex On Premise and Inspire Journey.
+<card> Regional Flex archive
+<Description> APAC, EMEA, NORAM and Japan variants grouped under archived Flex records.
+<card> Impress archive
+<Description> Archived Quadient Impress Cloud and On-Premise versions, with historic effective dates.
+<card> Shared archive documents
+<Description> Archived Cloud Services and Data Processing Addendums grouped separately from product terms.
+Note: Keep archived content inside the same page experience rather than sending users to a disconnected legacy area. The archive inventory should mirror the current archived page structure.
+Module: Insights & Resources
+ <Eyebrow> Support
+<Heading> Digital support services
+<CTA> Contact us
+<links to> https://www.quadient.com/en-us/contact-us
+ <card> Global Cloud Solutions
+<Description> Digital Support Terms for current cloud products.
+<card> Country Specific Cloud Solutions
+<Description> Support terms for DCS UKI and e-Services Germany, with regional variants preserved.
+<card> Global On-Premise Software
+<Description> On-premise support terms grouped by product family and version.
+Note: Keep the exact three-way grouping from the live source page.
+Module: Insights & Resources
+ <Eyebrow> Privacy
+<Heading> Data processing addendums & InfoSec
+<CTA> Security page
+<links to> quadient.com/en-us/security-privacy-compliance
+ <card> Global Cloud Solutions
+<Description> DPAs, InfoSec documents and supporting privacy/security files for global cloud services.
+<card> Country Specific Cloud Solutions
+<Description> Region-specific privacy and information security documents tied to local services.
+<card> Global On-Premise Software
+<Description> Relevant security or data-handling documents for on-premise products.
+Note: Keep this section distinct from commercial terms so users can find privacy and security documentation quickly. The internal related legal destination comes from the sitemap workbook.
+Module: Insights & Resources
+ <Eyebrow> Services
+<Heading> Professional services
+<CTA> View related terms
+<links to> #general-terms
+ <card> General Terms & Conditions
+<Description> Professional services general terms record, with current and archived versions.
+<card> Specific Terms & Conditions
+<Description> Any service-specific professional services documents grouped beneath the main record.
+Note: The source page already separates professional services from software terms, so keep that distinction.
+Module: Insights & Resources
+ <Eyebrow> Regions
+<Heading> Digital licensors
+<CTA> Contact us
+<links to> https://www.quadient.com/en-us/contact-us
+ <card> UK, Ireland (UKI)
+<Description> Regional licensor documents and local-language files where applicable.
+<card> France, Belgium, The Netherlands, Luxemburg (FRBNL)
+<Description> Regional licensor documentation grouped under one territory record.
+<card> Central Europe (CE) & International Operations (IO)
+<Description> Regional licensor terms and historic versions.
+<card> North America (NORAM)
+<Description> Regional licensor terms and historic versions.
+Note: Retain the regional labels exactly as they appear on the live page.
+Module: Product Family Card
+ <Heading> Related legal pages
+<card> Website Privacy Statement & Terms of Use
+<Content copy> Separate website privacy and use terms.
+<CTA> View page
+<links to> quadient.com/en-us/quadient-website-privacy-statement
+ <card> Security, Privacy, Compliance
+<Content copy> Central legal and compliance support page.
+<CTA> View page
+<links to> quadient.com/en-us/security-privacy-compliance
+ <card> Terms & Conditions
+<Content copy> Website-level terms page.
+<CTA> View page
+<links to> quadient.com/en-us/terms-and-conditions
+ Note: These related legal destinations come from the sitemap workbook and give users a cleaner legal ecosystem around the software-terms page.
+Module: Action Block
+ <Eyebrow> Access
+<Heading> Need help finding a document?
+<CTA> Contact us
+<Content copy> For password-protected files or missing historical agreements, direct users to the Quadient contact form.
+<links to> https://www.quadient.com/en-us/contact-us
+ Note: Both the source page and the archived software-terms page tell users to contact Quadient when access is restricted. Preserve that support path.
+Module: FAQs List
+ <Heading> Common questions
+<SubHeading> Help users self-serve before contacting support.
+<question> How do I know which agreement is current?
+<Content copy> Show one current badge, one effective date and language tags on the primary document row for each product or service family.
+<question> Where do I find past versions?
+<Content copy> Place archived versions directly under each product family in reverse chronological order, with a jump link to the archive section.
+<question> Why are some documents password protected?
+<Content copy> Some legacy or restricted files may require access support. Keep the contact path visible at both the top and bottom of the page.
+<question> Can I browse by language?
+<Content copy> Yes. Every document row should include language labels so users can switch to the right translated file without leaving the section.
+<question> What if my product or region is missing?
+<Content copy> Contact Quadient and include product name, deployment model, region and approximate contract date.

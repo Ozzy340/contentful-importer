@@ -1,0 +1,140 @@
+﻿Page: FAQs[a]
+Objective of the page: Present a lot of FAQs on our products, solutions, the company, and support topics.
+Future URL: https://www.quadient.com/en-us/faqs
+Current URL or Current URLs which will be condensed into one URL:
+https://mail.quadient.com/en/faq
+https://mail.quadient.com/en/faq/customer-service
+https://mail.quadient.com/en/faq/supplies
+https://mail.quadient.com/en/faq/postage
+https://mail.quadient.com/en/faq/rental-invoices
+https://mail.quadient.com/en/faq/leasing-invoices
+https://mail.quadient.com/en/faq/postage-funding
+Primary audiences
+Current customers looking for quick answers
+Prospects researching Quadient products and solutions
+Operations, finance, IT, and mail users looking for self-serve help
+Secondary audiences
+Partners
+Procurement and evaluation teams
+People looking for company information
+Target keyword: Quadient FAQs
+Supporting keywords: Quadient support FAQ; product FAQs; billing FAQs; postage FAQs; company FAQs
+Page title: FAQs | Quadient
+Meta description: Find clear answers about Quadient products, support, billing, postage, and company information — all in one simple FAQ hub.
+________________
+
+
+Module: Hero Standard
+<Eyebrow> Help center
+<Heading> Find the right answer
+<SubHeading> Browse common questions about products, support, billing, postage, and Quadient.
+<CTA> Get help
+<CTA Microcopy> Still need help?
+<Content copy> Start with the topic that fits your question. We’ve brought the most common answers into one place so it’s easier to find what you need fast.
+Module: Solutions Toggle
+<Heading> Browse FAQs by topic
+<SubHeading> Pick a topic to narrow the list and get to the answer faster.
+<Content Heading> Popular
+<Content subheading> Start here
+<Content copy> Begin with the questions most people ask first, from what Quadient does to where to go next.
+<Content Heading> Products
+<Content subheading> Explore solutions
+<Content copy> Find answers about customer communications, AP automation, AR automation, mailing, and parcel solutions.
+<Content Heading> Support
+<Content subheading> Get assistance
+<Content copy> Jump to help with service, troubleshooting, accounts, and next steps when you need a person involved.
+<Content Heading> Billing & postage
+<Content subheading> Manage accounts
+<Content copy> Get quick guidance on invoices, payments, postage funding, and everyday account questions.
+<Content Heading> Company
+<Content subheading> Learn more
+<Content copy> Read simple answers about Quadient, our business, careers, and where to find more information.
+Note: Use this module as the page-level filter. Default view should open on Popular.
+Module: FAQs List
+<Heading> Popular questions people ask
+<SubHeading> Start here with the basics first
+<Content copy> These are the questions most visitors ask first when they land on the page. The job here is to answer them quickly, in plain English, and help people choose the next best path without forcing them into product jargon or support language too early.
+<question> What does Quadient do?
+<answer> Quadient helps businesses manage customer communications, automate finance workflows, and improve mail and parcel operations.
+<question> How do I know which Quadient solution is right for me?
+<answer> Start with the challenge you want to solve. If you want better customer communications, explore Customer Communications. If you want help with payables or receivables, look at AP or AR automation. If your focus is mail or shipping, start there.
+<question> Can I talk to someone?
+<answer> Yes. If you need product advice, want a demo, or have a support question, use the contact options on this page and we’ll point you to the right team.
+<question> Where can I find product support?
+<answer> Visit Support for help with service requests, troubleshooting, billing questions, and product-specific assistance.
+<question> Where can I learn more before I contact sales?
+<answer> Visit our Resources section for case studies, webinars, calculators, blog content, and practical guides.
+Module: FAQs List
+<Heading> Product and solution questions
+<SubHeading> Plain answers for buyers and users
+<Content copy> This section is for people comparing products or trying to understand what a solution actually does. Keep the answers practical, short, and outcome-led so a buyer can self-educate before they click deeper into a product or solution page.
+<question> What is customer communications management?
+<answer> It’s the way businesses create, manage, and deliver important customer messages across print and digital channels from one connected system.
+<question> What can AP automation help with?
+<answer> AP automation helps finance teams reduce manual invoice work, speed up approvals, improve visibility, and tighten control over the payment process.
+<question> What can AR automation help with?
+<answer> AR automation helps teams send invoices faster, follow up more consistently, improve payment visibility, and support stronger cash flow.
+<question> Does Quadient help with both digital and physical communications?
+<answer> Yes. Quadient supports organizations that need to manage both digital experiences and physical delivery as part of the same customer journey.
+<question> Where should I go if I want an overview instead of a product page?
+<answer> Go to our solution pages if you want to start with the business problem, not the product.
+<links to> Customer Communications | https://www.quadient.com/en-us/customer-communications
+<links to> AP Automation | https://www.quadient.com/en-us/ap-automation
+<links to> AR Automation | https://www.quadient.com/en-us/ar-automation
+<links to> Elevate Customer Communications | https://www.quadient.com/en-us/elevate-customer-communications
+<links to> Automate Finance Operations | https://www.quadient.com/en-us/automate-finance-operations
+Module: FAQs List
+<Heading> Support, billing, and postage questions
+<SubHeading> Quick help for everyday support needs
+<Content copy> This area should do the heavy lifting for existing customers who need a fast answer. Put the most common service, billing, and postage questions near the top, and make it easy to move from self-serve content to human help when needed.
+<question> How do I contact support?
+<answer> Start on the Support page. From there, you can find help options, product support, and the next best step for your issue.
+<question> Where do I go for invoice questions?
+<answer> Use this section for common billing questions first. If you still need help, contact Quadient so the right team can look into your account. Explain that they might be able to reach out their dedicated quadient rep if they have one, or support. 
+<question> Can I find answers about rental and leasing invoices here?
+<answer> Yes. This page should bring those questions into the same experience so people don’t have to hunt through separate billing sections.
+<question> Where can I find help with postage and mailing questions?
+<answer> Use the postage-related FAQs for common mailing questions, rate updates, and everyday account issues.
+<question> What if I need help with supplies?
+<answer> Check the supplies FAQs first for common questions about ordering, delivery, and related account help.
+<question> I still can’t find my answer. What should I do?
+<answer> Use the contact CTA. It’s better to route people quickly than make them dig through a long list.
+<links to> Support | https://www.quadient.com/en-us/support
+<links to> Contact | https://www.quadient.com/en-us/contact-us
+Module: FAQs List
+<Heading> Questions about Quadient itself
+<SubHeading> Simple answers about the company itself
+<Content copy> Not every visitor is here for product help. Some just want to understand who Quadient is, where to learn more about the business, or where to go for careers, impact, and investor information. Keep this section friendly, direct, and easy to scan.
+<question> Who is Quadient?
+<answer> Quadient is a global business technology company focused on helping organizations create better connections through communication, finance, mail, and parcel workflows.
+<question> Where can I learn about Quadient’s story and team?
+<answer> Visit the About, Team, and Our Story pages for a broader look at who we are and how we work.
+<question> Where can I find careers information?
+<answer> Go to Careers if you want to explore roles, offices, events, and life at Quadient.
+<question> Where can I learn about Quadient’s impact or sustainability work?
+<answer> Visit Our Impact or Sustainability to learn more about commitments, progress, and company priorities.
+<question> Where can investors go?
+<answer> Use the Investor Relations page for financial information and company updates.
+<links to> About | https://www.quadient.com/en-us/about
+<links to> Team | https://www.quadient.com/en-us/team
+<links to> Our Story | https://www.quadient.com/en-us/our-story
+<links to> Careers | https://www.quadient.com/en-us/careers
+<links to> Our Impact | https://www.quadient.com/en-us/our-impact
+<links to> Sustainability | https://www.quadient.com/en-us/sustainability
+<links to> Investor Relations | https://www.quadient.com/en-us/investor-relations
+Module: Insights & Resources
+<Eyebrow> Learn more
+<Heading> More ways to learn
+<CTA> View all
+<links to> Resources | https://www.quadient.com/en-us/resources
+<links to> Case Studies | https://www.quadient.com/en-us/case-studies
+<links to> Webinars & Events | https://www.quadient.com/en-us/webinars-events
+<links to> Calculators | https://www.quadient.com/en-us/calculators
+Module: CTA Form
+<Heading> Still need help? Ask the right team directly
+<CTA> Contact us
+<CTA Microcopy> We’ll point you there
+<links to> https://www.quadient.com/en-us/contact-us
+
+
+[a]Mapped page here: https://gemini.google.com/share/d2f9f20fa8d3

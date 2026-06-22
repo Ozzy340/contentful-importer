@@ -1,0 +1,197 @@
+﻿IX-9
+Sitemap
+Postage meters & mailing systems > iX-9 Series Mailing and Shipping System
+Page goal: Position the Quadient iX-9 as a high-output mailing and shipping system for production mailrooms and high-volume mail centers that need maximum throughput, uptime, USPS compliance, and connected mail center control.
+Primary audiences
+ Mail center managers
+Production mailroom teams
+Operations leaders
+Facilities teams
+Secondary audiences
+ Finance teams tracking postage spend
+Compliance teams managing outbound mail risk
+Organizations upgrading from mid-volume systems
+Target keyword: iX-9 mailing system
+Supporting keywords:
+ high-volume mailing system
+production postage meter
+iX-9 postage meter
+mailing and shipping system
+USPS IMI mailing system
+Quadient iX-9
+Page title: iX-9 high-volume mailing and shipping system | Quadient
+Meta description: Discover the Quadient iX-9 mailing and shipping system for high-volume mail centers. Process up to 300 letters per minute with IMI compliance and connected control.
+________________
+
+
+<Hero> Contentful module: Hero Standard
+<eyebrow>
+High-volume mailing and shipping system
+<h1>
+Move large mail runs in minutes
+<Description>
+ The Quadient iX-9 production postage meter helps mail centers process large mail runs with speed, uptime, and operator-friendly control, handling up to 300 letters per minute all while meeting USPS IMI and DIM requirements.
+<Primary CTA>
+Order now
+<CTA microcopy>
+ Find the right iX-9 configuration for your mail center.
+<Secondary CTA>
+ Download brochure
+________________
+
+
+<Value proposition intro> Contentful module: USP Listing
+<h2>
+Why choose the iX-9?
+<bullets>
+ <bullet> Process up to 210, 260, or 300 letters per minute.
+<bullet> Stay compliant with USPS IMI and DIM requirements.
+<bullet> Use a color touchscreen, shortcut keys, and Rate Wizard for easier operation.
+<bullet> Manage mail, shipping, tracking, and costs with connected tools.
+________________
+
+
+<Video Block> Contentful module: Full Video Block
+<h2>
+ See the iX-9 in motion
+________________
+
+
+<How product helps> Contentful module: Stacked Card Block
+<h2>
+Built for mail centers that can’t afford delays
+<cards>
+<card>
+ <h3> Automate the mail run
+<Description> Seal, weigh, measure, meter, and stack large jobs at speeds up to 300 letters per minute.
+<card>
+ <h3> Brand every envelope
+<Description> Print logos or marketing messages on envelopes with Neoslogan, choosing from 100+ images or creating your own in minutes.
+<card>
+ <h3> Weigh and stack without slowing down
+<Description> Keep mail moving and neatly organized with dynamic weighing and powered stacking.
+<card>
+ <h3> Stay current automatically
+<Description> Enjoy fast and easy rate change updates, software downloads and funds resetting with high-speed connectivity.
+________________
+
+
+<Upsell bundle> Contentful module: Product Family Card[a]
+<h2>
+ Enhance your mailing workflow
+<cards>
+<card>
+S.M.A.R.T. Mail Center
+Turn the iX-9 into a consolidated mailroom hub for shipping, mailing, accounting, reporting, and tracking.
+<card>
+S.M.A.R.T. Online
+Create USPS IMpb-compliant 4x6 shipping labels and track shipments from one place.
+
+<card>
+Impress Distribute
+
+________________
+
+
+<Comparison with the alternatives> Contentful module: Comparison Table
+<h2>
+See what sets the iX-9 apart 
+<table>
+ <columns> Other mailing machines | Quadient iX-9
+<rows>
+ <row> Semi-automated workflows add handoffs, delays, and room for error | Brings sealing, weighing, measuring, metering, and stacking into one continuous workflow.
+<row> Smaller systems struggle to keep pace with large mail runs | Processes high-volume batches at up to 300 letters per minute.
+<row> Separate tools make tracking, reporting, and shipping harder to control | Connects with S.M.A.R.T. for mailing, shipping, reporting, and tracking in one place.
+<row> Postal updates and dimensional requirements create extra manual work | Supports current USPS IMI and DIM requirements to keep mail compliant and moving.
+________________
+
+
+<Key features> Contentful module: USP Listing
+<h2>
+ Key features at a glance
+<bullets>
+ <bullet> Batch processing speeds up to 210, 260, or 300 lpm.
+<bullet> Dynamic weighing speeds up to 160 lpm or 180 postcards.
+<bullet> 5.7" color touchscreen control panel.
+<bullet> Dual pump jet spray sealing system with five water-flow levels.
+<bullet> Ultra-high-capacity ink tank, up to 115,000 imprints.
+<bullet> Embedded WLAN adapter and online postage usage visibility.
+________________
+
+
+<Specifications> Contentful module: Comparison Table
+<h2>
+ Specifications at a glance[b]
+<table>
+ <columns> Feature | Details
+<rows>
+ <row> USPS-based IMI meter | Standard
+<row> Processing speed | Up to 210, 260, or 300 lpm
+<row> Dynamic weighing speed | Up to 160 lpm / 180 postcards
+<row> Control panel | 5.7" color touchscreen
+<row> Onscreen DIM calculations | Standard
+<row> Envelope thickness | Up to 0.8"
+<row> Internal label dispenser | Standard
+<row> Preset jobs | 15
+<row> Ad slogans | 8 standard
+<row> Personalized text messages | 10 custom
+<row> Sealer | Dual pump jet spray; 5 water-flow levels
+<row> Accounts/departments | 100 standard
+<row> Print head | Permanent print head standard
+<row> Ink tank | Up to 115,000 imprints
+<row> Connectivity | Embedded WLAN adapter standard
+<row> Operators | Up to 200 with 4-digit PIN code
+Specs sourced from Quadient’s official iX-9 page.
+<CTA>
+ Download full specifications
+________________
+
+
+<Related products and solutions> Contentful module: Product Family Card
+<h2>
+ Explore other Quadient products
+<cards>
+<card>
+ DS-1200 G4i folder inserter
+ A production folder inserter built for high-volume mailers and demanding workflows.
+<card>
+ S.M.A.R.T. Online
+ Desktop shipping software for labels, tracking, reporting, and USPS services.
+<card>
+ iX-7 mailing system
+ A mid-to-high-volume mailing system with speeds up to 175 letters per minute.
+________________
+
+
+<FAQ module> Contentful module: FAQs List
+<h2>
+ Frequently asked questions
+<accordion>
+ <question> Who is the iX-9 best suited for?
+<question> How fast can the iX-9 process mail?
+<question> Does the iX-9 meet USPS IMI and DIM requirements?
+<question> Can the iX-9 connect with mailroom management software?
+________________
+
+
+<Proof> Contentful module: Testimonial
+<h2>
+ Trusted by businesses like yours
+<quote>
+ “The Quadient machines we use save hours of stuffing and stamping envelopes by hand, which allows time for other job functions to be accomplished.”
+<attribution>
+ Marydee Bongiorno, Business Professional | Alternative Home Health Care
+________________
+
+
+<Final CTA> Module: CTA Form
+<h2>
+ Ready to increase mail center output?
+<Primary CTA>
+ Speak with an expert
+<links to>
+ /contact
+
+
+[a]SMART mail center, Impress Distribute?
+[b]reduce rows?

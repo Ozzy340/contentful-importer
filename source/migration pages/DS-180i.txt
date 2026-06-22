@@ -1,0 +1,202 @@
+﻿DS-180i
+Sitemap
+Folder inserters > Production mail > DS-180i folder inserter
+Page goal: Position the Quadient DS-180i as a modular production folder inserter for high-volume mail centers that need speed, integrity, scalability, and fewer manual steps across complex mail applications.
+Primary audiences
+ Production mail managers
+Mail center operations teams
+Print and mail service providers
+Compliance-focused operations teams
+Secondary audiences
+ Healthcare billing teams
+Payroll and financial statement teams
+Direct mail production teams
+Organizations upgrading from mid-volume inserters
+Target keyword: DS-180i folder inserter
+Supporting keywords:
+ production folder inserter
+high-volume folder inserter
+mail inserting machine
+document inserting machine
+automated insertion management
+Quadient DS-180i
+Page title: DS-180i production folder inserter | Quadient
+Meta description: Discover the Quadient DS-180i folder inserter for high-volume mail centers. Process up to 180,000 envelopes per month with modular feeding, barcode reading, and mailpiece integrity.
+________________
+
+
+<Hero> Contentful module: Hero Standard
+<eyebrow>
+ Production folder inserter
+<h1>
+Scale complex mail with confidence
+<Description>
+The Quadient DS-180i helps production mail centers automate complex mail runs at scale, with modular feeding, predictive intelligence, and capacity for up to 180,000 envelopes per month.
+<Primary CTA>
+Order now
+<CTA microcopy>
+ See how the DS-180i can be configured for your mail center.
+<Secondary CTA>
+ Download brochure
+________________
+
+
+<Value proposition intro> Contentful module: USP Listing
+<h2>
+ Built for production mail that cannot slow down
+<Description>
+Process complex production mail with speed, scalability, and fewer manual steps.
+<bullets>
+ <bullet> Process up to 180,000 envelopes per month.
+<bullet> Run up to 4,500 envelopes per hour.
+<bullet> Configure up to 17 feeders.
+<bullet> Track mailpiece integrity with AIMS on Board.
+________________
+
+
+<Video Block> Contentful module: Full Video Block
+<h2>
+ See the DS-180i in production
+________________
+
+
+<How product helps> Contentful module: Stacked Card Block
+<h2>
+ More output. Fewer manual touchpoints.
+<cards>
+<card>
+ <h3> Handles high-volume jobs
+<Description> Process up to 4,500 envelopes per hour, with an optional Productivity Pack reaching up to 5,500 envelopes per hour.
+<card>
+ <h3> Scales with your applications
+<Description> Build the system around your work with modular feeders, insert feeders, feeder folders, and Flex Tower configurations.
+<card>
+ <h3> Protects mailpiece integrity
+<Description> AIMS on Board records mail set and document details, while AIMS-500 adds closed-loop verification.
+<card>
+ <h3> Simplifies job changeovers
+<Description> The 22" touchscreen, automatic job setup, and unlimited job memory help operators switch jobs quickly.
+________________
+
+
+<Upsell bundle> Contentful module: Product Family Card[a]
+<h2>
+ Enhance your mailing workflow
+<cards>
+<card>
+ AIMS-500
+ Add closed-loop, file-based verification for piece-level mail integrity.
+<card>
+ Output Management Software
+ Format, personalize, group, barcode, print, insert, and address documents before production.
+<card>
+ In-line mailing system
+ Meter finished mail in-line and reduce offline labor.
+<card>
+ Output sorter
+ Sort mail in up to three directions by weight, destination, or output processing type.
+________________
+
+
+<Comparison with the alternatives> Contentful module: Comparison Table[b]
+<h2>
+ See the difference in production mail
+<table>
+ <columns> Alternatives | Quadient DS-180i
+<rows>
+ <row> Manual job setup | Automatic setup, touchscreen guidance, and unlimited job memory.
+<row> Fixed feeder capacity | Modular design supports up to 17 feeders.
+<row> Manual integrity checks | AIMS records mailpiece activity and reports issues in real time.
+<row> Offline metering and sorting | In-line metering and three-way output sorting reduce handoffs.
+________________
+
+
+<Key features> Contentful module: USP Listing
+<h2>
+ Key features at a glance
+<bullets>
+ <bullet> Up to 180,000 envelopes monthly volume.
+<bullet> Up to 4,500 envelopes per hour.
+<bullet> Up to 17 feeders with modular configuration.
+<bullet> 22" touchscreen with wizard-based software.
+<bullet> Automatic barcode recognition and AIMS on Board reporting.
+<bullet> Optional OMR, BCR, 2D Data Matrix, and in-line metering.
+________________
+
+
+<Specifications> Contentful module: Comparison Table
+<h2>
+ Specifications at a glance
+<table>
+ <columns> Feature | Details
+<rows>
+ <row> Monthly volume | 180,000 envelopes
+<row> Processing speed | Up to 4,500 envelopes/hour
+<row> Accumulation speed | Up to 6,900/hour
+<row> Document feeder capacity | 500 or 1,000 sheets
+<row> Envelope feeder capacity | 800 envelopes
+<row> Sealing fluid capacity | 10 liters
+<row> Touchscreen | 22" touchscreen PC control, standard
+<row> Automatic job setup | Standard
+<row> Job memory | Unlimited
+<row> Fold types | Letter, z-fold, single, double parallel, no fold
+<row> Folding capacity | Up to 8 sheets
+<row> Envelope types | #10, 6" x 9.5"
+<row> Maximum insert thickness | 4 mm
+<row> Reading | Face-up and face-down document reading
+<row> Reporting | Embedded datalogging/reporting with AIMS on Board
+<row> Modularity | Up to 17 feeders
+<row> Options | OMR, BCR, 2D Data Matrix, in-line metering
+<CTA>
+ Download full specifications
+________________
+
+
+<Related products and solutions> Contentful module: Product Family Card
+<h2>
+ Explore other Quadient products
+<cards>
+<card>
+ DS-1200 G5iQ folder inserter
+ Step up to production inserting for the highest-volume, most demanding mail operations.
+<card>
+ iX-9 mailing system
+ Add high-output metering for production mail centers.
+<card>
+ AIMS
+ Track, report, and verify mailpiece integrity across the inserting process.
+________________
+
+
+<FAQ module> Contentful module: FAQs List
+<h2>
+ Frequently asked questions
+<accordion>
+ <question> What mail volume is the DS-180i built for?
+<question> How many feeders can the DS-180i support?
+<question> Does the DS-180i support barcode reading?
+<question> Can the DS-180i connect with in-line metering?
+________________
+
+
+<Proof> Contentful module: Testimonial
+<h2>
+ Trusted by businesses like yours
+<quote>
+ “With our Quadient folder inserter, we have increased productivity and decreased labor costs.”
+<attribution>
+ Heath Card, Mashantucket Pequot Tribal Nation
+________________
+
+
+<Final CTA> Module: CTA Form
+<h2>
+ Ready to scale production mail?
+<Primary CTA>
+ Speak with an expert
+<links to>
+ /contact
+
+
+[a]AIMS-360, Impress automate, Inspire
+[b]no manual comparison

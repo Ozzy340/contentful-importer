@@ -1,0 +1,154 @@
+﻿Page: Events[a]
+Objective of the page: HR Events
+Future URL: quadient.com/en-us/careers/events
+Current URLs which will be condensed into one URL: https://careers.quadient.com/en/events ; https://careers.quadient.com/en/connect-hub [Proposed]
+Primary audiences
+• Active job seekers ready to meet recruiters at upcoming events
+• Students and early-career candidates exploring internships, graduate roles and campus fairs
+• Experienced professionals evaluating Quadient before applying
+Secondary audiences
+• Passive candidates joining the talent network for future roles
+• University career services and community partners sharing recruiting events
+• Employee-referral prospects researching upcoming touchpoints
+Target keyword: career events
+Supporting keywords: hiring events, career fairs, recruiting events, Quadient careers events, meet Quadient recruiters
+Page title: Career events & hiring opportunities | Quadient
+Meta description: Explore Quadient career fairs, recruiting events and hiring sessions. Register for upcoming events, meet our talent team and stay connected to future opportunities.
+Strategic view: Support recruiting demand by centralizing career fairs, hiring events and registration paths in one page that is easy to update and promote.
+ 
+Module: Hero Standard
+<Eyebrow> Careers
+<Heading> Meet Quadient at upcoming events
+<SubHeading> Explore career fairs and hiring events designed to connect you with our teams.
+<CTA> Search jobs
+<CTA Microcopy> Explore open roles
+<Content copy> Use this page as the single destination for upcoming events, recruiter touchpoints and registration paths across priority hiring markets.
+<links to> quadient.com/en-us/careers/job-hub
+Module: Announcement Banner
+<Heading> Featured event
+<SubHeading> Rotate the next priority event, location and registration deadline here so social, email and paid campaigns always land on one current CTA.
+<CTA> Register now
+<links to> [Event-specific registration URL]
+Note: Destination to validate. This should be the most prominent, easiest-to-update recruiting CTA on the page.
+Module: Mission Framing
+<Eyebrow> Why attend
+<Heading> See what makes Quadient worth meeting
+<SubHeading> Use this module to frame the value exchange before the event list: candidates meet recruiters, learn about teams, hear culture signals and leave with clearer next steps.
+<CTA> Explore culture
+<links to> quadient.com/en-us/careers/life-at-quadient
+Module: Solutions Toggle
+<Heading> Choose the right event path
+<SubHeading> Segment the page by candidate intent so visitors can quickly self-select the most relevant next step.
+<CTA> View jobs
+<links to> quadient.com/en-us/careers/job-hub
+<Content Heading> Students
+<Content subheading> Early careers
+<Content copy> Surface campus fairs, intern events and graduate hiring sessions with role families, dates and registration links.
+<Content Heading> Professionals
+<Content subheading> Experienced talent
+<Content copy> Feature hiring webinars, regional networking events and role-specific sessions tied to live openings.
+<Content Heading> Stay connected
+<Content subheading> Future opportunities
+<Content copy> Offer a lower-commitment path for visitors who want updates but are not ready to attend or apply.
+Note: If the CMS supports only two tabs, combine “Students” and “Professionals” into “Attend an event” and keep “Stay connected” as the second path.
+Module: Stacked Card (repeatable, 3-6 cards)
+<card>
+<Eyebrow> Upcoming
+<Heading> Campus career fair
+<SubHeading> [Date] • [City] • In person
+<CTA> Register now
+<CTA Microcopy> Save your spot
+<Content Heading> Best for
+<Content copy> Students and early-career candidates exploring internships and entry-level roles.
+<links to> [Event-specific registration URL]
+<card>
+<Eyebrow> Upcoming
+<Heading> Virtual hiring webinar
+<SubHeading> [Date] • Virtual • Live Q&A
+<CTA> Register now
+<CTA Microcopy> Join online
+<Content Heading> Best for
+<Content copy> Experienced professionals evaluating open roles, team fit and hiring timelines.
+<links to> [Event-specific registration URL]
+<card>
+<Eyebrow> Upcoming
+<Heading> Local networking night
+<SubHeading> [Date] • [City] • Meet recruiters
+<CTA> Register now
+<CTA Microcopy> RSVP today
+<Content Heading> Best for
+<Content copy> Candidates who want informal conversations before moving into the application process.
+<links to> [Event-specific registration URL]
+Note: Repeat this module as a dynamic current-events set. Archive expired cards promptly and always keep at least one live registration path above the fold.
+Module: 50-50 Block
+<Eyebrow> What to expect
+<Heading> Prepare for the event experience
+<CTA> See offices
+<CTA Microcopy> Explore work locations
+<Content copy> Use one side for a recruiter or employee visual and the other for practical guidance: roles being discussed, what to bring, how conversations work and how follow-up happens after the event.
+<links to> quadient.com/en-us/careers/offices
+Module: Timeline Block
+<Eyebrow> Journey
+<Heading> What happens next
+<SubHeading> Show the full event journey so registration feels simple and outcome-oriented.
+<CTA> View jobs
+<CTA Microcopy> See live openings
+<links to> quadient.com/en-us/careers/job-hub
+<Content Heading> Register
+<Content copy> Confirm the event, audience fit and registration details in one clear step.
+<Content Heading> Connect
+<Content copy> Meet recruiters, ask questions and understand the roles or teams most relevant to you.
+<Content Heading> Follow up
+<Content copy> Route interested attendees to the Job Hub, talent network or next-stage conversations after the event.
+Module: Testimonial
+<Heading> Hear from recruiting
+<Content Heading> Talent Acquisition perspective
+<Content copy> Use a short recruiter quote here to humanize the page and reinforce that Quadient events are built for real conversations, not generic presentations.
+Note: Repurpose an approved recruiter quote from the current Connect Hub content if rights and usage approvals are in place.
+Module: Editorial Content Block
+<Eyebrow> Can't attend
+<Heading> Stay connected between live recruiting events
+<CTA> Explore careers
+<links to> https://www.quadient.com/en-us/careers
+<Content copy> Give passive candidates a lighter-conversion path to keep following Quadient until the next relevant event or opening.
+Note: Distill the current Connect Hub’s social-follow and recruiter-connect intent into this nurture block instead of preserving a separate destination.
+Module: Insights & Resources
+<Eyebrow> Next steps
+<Heading> Continue your career journey
+<CTA> Explore careers
+<links to> https://www.quadient.com/en-us/careers
+<card>
+<Heading> Job Hub
+<Description> Send ready-to-apply visitors to current openings by function and location.
+<links to> quadient.com/en-us/careers/job-hub
+<card>
+<Heading> Life at Quadient
+<Description> Support deeper evaluation of culture, learning and belonging before or after an event.
+<links to> quadient.com/en-us/careers/life-at-quadient
+<card>
+<Heading> Offices
+<Description> Help candidates understand where Quadient teams work and which regions are hiring.
+<links to> quadient.com/en-us/careers/offices
+Module: FAQs List
+<Heading> Event questions answered
+<SubHeading> Remove common blockers before candidates delay registration or leave the page.
+<question> How often should this page be updated?
+<answer> Refresh featured events weekly and remove expired registrations within 24 hours so every campaign lands on current information.
+<question> What should each event card include?
+<answer> Include the event title, audience fit, date, city or virtual format, key roles being discussed and one clear registration CTA.
+<question> How should virtual events handle time zones?
+<answer> Display the primary timezone in the card title area and clarify regional availability in the event description to reduce confusion and missed attendance.
+<question> What happens if there are no live events?
+<answer> Keep one nurture CTA live at all times by promoting the talent network, Job Hub and related careers content until the next event is published.
+<question> Where should candidates go after an event?
+<answer> Send high-intent attendees to the Job Hub and route earlier-stage prospects to follow-up content or a future-event signup path.
+Module: CTA Form
+<Heading> Get the next recruiting event update
+<CTA> Join now
+<CTA Microcopy> Event alerts only
+<links to> quadient.com/en-us/careers/events
+
+
+
+
+[a]Mapped page here: https://gemini.google.com/share/5dd07daae3a9

@@ -1,0 +1,193 @@
+﻿IX-3
+Sitemap
+Postage meters & mailing systems > iX-3 Postage Meter
+Page goal: Position the Quadient iX-3 as a compact, easy-to-use postage meter for small offices that need accurate postage, simple cost control, and connected mailing and shipping workflows without added complexity.
+Primary audiences
+ Small business owners
+Office managers
+Administrative staff
+Mailroom users in small offices
+Secondary audiences
+ Finance and operations teams tracking postage spend
+Businesses moving up from stamps or outdated meters
+Target keyword: iX-3 postage meter
+Supporting keywords:
+ small office postage meter
+small business mailing system
+compact postage meter
+USPS IMI postage meter
+postage meter for small business
+iX-3 mailing system
+Page title: iX-3 postage meter for small offices | Quadient
+Meta description: Discover the Quadient iX-3 postage meter for small offices. Print accurate postage, track costs, stay USPS IMI compliant, and simplify daily mailing.
+________________
+
+
+<Hero> Contentful module: Hero Standard
+<eyebrow>
+Small office mailing system
+<h1>
+Everything daily mailing needs
+<Description>
+The Quadient iX‑3 weighs, prints, and tracks postage with USPS IMI compliance while helping small offices save 4¢ on First‑Class Mail.
+<Primary CTA>
+Order now
+<CTA microcopy>
+ See how the iX-3 fits your daily mail volume.
+<Secondary CTA>
+ Download brochure
+________________
+
+
+<Value proposition intro> Contentful module: USP Listing
+<h2>
+Why choose the iX-3?
+<Description>
+Faster mailing, clearer postage control, and a simpler path to shipping and reporting.
+<bullets>
+ <bullet> Fits easily in small office spaces.
+<bullet> Applies the right postage with the integrated scale and Rate Wizard.
+<bullet> Connects with Quadient mailing and shipping tools.
+<bullet> Supports cost tracking with 50 standard accounts and reporting options.
+________________
+
+
+<Video Block> Contentful module: Full Video Block
+<h2>
+ Take an interactive tour of the iX-3
+________________
+
+
+<How product helps> Contentful module: Stacked Card Block[a]
+<h2>
+Small footprint. Strong daily control.
+<cards>
+<card>
+ <h3> Use with ease
+<Description> An intuitive control panel, prompts, and shortcut keys make daily mailing easier.
+<card>
+ <h3> Track postage spend
+<Description> Use 50 standard accounts and reporting tools to monitor postage by class, department, or operator.
+<card>
+ <h3> Add brand to every envelope
+<Description> Customize your message with Neoslogan and store up to 10 images for quick use.
+<card>
+ <h3> Keep mail moving
+<Description> Low Ink Email Alerts and automatic rate downloads help reduce interruptions.
+________________
+
+
+<Upsell bundle> Contentful module: Product Family Card[b]
+<h2>
+ Enhance your mailing workflow
+<cards>
+<card>
+ S.M.A.R.T.
+ Bring mailing, shipping, accounting, reporting, and tracking into one dashboard.
+<card>
+ Neoship ADVANCED
+ Add multi-carrier shipping to process, track, and reconcile parcels alongside mail.
+<card>
+ Neostats Enhanced
+ Get deeper postage reporting and stronger cost visibility.
+<card>
+ External weighing platform
+ Expand weighing capacity with 10, 30, or 70 lb. options.
+________________
+
+
+<Comparison with the alternatives> Contentful module: Comparison Table
+<h2>
+ A better fit than piecing mailing together
+<table>
+ <columns> Alternatives | Quadient iX-3
+<rows>
+ <row> Manual rate selection | Integrated scale and Rate Wizard help choose the right class and value.
+<row> Limited cost visibility | 50 standard accounts plus reporting options improve tracking and chargeback.
+<row> Plain outgoing mail | Personalized logos and messages brand every envelope
+<row> Separate tools for mail and shipping | Connects with Quadient mailing and shipping tools for a more unified workflow.
+________________
+
+
+<Key features> Contentful module: USP Listing
+<h2>
+ Key features at a glance
+<bullets>
+ <bullet> Processes up to 45 letters per minute.
+<bullet> 5 lb. weighing platform included as standard.
+<bullet> On-screen DIM calculations included.
+<bullet> 50 accounts standard, upgradeable to 100 or 300.
+<bullet> LAN connectivity standard; WiFi adapter available.
+<bullet> USPS-based IMI meter standard.
+________________
+
+
+<Specifications> Contentful module: Comparison Table
+<h2>
+ Specifications at a glance
+<table>
+ <columns> Feature | Details
+<rows>
+ <row> Processing speed | 45 lpm.
+<row> Weighing platform | 5 lb. standard.
+<row> On-screen DIM calculations | Standard.
+<row> Accounts/departments | 50 standard.
+<row> Envelope minimum | 3.5" x 5".
+<row> Envelope maximum | 10" x 13".
+<row> Maximum envelope thickness | Up to 3/8".
+<row> Envelope orientation | Landscape or portrait.
+<row> Connectivity | LAN standard.
+<row> Rate shortcut keys | 5.
+<row> Job imprint memories | 9.
+<row> System dimensions | 10" x 17" x 10.5" with integrated 5 lb. scale.
+<CTA>
+ Download full specifications
+________________
+
+
+<Related products and solutions> Contentful module: Product Family Card
+<h2>
+ Explore other Quadient products
+<cards>
+<card>
+ DS-40i folder inserter
+ Fold, insert, seal, and meter mail faster with a solution built for small to mid-size businesses.
+<card>
+ Impress Automate
+ Use intelligent barcodes to streamline document sorting and sending.
+<card>
+ S.M.A.R.T.
+ Create a more organized hub for shipping, mailing, accounting, reporting, and tracking.
+________________
+
+
+<FAQ module> Contentful module: FAQs List
+<h2>
+ Frequently asked questions
+<accordion>
+ <question> Is the iX-3 a good fit for small offices?
+<question> Does the iX-3 meet current USPS IMI requirements?
+<question> Can I track postage by department or user?
+<question> Can the iX-3 connect with shipping and reporting tools?
+________________
+
+
+<Proof> Contentful module: Testimonial
+<h2>
+ Trusted by businesses like yours
+<quote>
+ “Quadient came to the rescue. They went above and beyond and I would recommend them to anyone!”
+<attribution>
+ Karen, Accounts Receivable | Ecotrend Ecologics Ltd.
+________________
+
+
+<Final CTA> Module: CTA Form
+<h2>
+ Ready to simplify mailing in a small office?
+<Primary CTA>
+ Speak with an expert
+
+
+[a]will we use this block or the one with comparison table (pain points vs. how the product helps?)
+[b]SMART essential, Impress Distribute?

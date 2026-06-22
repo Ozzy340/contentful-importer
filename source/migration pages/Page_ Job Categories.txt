@@ -1,0 +1,105 @@
+﻿Page: Job Categories[a]
+Objective of the page: Clear information on jobs at Quadient
+Future URL: quadient.com/en-us/careers/job-categories
+Current URL or Current URLs which will be condensed into one URL: https://www.quadient.com/en-us/careers/job-categories (future destination, not yet live) | https://careers.quadient.com/en/job-categories
+Primary audiences
+Active job seekers exploring functional paths at Quadient
+Passive candidates comparing where they could fit across functions
+Early-career talent looking for a clear entry point into the business
+Experienced professionals assessing strategic career areas
+Secondary audiences
+Internal talent and employee referral audiences
+Recruiters and HR partners directing candidates to the right paths
+University and event-driven candidates entering via careers content
+Target keyword: job categories
+Supporting keywords: careers at Quadient; jobs at Quadient; Quadient career paths; Quadient departments; functional areas at Quadient
+Page title: Job Categories | Quadient Careers
+Meta description: Explore job categories at Quadient to find the teams, career paths and open opportunities that match your skills and ambitions.
+________________
+
+
+Module: Hero Standard
+<Eyebrow> Careers
+<Heading> Explore job categories at Quadient
+<SubHeading> Find the team, role family and career path that fits you best.
+<CTA> View jobs
+<CTA Microcopy> Open roles now
+<Content copy> Use this page to quickly understand where you can contribute at Quadient, then move directly into relevant open opportunities.
+Note: Primary CTA links to quadient.com/en-us/careers/job-hub per sitemap.
+Module: Mission Framing
+<Eyebrow> Why this page
+<Heading> Choose a path that matches your strengths
+<SubHeading> The page should reduce friction for candidates who know the kind of work they want to do, but not yet the exact title. Frame each category as both a team story and a practical route into open roles.
+<CTA> Explore jobs
+Module: Stats Block
+<Eyebrow> At a glance
+<Heading> 14 categories
+<Content copy> From HR to Sales
+<Content copy> Global opportunities live
+<Content copy> Business and technical roles
+<Content copy> Clear jump to jobs
+Note: The live careers page currently surfaces 14 job categories.
+Module: Product Card Listing
+<Eyebrow> Categories
+<Heading> Find your team
+<SubHeading> Introduce the functional areas below as the fastest way to navigate to the right role family.
+<card> Administration, Facilities & Secretarial — Keep day-to-day operations running smoothly. <CTA> Explore category <links to> current destination to validate against future careers architecture
+<card> Consulting — Help customers adopt, optimize and transform with Quadient solutions. <CTA> Explore category <links to> current destination to validate against future careers architecture
+<card> Customer Service — Support customers across service, care and field operations. <CTA> Explore category <links to> current destination to validate against future careers architecture
+<card> IT & Digital — Build, secure and improve the systems that power the business. <CTA> Explore category <links to> current destination to validate against future careers architecture
+<card> R&D — Create the products, platforms and innovations shaping customer connections. <CTA> Explore category <links to> current destination to validate against future careers architecture
+<card> Finance, Leasing & Audit — Drive control, insight and financial performance. <CTA> Explore category <links to> current destination to validate against future careers architecture
+<card> Human Resources — Shape culture, talent and employee growth. <CTA> Explore category <links to> current destination to validate against future careers architecture
+<card> Legal, CSR & Compliance — Protect the business and strengthen responsible growth. <CTA> Explore category <links to> current destination to validate against future careers architecture
+<card> Marketing & Communication — Grow awareness, demand and brand relevance. <CTA> Explore category <links to> current destination to validate against future careers architecture
+<card> Production — Support manufacturing quality, efficiency and operational excellence. <CTA> Explore category <links to> current destination to validate against future careers architecture
+<card> Purchasing & Supply Chain — Keep sourcing, planning and delivery connected. <CTA> Explore category <links to> current destination to validate against future careers architecture
+<card> Quality — Maintain product and process standards customers can trust. <CTA> Explore category <links to> current destination to validate against future careers architecture
+<card> Sales — Help customers solve problems and grow with Quadient. <CTA> Explore category <links to> current destination to validate against future careers architecture
+<card> Strategy & General Management — Lead teams, priorities and business direction. <CTA> Explore category <links to> current destination to validate against future careers architecture
+Note: If the build supports anchor or filter behavior, pair each card with a direct handoff to filtered job results in the Job Hub.
+Module: 50-50 Block
+<Eyebrow> Candidate value
+<Heading> Not sure where you fit?
+<CTA> See all jobs
+<CTA Microcopy> Browse every opening
+<Content copy> For visitors who do not identify with one category immediately, this block should reassure them that they can still explore all live opportunities by location, keyword or team.
+Module: 50-50 Block
+<Eyebrow> Internal link
+<Heading> See life at Quadient
+<CTA> Learn more
+<CTA Microcopy> Culture and people
+<Content copy> Bring the culture layer into the journey so category exploration does not feel purely transactional. Connect to the Life at Quadient page to show what working here feels like beyond the role title.
+Note: Links to quadient.com/en-us/careers/life-at-quadient from sitemap.
+Module: Standard Card
+<Heading> Job Hub
+<Content copy> Link to the full job listing experience for candidates ready to search open roles.
+Module: Standard Card
+<Heading> Offices
+<Content copy> Link to office locations for candidates who want location context before applying.
+Module: Standard Card
+<Heading> Events
+<Content copy> Link to careers events for university, community and recruiting moments.
+Module: Insights & Resources
+<Eyebrow> Stories
+<Heading> Meet our teams
+<CTA> See stories
+Note: Use this module only if approved employee stories or category-level spotlights exist. Otherwise replace with an Editorial Content Block tied to existing careers content.
+Module: Editorial Content Block
+<Eyebrow> Featured team
+<Heading> A closer look at life in our teams
+<CTA> Read story
+<Content copy> Feature one employee or manager story that makes a job category feel concrete, credible and human.
+Module: FAQs List
+<Heading> Questions candidates ask
+<SubHeading> Answer the core navigation questions before visitors leave the page.
+<Content copy> Suggested FAQs: What job categories are available at Quadient? How do I find open roles within a category? Can I browse all jobs instead? Which page should I visit to learn about culture and growth? How do I explore jobs by location?
+Module: CTA Form
+<Heading> Ready to explore opportunities at Quadient?
+<CTA> View jobs
+<CTA Microcopy> Search open roles
+Note: Primary CTA links to quadient.com/en-us/careers/job-hub per sitemap.
+ 
+
+
+[a]Mapped page: https://gemini.google.com/share/6be7527ac726

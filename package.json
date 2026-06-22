@@ -1,0 +1,54 @@
+{
+  "name": "content-import",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Phase-1-safe Contentful bulk importer using the Content Management API and CLI-assisted model workflows.",
+  "type": "module",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "pull:model": "node --import tsx src/cli/pull-model.ts",
+    "pull:taxonomy": "node --import tsx src/cli/pull-taxonomy.ts",
+    "sync:taxonomy-map": "node --import tsx src/cli/sync-taxonomy-map.ts",
+    "docs:components": "node scripts/generate-component-list.mjs",
+    "docs:component-fields": "node scripts/generate-component-field-reference.mjs",
+    "create:sandbox": "node --import tsx src/cli/create-sandbox.ts",
+    "parse": "node --import tsx src/cli/parse-docs.ts",
+    "validate:config": "node --import tsx src/cli/validate-config.ts",
+    "dry-run": "node --import tsx src/cli/dry-run.ts",
+    "upload": "node --import tsx src/cli/upload.ts",
+    "tags:add": "node --import tsx src/cli/add-tag.ts",
+    "form-tags": "node --import tsx src/cli/apply-form-tags.ts",
+    "amend:form-tags": "node --import tsx src/cli/amend-form-tags.ts",
+    "form-tags:migrate-form-name": "node --import tsx src/cli/migrate-form-name-tags.ts",
+    "sync:jobs": "node --import tsx src/cli/sync-jobs.ts",
+    "clone:entity": "node --import tsx src/cli/clone-entity.ts",
+    "promote:content": "node --import tsx src/cli/promote-content.ts",
+    "delete:run": "node --import tsx src/cli/delete-run.ts",
+    "publish": "node --import tsx src/cli/publish.ts",
+    "publish:pages": "node --import tsx src/cli/publish-pages.ts",
+    "search:export": "node --import tsx src/cli/search-export.ts",
+    "resource-forms:fill-ids": "node --import tsx src/cli/fill-resource-form-entity-ids.ts",
+    "amend:en-links": "node --import tsx src/cli/amend-en-links.ts",
+    "amend:404-links": "node --import tsx src/cli/amend-404-links.ts",
+    "report:pages": "node --import tsx src/cli/report-created-pages.ts",
+    "report": "node --import tsx src/cli/report.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "contentful-management": "^11.57.1",
+    "dotenv": "^16.6.1",
+    "gray-matter": "^4.0.3",
+    "js-yaml": "^4.1.0",
+    "mime-types": "^2.1.35",
+    "zod": "^4.1.5"
+  },
+  "devDependencies": {
+    "@types/js-yaml": "^4.0.9",
+    "@types/mime-types": "^2.1.4",
+    "@types/node": "^24.6.0",
+    "tsx": "^4.20.5",
+    "typescript": "^5.9.3"
+  }
+}

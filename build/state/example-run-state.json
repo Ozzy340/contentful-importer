@@ -1,0 +1,52 @@
+{
+  "runId": "parse-2026-04-15T08-26-17-025Z",
+  "mode": "parse",
+  "startedAt": "2026-04-15T08:26:17.025Z",
+  "summary": {
+    "completed": 3,
+    "failed": 0,
+    "skipped": 0,
+    "createdEntries": 0,
+    "updatedEntries": 0,
+    "createdAssets": 0,
+    "updatedAssets": 0,
+    "publishedEntries": 0,
+    "publishedAssets": 0
+  },
+  "documents": {
+    "about-us": {
+      "sourceId": "about-us",
+      "sourcePath": "/Users/jamesatkins/Documents/JS/contentful-importer/src/fixtures/sample-doc-1.md",
+      "status": "completed",
+      "startedAt": "2026-04-15T08:26:17.025Z",
+      "finishedAt": "2026-04-15T08:26:17.025Z",
+      "entryIds": [
+        "contentPage--about-us"
+      ],
+      "assetIds": []
+    },
+    "services-overview": {
+      "sourceId": "services-overview",
+      "sourcePath": "/Users/jamesatkins/Documents/JS/contentful-importer/src/fixtures/sample-doc-2.md",
+      "status": "completed",
+      "startedAt": "2026-04-15T08:26:17.025Z",
+      "finishedAt": "2026-04-15T08:26:17.025Z",
+      "entryIds": [
+        "contentPage--services"
+      ],
+      "assetIds": []
+    },
+    "contact-support": {
+      "sourceId": "contact-support",
+      "sourcePath": "/Users/jamesatkins/Documents/JS/contentful-importer/src/fixtures/sample-doc-3.md",
+      "status": "completed",
+      "startedAt": "2026-04-15T08:26:17.025Z",
+      "finishedAt": "2026-04-15T08:26:17.025Z",
+      "entryIds": [
+        "contentPage--contact-support"
+      ],
+      "assetIds": []
+    }
+  },
+  "finishedAt": "2026-04-15T08:26:17.025Z"
+}

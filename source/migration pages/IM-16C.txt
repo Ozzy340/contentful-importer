@@ -1,0 +1,189 @@
+﻿IM-16C
+Sitemap
+Mail openers > IM-16C mail opener
+Page goal: Position the Quadient IM-16C as a compact, quiet, easy-to-use mail opener for offices that want to open incoming mail faster, protect envelope contents, and reduce manual handling.
+Primary audiences
+ Office managers
+Administrative teams
+Reception teams
+Mailroom staff
+Secondary audiences
+ Finance teams handling checks or remittances
+Operations teams processing daily inbound mail
+Small offices upgrading from manual letter openers
+Target keyword: IM-16C mail opener
+Supporting keywords:
+ letter opener machine
+automatic letter opener
+office mail opener
+incoming mail processing
+envelope opener
+Quadient IM-16C
+Page title: IM-16C mail opener for incoming mail | Quadient
+Meta description: Discover the Quadient IM-16C mail opener. Open mixed-size envelopes up to 300 per minute while protecting contents, avoiding paper scraps, and speeding daily mail distribution.
+________________
+
+
+<Hero> Contentful module: Hero Standard
+<eyebrow>
+ Inbound mail processing
+<h1>
+ Open a day’s mail in minutes
+<Description>
+ The Quadient IM-16C opens incoming mail at up to 300 envelopes per minute. It slits one side of the envelope, helping protect contents while leaving no sharp edges or paper scraps.
+<Primary CTA>
+ Speak with an expert
+<CTA microcopy>
+ See how the IM-16C fits your daily incoming mail volume.
+<Secondary CTA>
+ Download brochure
+________________
+
+
+<Value proposition intro> Contentful module: USP Listing
+<h2>
+ Faster mail opening, fewer damaged contents
+<Description>
+ The IM-16C helps offices open checks, orders, remittance pieces, flats, and daily mail without sorting by envelope type first.
+<bullets>
+ <bullet> Opens mixed envelope types and sizes, including flats.
+<bullet> Slits envelopes cleanly to help protect contents.
+<bullet> Runs quietly and fits on almost any desk.
+<bullet> Includes a digital piece counter for daily mail tracking.
+________________
+
+
+<Video Block> Contentful module: Full Video Block
+<h2>
+ See the IM-16C open mixed mail
+________________
+
+
+<How product helps> Contentful module: Stacked Card Block
+<h2>
+ Built for the first job of the mailday
+<cards>
+<card>
+ <h3> Speeds up distribution
+<Description> Open inbound mail quickly so documents reach the right teams sooner.
+<card>
+ <h3> Protects what is inside
+<Description> The slit-opening method helps avoid cutting checks, orders, and forms.
+<card>
+ <h3> Reduces jams
+<Description> The anti-jamming device helps cope with paperclips and staples.
+<card>
+ <h3> Fits the front office
+<Description> A compact, 15 lb. design makes the IM-16C easy to place, move, and store.
+________________
+
+
+<Upsell bundle> Contentful module: Product Family Card
+<h2>
+ Enhance your inbound mail workflow
+<cards>
+<card>
+ IM-210 mail opener
+ Step up to mixed-mail opening with milling cutter technology for higher daily volumes.
+<card>
+ IM-306 high-volume envelope opener
+ Add higher-speed envelope opening for large mail operations.
+<card>
+ IM-410 automatic letter opener
+ Open mail and add date, time, or sequence-number printing for traceability.
+<card>
+ Mailroom furniture
+ Create a more organized space for receiving, opening, sorting, and routing mail.
+________________
+
+
+<Comparison with the alternatives> Contentful module: Comparison Table
+<h2>
+ See the difference
+<table>
+ <columns> Alternatives | Quadient IM-16C
+<rows>
+ <row> Hand-opening envelopes | Opens up to 300 envelopes per minute.
+<row> Basic blade openers | Slits one side to help protect contents.
+<row> Sorting mail before opening | Handles different envelope types and sizes without sorting.
+<row> Manual piece counts | Digital counter supports daily inbound mail tracking.
+________________
+
+
+<Key features> Contentful module: USP Listing
+<h2>
+ Key features at a glance
+<bullets>
+ <bullet> Opens up to 300 envelopes per minute.
+<bullet> Handles envelope heights from 5.5" to 13".
+<bullet> Handles envelope widths from 3.5" to 10.2".
+<bullet> Supports mail pieces up to 4 mm thick.
+<bullet> Catch tray holds up to 80 #10 envelopes.
+<bullet> Noise level under 63 dBA.
+________________
+
+
+<Specifications> Contentful module: Comparison Table
+<h2>
+ Specifications at a glance
+<table>
+ <columns> Feature | Details
+<rows>
+ <row> Processing speed | Up to 300 envelopes/minute
+<row> Envelope height range | 5.5"–13"
+<row> Envelope width range | 3.5"–10.2"
+<row> Maximum thickness | 4 mm
+<row> Catch tray capacity | Up to 80 #10 envelopes
+<row> Piece counter | Digital
+<row> Noise level | < 63 dBA
+<row> Dimensions | 33" L x 15" D x 9" H
+<row> Weight | 15 lbs.
+<CTA>
+ Download full specifications
+________________
+
+
+<Related products and solutions> Contentful module: Product Family Card
+<h2>
+ Explore other Quadient products
+<cards>
+<card>
+ IM-210 automatic mail opener
+ For teams opening 200 to 2,000 envelopes per day.
+<card>
+ IM-306 high-volume envelope opener
+ For operations that need high-speed incoming mail opening.
+<card>
+ IM-410 automatic letter opener
+ For mail centers that need opening plus date and time stamping.
+________________
+
+
+<FAQ module> Contentful module: FAQs List
+<h2>
+ Frequently asked questions
+<accordion>
+ <question> What types of mail can the IM-16C open?
+<question> How fast does the IM-16C process envelopes?
+<question> Does the IM-16C protect envelope contents?
+<question> Does the IM-16C include a piece counter?
+________________
+
+
+<Proof> Contentful module: Testimonial
+<h2>
+ Trusted by businesses like yours
+<quote>
+ “Quadient really is the wind beneath my wings.”
+<attribution>
+ Brian Rocheny, Processing Coordinator of Operations
+________________
+
+
+<Final CTA> Module: CTA Form
+<h2>
+ Ready to open incoming mail faster?
+<Primary CTA>
+ Speak with an expert
+<links to>
+ /contact

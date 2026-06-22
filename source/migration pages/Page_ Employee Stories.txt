@@ -1,0 +1,50 @@
+﻿Page: Employee Stories[a]
+Objective of the page: Present employee stories in a simple, human-centered hub that builds culture credibility and moves candidates toward open roles.
+Future URL: quadient.com/en-us/careers/stories
+Current URLs which will be condensed into one URL: careers.quadient.com/en/nick-story; careers.quadient.com/en/klara-story; careers.quadient.com/en/alex-story; careers.quadient.com/en/juliens-story; careers.quadient.com/en/amy-story; careers.quadient.com/en/maria-story; careers.quadient.com/en/dali-story; careers.quadient.com/en/yuko-story.
+Primary audiences
+Prospective candidates evaluating culture fit
+Candidates already considering a role at Quadient
+Passive talent comparing employer brands
+Secondary audiences
+Early-career candidates
+Employee referrers
+Recruiters sharing proof points with candidates
+Target keyword: employee stories
+Supporting keywords: Quadient careers; life at Quadient; employee testimonials; employee experience; work at Quadient
+Page title: Employee Stories | Quadient Careers
+Meta description: Meet the people behind Quadient. Explore employee stories across teams and regions, and get a closer look at what it is like to grow a career here.
+________________
+
+
+Module: Hero Standard
+ <Eyebrow> Careers
+<h1> Meet the people behind Quadient <SubHeading> Explore real stories from employees across teams, regions and career stages. <Primary CTA> View jobs <CTA Microcopy> Find your fit <Content copy> This page should quickly show the human side of Quadient and give candidates a direct path into relevant open roles. <links to> quadient.com/en-us/careers/job-hub
+Module: Product Card Listing
+ <Eyebrow> Stories
+<h2> Start with the people <SubHeading> Open with a clean grid of employee story cards so candidates can choose whose experience they want to explore first. Note: Keep this section highly visual and easy to scan. Lead with a balanced mix of function, geography and tenure.
+Module: Stacked Card
+ <Eyebrow> Employee story
+<Heading> Employee name
+<SubHeading> Role | Team | Region
+<Content Heading> Story theme
+<Content copy> One short line on growth, culture, flexibility or impact.
+<CTA> Read story
+<CTA Microcopy> Jump to section
+<links to> #employee-name
+Note: Use this as the repeatable card module for each story in the opening grid. If there are more than 8 stories, show 6 first and reveal the rest progressively.
+Module: 50-50 Block
+ <Eyebrow> Employee story
+<Heading> Employee name
+<CTA> View jobs
+<CTA Microcopy> Explore roles
+<Content copy> Use this as the on-page story detail module: short intro to the employee, why they joined, what keeps them here, how they have grown, and one memorable quote or takeaway.
+<links to> quadient.com/en-us/careers/job-hub
+Note: Repeat for each featured story section below the grid. The card above should anchor directly to this module on the same page.
+Module: Insights & Resources
+ <Eyebrow> Explore more
+<h2> Go deeper into careers at Quadient <CTA> See all <card> Life at Quadient <links to> quadient.com/en-us/careers/life-at-quadient <card> Offices <links to> quadient.com/en-us/careers/offices <card> Connect Hub <links to> quadient.com/en-us/careers/connect-hub <card> Events <links to> quadient.com/en-us/careers/events Note: Keep this module compact. It should support the stories page, not compete with it.
+Module: Action Block
+ <Eyebrow> Next step
+<h2> Ready to find your role at Quadient? <CTA> View jobs <Content copy> After candidates engage with one or two stories, give them one clear next action into the open roles experience. <links to> quadient.com/en-us/careers/job-hub
+[a]Mapped page here: https://gemini.google.com/share/9ee93fffc0a3

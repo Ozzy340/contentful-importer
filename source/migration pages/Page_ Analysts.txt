@@ -1,0 +1,54 @@
+﻿Page: Analysts
+Objective of the page: Analyst coverage overview
+Future URL: quadient.com/en-us/investor-relations/analysts
+Current URL or Current URLs which will be condensed into one URL: https://invest.quadient.com/en/stock-price
+Primary audiences
+Institutional investors
+Prospective investors
+Sell-side analysts
+Current shareholders
+Secondary audiences
+Financial media
+Investor relations stakeholders
+Corporate communications teams
+Target keyword: analyst coverage
+Supporting keywords
+Quadient analyst coverage
+stock analysts covering Quadient
+equity research coverage
+investor relations analysts
+Page title: Analyst coverage | Quadient Investor Relations
+Meta description: View the firms and analysts currently covering Quadient and explore related investor relations information, including share price, results and contact details.
+________________
+
+
+Module: Hero Standard
+<eyebrow> Investor Relations
+<h1> Quadient analyst coverage overview <SubHeading> See which firms currently cover Quadient and access related investor information. <CTA> Contact IR <links to> https://www.quadient.com/en-us/investor-relations/contact <CTA Microcopy> Questions on coverage <Content copy> Create a dedicated destination that makes coverage easy to scan, easy to update and clearly framed for transparency-minded investors.
+Module: Quote/Analyst
+<Heading> Important coverage disclaimer
+<SubHeading> The analysts listed on this page currently cover Quadient. Their estimates, opinions and recommendations are developed independently and do not necessarily reflect Quadient’s views. Inclusion is provided for transparency only and should not be interpreted as an endorsement, offer, solicitation or approval of any specific research provider.
+Module: Product Card Listing
+<eyebrow> Coverage
+<h2> Current analyst coverage <SubHeading> Show one card per institution with the lead analyst name beneath, using a clean two-column grid. <card> <Heading> Alpha Value <Content copy> Savitri KAKKAR <card> <Heading> BNP Paribas <Content copy> Mourad LAHMIDI <card> <Heading> Gilbert Dupont <Content copy> Stéphan DUBOSQ <card> <Heading> Kepler Cheuvreux <Content copy> David CERDAN <card> <Heading> Oddo BHF <Content copy> Jean-François GRANJON <card> <Heading> Portzamparc* <Content copy> Maxence DHOURY <card> <Heading> Bernstein / Société Générale <Content copy> Flavien BAUDEMONT <card> <Heading> TP ICAP <Content copy> Jean-Pierre TABARD <Description> Add a small footnote beneath the grid: *Sponsored research Note: Prefer structured cards rather than a static image so the list is easier to maintain and more accessible. On the live stock price page today, the Analysts section sits under Share Price and is rendered as an image-based block showing these eight analyst-firm pairings, with Portzamparc marked as sponsored research. :contentReference[oaicite:0]{index=0}
+Module: FAQs List
+<h2> Analyst coverage FAQs <SubHeading> Address the main transparency questions directly on the page. <accordion> <question> What does analyst coverage mean? <Content copy> Analyst coverage refers to financial institutions and analysts that publish research or commentary on Quadient for investors and the market. <question> Are these opinions Quadient’s own? <Content copy> No. Analyst opinions, estimates and recommendations are independent and belong to the firms and analysts that publish them. <question> What does sponsored research mean? <Content copy> Sponsored research should be clearly identified on the page so visitors can distinguish it from other coverage. <question> How often is this page updated? <Content copy> Update the roster whenever analyst coverage changes so the page remains current, accurate and useful for investors.
+Module: Product Family Card
+<card>
+<Heading> Share Price
+<Content copy> View Quadient share price evolution.
+<CTA> Explore
+<links to> https://www.quadient.com/en-us/investor-relations/share-price
+<card>
+<Heading> Financial Results
+<Content copy> See the latest results and related publications.
+<CTA> Explore
+<links to> https://www.quadient.com/en-us/investor-relations/financial-results
+<card>
+<Heading> Quadient Share
+<Content copy> Access broader share-related investor information.
+<CTA> Explore
+<links to> https://www.quadient.com/en-us/investor-relations/quadient-share
+Module: Action Block
+<eyebrow> Contact
+<h2> Need more investor information? <Content copy> Direct visitors to the investor relations contact page for follow-up questions about coverage or share-related topics. <CTA> Contact IR <links to> https://www.quadient.com/en-us/investor-relations/contact Note: Validate whether IR wants a direct email surfaced on this page or whether contact should remain routed through the dedicated IR contact page.

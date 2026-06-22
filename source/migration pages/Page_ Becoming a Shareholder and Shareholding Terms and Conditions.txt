@@ -1,0 +1,151 @@
+﻿Page: Becoming a shareholder and shareholding terms and conditions
+
+Objective of the page: How to become a shareholder
+Future URL: quadient.com/en-us/investor-relations/becoming-a-shareholder
+Current URL or Current URLs which will be condensed into one URL: https://invest.quadient.com/en/shareholders
+Primary audiences
+Prospective individual shareholders
+Existing retail shareholders looking for ownership guidance
+Institutional or professional investors reviewing holding options and obligations
+Secondary audiences
+Financial intermediaries and custodians
+Investor relations contacts
+Governance and compliance stakeholders
+Target keyword
+becoming a shareholder
+Supporting keywords
+shareholding terms and conditions
+registered shares
+bearer shares
+shareholder rights
+threshold disclosure
+Page title: Become a shareholder | Quadient shareholding terms and conditions
+Meta description: Learn how to become a Quadient shareholder, compare ownership options and understand key shareholding terms, disclosures and support resources.
+________________
+
+
+Module: Hero Standard
+<Eyebrow>
+Investor Relations
+<Heading> Become a Quadient shareholder 
+<SubHeading> Understand ownership options, key terms and shareholder steps in one place. <CTA> View share price 
+<links to> quadient.com/en-us/investor-relations/share-price 
+<CTA Microcopy> Latest market information 
+<Content copy> Clear guidance for prospective and current shareholders on how to hold Quadient shares and where to find related investor resources.
+________________
+
+
+Module: Siderail Navigation
+<links to>
+#ownership-options
+<links to> #how-to-become-a-shareholder 
+<links to> #key-shareholding-terms 
+<links to> #shareholder-faqs 
+<links to> #related-investor-resources
+________________
+
+
+Module: Big Idea Panel
+<Heading> Choose the ownership model that fits
+<SubHeading> Start with the three holding options, then move into the detailed conditions and obligations.
+Note: Keep this page focused on action and orientation. Route live market data, broader share information and event content to linked investor-relations pages.
+________________
+
+
+Module: Standard Card
+<anchor>
+#ownership-options
+<Heading> Pure registered shares 
+<Content copy> Shares are held directly in a registered account linked to Quadient. 
+<Heading> Administered registered shares 
+<Content copy> Shares remain registered with Quadient but are managed through an authorized intermediary. 
+<Heading> Bearer shares 
+<Content copy> Shares are held and administered entirely through an authorized financial intermediary.
+________________
+
+
+Module: Timeline Block
+<anchor>
+#how-to-become-a-shareholder
+<Eyebrow> Steps 
+<Heading> How it works 
+<SubHeading> Show the simple path from choosing a holding format to managing shareholder rights. 
+<Content Heading> Choose format 
+<Content copy> Help visitors decide whether pure registered, administered registered or bearer ownership best fits their needs. 
+<Content Heading> Buy shares 
+<Content copy> Explain that shares are acquired through an authorized financial intermediary, with the selected holding format confirmed during setup. 
+<Content Heading> Manage rights 
+<Content copy> Guide shareholders to keep account details current, monitor shareholder communications and review disclosure obligations when thresholds are crossed. 
+<CTA> Contact IR 
+<links to> quadient.com/en-us/investor-relations/contact 
+<CTA Microcopy> Questions on next steps
+________________
+
+
+Module: Comparison Table
+<Eyebrow> Compare
+<Heading> Ownership forms compared 
+<SubHeading> Help investors quickly understand administrative differences before they choose. <Column Header> Format 
+<Column Header> Managed by 
+<Column Header> Best for 
+<Table Row> Pure registered 
+<Description> Managed directly in registered form with Quadient. 
+<Table Row> Administered 
+<Description> Managed through an intermediary while remaining registered. 
+<Table Row> Bearer 
+<Description> Managed fully through an intermediary for standard market administration. 
+<CTA> Contact IR 
+<links to> quadient.com/en-us/investor-relations/contact
+________________
+
+
+Module: USP listing
+<anchor>
+#key-shareholding-terms
+<Eyebrow> Terms 
+<Heading> Key terms every shareholder should know 
+<SubHeading> Surface the core rules before visitors move into FAQs or support. 
+<CTA> View IR hub 
+<links to> quadient.com/en-us/investor-relations 
+<Content Heading> Threshold disclosure 
+<Content subheading> Explain when shareholders must declare that legal holding thresholds were crossed. 
+<Content Heading> Voting rights 
+<Content subheading> Clarify how voting rights apply and point to General Meeting information. <Content Heading> Dividends 
+<Content subheading> Summarize where dividend timing and payment updates are published. <Content Heading> Shareholder support 
+<Content subheading> Show where investors can get help with ownership, documentation or account questions.
+________________
+
+
+Module: Insights & Resources
+<anchor>
+#related-investor-resources
+<Eyebrow> Resources 
+<Heading> Related investor resources 
+<CTA> View all 
+<card> Quadient share overview
+ <links to> quadient.com/en-us/investor-relations/quadient-share 
+<card> Share price 
+<links to> quadient.com/en-us/investor-relations/share-price 
+<card> General meeting 
+<links to> quadient.com/en-us/investor-relations/general-meeting 
+<card> Letters to shareholders <links to> quadient.com/en-us/investor-relations/letters-to-shareholders
+Note: This module should replace broad shareholder content that dilutes the main “how to become a shareholder” intent.
+________________
+
+
+Module: FAQs List
+<anchor>
+#shareholder-faqs
+<Heading> Shareholder FAQs 
+<SubHeading> Answer the questions most likely to block action. 
+<Content copy> Prioritize five FAQs: What is the difference between pure registered, administered registered and bearer shares? How do I become a shareholder? When do I need to make a threshold disclosure? How do I receive dividends? Where do I find General Meeting information?
+________________
+
+
+Module: Action Block
+<Eyebrow>
+Support
+<Heading> Need help with shareholder questions? 
+<CTA> Contact IR 
+<links to> quadient.com/en-us/investor-relations/contact 
+<Content copy> Give prospective and current shareholders a clear route to the investor relations team for account, documentation or disclosure questions.

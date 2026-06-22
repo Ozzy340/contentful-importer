@@ -1,0 +1,16 @@
+concepts:
+  topic:company:
+    conceptId: company
+    description: Replace with the real Contentful taxonomy concept ID for the approved company/topic concept
+
+  topic:services:
+    conceptId: services
+    description: Replace with the real Contentful taxonomy concept ID for the approved services/topic concept
+
+  audience:prospect:
+    conceptId: prospect
+    description: Replace with the real Contentful taxonomy concept ID for the approved prospect concept or rename the token to match your chosen scheme
+
+  audience:customer:
+    conceptId: customer
+    description: Replace with the real Contentful taxonomy concept ID for the approved customer concept or rename the token to match your chosen scheme

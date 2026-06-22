@@ -1,0 +1,198 @@
+﻿Sitemap
+Target keyword: banking automation (TKTK)
+Supporting keywords: CCM for financial services; automated customer communications for banks; banking compliance communications; digital communications for financial institutions 
+Page title: Automation for Banks and Financial Services | Quadient
+Meta description: With Quadient CCM for financial services, banks and finance teams deliver compliant, personalized customer communications, digital and physical, from one hub.
+________________
+ <hero> Module: Hero Standard
+
+
+* <image> Directional: Finance professionals working (avoid product-heavy UI). 
+* <h1>Simplify the work financial institutions can’t afford to get wrong
+* <description>Invoices, payments, communications and compliance — we help reduce errors, manual work, and risk across the systems your teams rely on every day. 
+* <Primary CTA> Request a demo
+   * <links to> /contact/request-demo
+* <Secondary CTA>Explore financial services solutions 
+   * <links to>/markets/finance/solutions 
+
+
+________________
+ <proof and trust> Modules: Logo Wall, Quote, Analyst
+
+
+* <h2>Trusted to support the systems behind financial operations
+* <description>When accuracy, compliance and timing matter, financial organizations rely on Quadient to support the systems behind their operations — without adding complexity or risk.
+* <compliance badges>SOC 2, ISO, PCI where applicable 
+* <awards row>Relevant finance or operations software recognitions 
+* <testimonial>1–2 quotes from banking, insurance, or enterprise finance leaders
+________________
+
+
+<intro value / industry-specific challenges> Module: 50-50 Block
+* <image optional>
+* <h2>When financial operations slow down, everyone feels it.
+* <description> Every statement, notice and payment matters. It has to be accurate, compliant and on time. When it isn’t, cash flow stalls, risk increases and customer trust takes a hit. Quadient helps keep that work moving, on time, every time. 
+* <bullets>
+   * <bullet>Deliver high-volume, compliant communications without delays
+   * <bullet>Keep onboarding, billing and notifications accurate and consistent
+   * <bullet>Stay compliant as requirements evolve
+   * <bullet>Personalize communications without adding complexity
+   * <bullet>Move away from manual, fragmented workflows
+   * <bullet>Keep communications clear across every customer segment
+________________
+
+
+<impact of automation solutions for finance industry> Module: Solution Card Carousel
+* <graphic>
+* <h2>Where automation makes the biggest impact in financial services
+* <description>The most important work in finance is often the most repetitive — and the most sensitive to errors and delays. Quadient helps simplify that work, improving accuracy, speed and visibility across every step.
+   * <impact point>Consistent compliance
+      * <icon>check mark
+      * <short description>Keep communications accurate, traceable and audit-ready without slowing down operations.
+   * <impact point>Clear communications
+      * <icon>chat bubble
+      * <short description>Ensure customers receive the right information at the right time, across every channel.
+   * <impact point>Connected workflows
+      * <icon>envelope
+      * <short description>Connect print and digital communications so work flows through one process instead of many.
+   * <impact point>Less reliance on legacy systems
+      * <icon>clock
+      * <short description>Reduce fragmentation and modernize workflows without disrupting what’s already in place.
+   * 
+
+________________
+ <industry-specific use cases> Module: Solution Cards Stacked
+
+
+* <h2>Automation built for the way you work
+* <description>From banks managing millions of account statements to insurers coordinating claims, finance organizations deliver consistent, compliant communications, faster and easier, with Quadient.
+* <cards>
+   * <card>  
+      * <h3>Banking and financial services  
+      * <description>Automate account statements, regulatory disclosures, loan servicing notices, and onboarding communications, maintaining accuracy and compliance at enterprise scale.
+   * <card>  
+      * <h3>Credit unions and community banks 
+      * <description>Serve members with clarity and dependability. Deliver personalized communications across print and digital channels without added complexity.
+   * <card>  
+      * <h3>Wealth management
+      * <description>Maintain trust through precision and consistency. Ensure portfolio communications and reports are accurate, timely and aligned with your brand.
+
+
+________________
+
+
+
+
+<Quadient solutions overview – part of Quadient Suite> Module: Solution Cards Stacked
+
+
+* <image>Light conceptual diagram of Quadient’s platform pillars
+* <h2>Everything your finance team needs, working together
+* <description>Quadient Suite connects communications, payments and delivery into a single, streamlined system, working with your existing tools to keep operations running smoothly. 
+* <cards>
+   * <card>  
+      * <image or icon>  
+      * <h3>Customer communications management (CCM)
+      * <description>Design, automate and deliver personalized, clear, compliant communications across all your print and digital channels.
+         * <links to>/customer-communications  
+   * <card>  
+      * <image or icon>  
+      * <h3>Mailing solutions and shipping automation
+      * <description>Automate and optimize mail and shipping to save on postage while ensuring reliable delivery.  
+         * <links to>/mail-shipping-automation 
+
+
+
+
+________________
+
+
+<TL block> Module: 50-50 Block
+* <image>
+* <h3>content topic title
+* <description>of a specific industry pain point; content will also speak to the solution to that pain point
+* <CTA>
+________________
+ <capabilities & integrations section> Module: Stacked Card Block
+
+
+* <h2>What Quadient makes possible for finance organizations 
+* <description>Quadient brings together the customer communications capabilities finance organizations need to move quickly and confidently. Here's what that looks like across key workflows.
+* <capability cluster>  
+   * <h3>Automate high-volume, highly regulated communications.
+   * <description>Create and deliver statements, notices and disclosures accurately and at scale, without manual effort.
+   * <bullets>  
+      * <bullet>Personalize content across customer segments and product lines.
+      * <bullet>Ensure strict adherence to compliance requirements.
+      * <bullet>Maintain full version control and approval workflows.
+* <capability cluster>  
+   * <h3>Deliver across the channels your customers use.
+   * <description>Keep communications consistent across print and digital without managing separate systems.
+   * <bullets>  
+      * <bullet>Centralize print, email, SMS, portal, and digital delivery on one portal.
+      * <bullet>Provide self-service access to statements and communications history.
+      * <bullet>Accelerate digital adoption to reduce print and postage costs.
+* <capability cluster>  
+   * <h3>Maintain control and audit readiness.  
+   * <description>Stay compliant and prepared for audits with built-in governance and visibility.
+   * <bullets>  
+      * <bullet>Establish role-based permissions and approval workflows.
+      * <bullet>Maintain audit trails across finance documents and communications.
+      * <bullet>Adapt to regulatory changes with centralized template management.
+* <capability cluster>  
+   * <h3>Modernize without disruption.
+   * <description>Improve workflows and replace legacy systems without slowing down your business. 
+   * <bullets>  
+      * <bullet>Integrate with existing core banking, insurance, or ERP systems.
+      * <bullet>Migrate from outdated legacy systems on your timeline.
+      * <bullet>Adapt deployment to suit your infrastructure requirements.
+
+
+<integrations mini module> Module: Logo Wall 
+
+
+* <h2>Works with the systems you already use
+* <description>Quadient connects with the platforms at the core of your business, so you can improve how work flows without replacing the systems you depend on.
+* <image>Integration logos (NetSuite, SAP, Microsoft Dynamics, Sage Intacct, QuickBooks, Guidewire, Duck Creek) 
+* <CTA>Explore finance integrations 
+   * <links to>/finance/integrations
+
+
+________________
+
+
+
+
+<case study module> Module: Editorial Content Block
+
+
+* <image>
+* <h2>title of case study 
+* <description>Directional: How a finance org reduced DSO or automated AP. 
+
+
+<resources mini-module> Module: Solution Cards
+* <card>Guide: Finance automation best practices 
+* <card>Webinar: Digitizing AR & AP workflows 
+* <CTA>View all finance resources 
+   * <links to>/resources?filter=finance 
+
+
+________________
+
+
+<FAQ>
+* <h2>Frequently asked questions
+* <description>Get answers to common questions about Quadient’s finance automation solutions.
+   * <FAQ accordion>
+
+
+________________
+ <CTA footer> 
+
+
+* <h2>Let’s talk about how your finance team works.
+* <primary CTA>Request a demo 
+   * <links to>/contact/request-demo 
+* <secondary CTA>Explore all finance solutions 
+   * <links to>/markets/finance/solutions

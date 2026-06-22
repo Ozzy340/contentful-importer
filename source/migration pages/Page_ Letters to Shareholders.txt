@@ -1,0 +1,67 @@
+﻿Page: Letters to Shareholders
+Objective of the page: Shareholder letters and archive
+Future URL: quadient.com/en-us/investor-relations/letters-to-shareholders
+Current URL or Current URLs which will be condensed into one URL: https://invest.quadient.com/en/individual-shareholders
+Primary audiences
+Individual shareholders
+Prospective individual shareholders
+Investor-relations visitors looking for leadership updates
+Secondary audiences
+Analysts
+Financial media
+Corporate governance and market-watcher audiences
+Target keyword
+letters to shareholders
+Supporting keywords
+shareholder letters
+shareholder letter archive
+Quadient investor letters
+individual shareholders
+Page title
+Letters to shareholders | Quadient Investor Relations
+Meta description
+Read the latest Quadient letter to shareholders and browse past editions in one clear investor relations archive.
+Note: Module selection below uses only approved Contentful components.
+Module: Hero Standard
+<Eyebrow> Investor relations
+<Heading> Letters to shareholders
+<SubHeading> Read the latest leadership message and browse past editions in one archive
+<CTA> Read latest
+<CTA Microcopy> Latest edition
+<Content copy> A dedicated destination for recurring shareholder letters, leadership perspective and easy access to archived editions.
+Module: Big Idea Panel
+<Heading> Leadership updates in one place
+<SubHeading> Present this page as an ongoing communication stream from company leadership, with the newest edition first and the archive immediately below.
+Note: The current live individual-shareholders page mixes letters with presentations, FAQs and other media. On the new dedicated URL, keep this page tightly focused on letters and route adjacent shareholder content through related links instead.
+Module: 50-50 Block
+<Eyebrow> Latest letter
+<Heading> Read the newest shareholder update
+<CTA> Open letter
+<CTA Microcopy> Latest issue
+<Content copy> Feature the latest letter with the cover image on one side and a short summary on the other. Use copy that frames the edition as a concise leadership update on company performance, priorities and recent milestones.
+<image/graphic> Latest shareholder letter cover
+<links to> [Latest shareholder letter PDF]
+Note: The current live page surfaces the latest letter with a cover image and direct PDF access. The current latest edition shown is Letter to shareholders #7, dated November 2025.
+Module: Insights & Resources
+<Eyebrow> Archive
+<Heading> Browse past letters
+<CTA> View archive
+<cards> <card> <Heading> Letter to shareholders #7 <Content copy> November 2025 <CTA> Read letter <links to> [Letter #7 PDF] <card> <Heading> Letter to shareholders #6 <Content copy> July 2025 <CTA> Read letter <links to> [Letter #6 PDF] <card> <Heading> Letter to shareholders #5 <Content copy> October 2024 <CTA> Read letter <links to> [Letter #5 PDF] <card> <Heading> Letter to shareholders #4 <Content copy> June 2024 <CTA> Read letter <links to> [Letter #4 PDF] <card> <Heading> Letter to shareholders #3 <Content copy> January 2024 <CTA> Read letter <links to> [Letter #3 PDF] <card> <Heading> Letter to shareholders #2 <Content copy> October 2023 <CTA> Read letter <links to> [Letter #2 PDF] <card> <Heading> Letter to shareholders #1 <Content copy> July 2023 <CTA> Read letter <links to> [Letter #1 PDF]
+Note: The current live archive lists seven editions, from July 2023 through November 2025. It also labels the letters section as French, so each archive card on the new page should clearly display language beside date.
+Module: Solution Card Carousel
+<Eyebrow> Shareholders
+<Heading> Related investor resources
+<Content copy> Help visitors continue into the most relevant shareholder information after reading a letter.
+<card> <Content Heading> Becoming a shareholder <Content copy> Practical information for investors exploring Quadient share ownership. <CTA> Learn more <links to> quadient.com/en-us/investor-relations/becoming-a-shareholder <card> <Content Heading> General meeting <Content copy> Access AGM information, documents and key shareholder dates. <CTA> View page <links to> quadient.com/en-us/investor-relations/general-meeting <card> <Content Heading> Quadient share <Content copy> Find core shareholding information in one place. <CTA> Explore <links to> quadient.com/en-us/investor-relations/quadient-share <card> <Content Heading> Share price <Content copy> Review current share-price information and market context. <CTA> View price <links to> quadient.com/en-us/investor-relations/share-price <card> <Content Heading> Contact IR <Content copy> Reach the investor relations team for shareholder questions. <CTA> Contact us <links to> quadient.com/en-us/investor-relations/contact
+Module: CTA Form
+<Heading> Stay informed when new letters are published
+<CTA> Subscribe
+<CTA Microcopy> Shareholder updates
+<links to> [Newsletter signup destination]
+Note: The current live page includes a subscribe prompt, but an exact destination is not present in the sitemap provided. Destination to validate.
+Module: Action Block
+<Eyebrow> Investor relations
+<Heading> Need help with a shareholder question?
+<CTA> Contact IR
+<Content copy> Give visitors a clear next step if they need support beyond the letter archive.
+<links to> quadient.com/en-us/investor-relations/contact

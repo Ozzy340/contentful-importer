@@ -1,0 +1,195 @@
+﻿DS-1200 G5iQ
+Sitemap
+Folder inserters > Production mail > DS-1200 G5iQ folder inserter
+Page goal: Position the Quadient DS-1200 G5iQ as a high-volume production folder inserter for mail centers that need speed, fast job changeovers, modular flexibility, and closed-loop document integrity.
+Primary audiences
+ Production mail managers
+Print and mail service providers
+High-volume mail center teams
+Operations leaders
+Secondary audiences
+ Healthcare communications teams
+Financial services mailrooms
+Transactional mail producers
+Commercial print and mail operations
+Target keyword: DS-1200 G5iQ folder inserter
+Supporting keywords:
+ production folder inserter
+high-volume folder inserter
+mail inserting machine
+document inserting system
+automated insertion management system
+Quadient DS-1200 G5iQ
+Page title: DS-1200 G5iQ production folder inserter | Quadient
+Meta description: Discover the Quadient DS-1200 G5iQ folder inserter for high-volume mail production. Process up to 12,000 envelopes per hour with modular feeding, fast job changeovers, and AIMS integrity tracking.
+________________
+
+
+<Hero> Contentful module: Hero Standard
+<eyebrow>
+ High-volume production folder inserter
+<h1>
+ Run complex mail at production speed
+<Description>
+ The Quadient DS-1200 G5iQ helps high-volume mail centers process demanding jobs with speed, automation, and control. It runs up to 12,000 envelopes per hour and supports up to 16 document feeders.
+<Primary CTA>
+ Speak with an expert
+<CTA microcopy>
+ See how the DS-1200 G5iQ fits your production workflow.
+<Secondary CTA>
+ Download brochure
+________________
+
+
+<Value proposition intro> Contentful module: USP Listing
+<h2>
+ More output. Less downtime.
+<Description>
+ Built for transactional, correspondence, and marketing mail, the DS-1200 G5iQ combines modular feeding, automated setup, barcode reading, and AIMS document integrity in one production system.
+<bullets>
+ <bullet> Process up to 12,000 envelopes per hour.
+<bullet> Accumulate up to 32,000 sheets per hour.
+<bullet> Scale with up to 16 stations.
+<bullet> Use AIMS for closed-loop mailpiece verification.
+________________
+
+
+<Video Block> Contentful module: Full Video Block
+<h2>
+ See the DS-1200 G5iQ in production
+________________
+
+
+<How product helps> Contentful module: Stacked Card Block
+<h2>
+ Built for the jobs that slow other systems down
+<cards>
+<card>
+ <h3> Change jobs in seconds
+<Description> Switch envelopes, folds, documents, and inserts quickly with automated setup and job recall.
+<card>
+ <h3> Load paper faster
+<Description> A plug-and-play mobile trolley moves up to 5,000 sheets between printer and inserter.
+<card>
+ <h3> Read more codes, more ways
+<Description> The system reads 1D, 2D, QR, OMR, and OCR codes from almost anywhere on the page.
+<card>
+ <h3> Protect every envelope
+<Description> AIMS monitors and reports document assembly, helping confirm the right contents reach the right envelope.
+________________
+
+
+<Upsell bundle> Contentful module: Product Family Card
+<h2>
+ Enhance your production workflow
+<cards>
+<card>
+ AIMS
+ Add closed-loop tracking, real-time issue alerts, and reporting for every mailpiece.
+<card>
+ Power BI adaptor
+ Create deeper production dashboards by job, customer, or workflow.
+<card>
+ Dynamic envelope printing
+ Personalize, address, meter, or stamp envelopes in-line.
+<card>
+ iX-9 mailing system
+ Add high-output metering for production mail centers.
+________________
+
+
+<Comparison with the alternatives> Contentful module: Comparison Table
+<h2>
+ See the difference in production mail
+<table>
+ <columns> Alternatives | Quadient DS-1200 G5iQ
+<rows>
+ <row> Long job changeovers | Automated setup reduces setup time from hours to minutes.
+<row> Fixed production setups | Modular design supports up to 16 stations.
+<row> Offline envelope work | Personalize, address, meter, and stamp envelopes in-line.
+<row> Manual integrity checks | AIMS provides closed-loop verification and reporting.
+________________
+
+
+<Key features> Contentful module: USP Listing
+<h2>
+ Key features at a glance
+<bullets>
+ <bullet> Up to 12,000 envelopes per hour.
+<bullet> Up to 32,000 sheets per hour.
+<bullet> 24" color touchscreen with IMOS interface.
+<bullet> Unlimited job storage and recall.
+<bullet> Up to 16 stations for modular scaling.
+<bullet> Reads 1D, 2D, QR, OMR, and OCR codes.
+________________
+
+
+<Specifications> Contentful module: Comparison Table
+<h2>
+ Specifications at a glance
+<table>
+ <columns> Feature | Details
+<rows>
+ <row> Processing speed | Up to 12,000 envelopes/hour
+<row> Accumulation speed | Up to 32,000 sheets/hour
+<row> Touchscreen PC control | 24", standard
+<row> Automatic job setup | Standard
+<row> Document feeder capacity | Up to 5,000 sheets
+<row> Insert feeder capacity | Up to 40" of material, or 2,000 BREs
+<row> Envelope feeder capacity | Up to 2,000 standard envelopes; flats up to 500 envelopes
+<row> Folding and inserting | Standard envelopes up to 8 mm; flats up to 10 mm
+<row> Collation before folding | Standard
+<row> Collation of inserts | Standard
+<row> Double-feed detection | Optical standard
+<row> Full modularity | Standard
+<row> Online help / remote assistance | Standard
+<row> Options | OMR, OCR, linear barcode, 2D Data Matrix, mailing system interface, stamp affixing, envelope printing, envelope sorting
+<CTA>
+ Download full specifications
+________________
+
+
+<Related products and solutions> Contentful module: Product Family Card
+<h2>
+ Explore other Quadient products
+<cards>
+<card>
+ AIMS
+ Monitor, verify, and report mailpiece integrity across the inserting process.
+<card>
+ iX-9 mailing system
+ Meter high-volume mail with speed, ergonomic operation, and connected control.
+<card>
+ Impress Automate
+ Prepare, sort, group, personalize, barcode, and distribute documents before production.
+________________
+
+
+<FAQ module> Contentful module: FAQs List
+<h2>
+ Frequently asked questions
+<accordion>
+ <question> What kind of mail operation is the DS-1200 G5iQ built for?
+<question> How fast can the DS-1200 G5iQ process mail?
+<question> Can the DS-1200 G5iQ handle different envelope sizes?
+<question> Does the DS-1200 G5iQ support closed-loop verification?
+________________
+
+
+<Proof> Contentful module: Testimonial
+<h2>
+ Trusted by production mail teams
+<quote>
+ “Investing in Quadient's DS-1200 folder inserter brings us many benefits, including improved production speeds...”
+<attribution>
+ John Henry Ruggieri, President | Sundance
+________________
+
+
+<Final CTA> Module: CTA Form
+<h2>
+ Ready to scale high-volume mail production?
+<Primary CTA>
+ Speak with an expert
+<links to>
+ /contact

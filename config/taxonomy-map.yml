@@ -1,0 +1,1465 @@
+concepts:
+  resource-type:analyst-report:
+    conceptId: analystReport
+    description: 'Resource Type: Analyst Report'
+  resource-type:announcement:
+    conceptId: announcement
+    description: 'Resource Type: Announcement'
+  resource-type:article:
+    conceptId: article
+    description: 'Resource Type: Article'
+  resource-type:blog:
+    conceptId: blog
+    description: 'Resource Type: Blog'
+  resource-type:brochure:
+    conceptId: brochure
+    description: 'Resource Type: Brochure'
+  resource-type:case-study:
+    conceptId: caseStudy
+    description: 'Resource Type: Case Study'
+  resource-type:ebook:
+    conceptId: eBook
+    description: 'Resource Type: eBook'
+  resource-type:event:
+    conceptId: event
+    description: 'Resource Type: Event'
+  resource-type:infographic:
+    conceptId: infographic
+    description: 'Resource Type: Infographic'
+  resource-type:knowledge-hub-article:
+    conceptId: knowledgeHubArticle
+    description: 'Resource Type: Knowledge Hub Article'
+  resource-type:learn:
+    conceptId: learn
+    description: 'Resource Type: Learn'
+  resource-type:legal:
+    conceptId: legal
+    description: 'Resource Type: Legal'
+  resource-type:partner:
+    conceptId: partner
+    description: 'Resource Type: Partner'
+  resource-type:podcast:
+    conceptId: podcast
+    description: 'Resource Type: Podcast'
+  resource-type:subprocessor:
+    conceptId: subprocessor
+    description: 'Resource Type: Subprocessor'
+  resource-type:terms:
+    conceptId: terms
+    description: 'Resource Type: Terms'
+  resource-type:tool:
+    conceptId: tool
+    description: 'Resource Type: Tool'
+  resource-type:upcoming-webinar:
+    conceptId: upcomingWebinar
+    description: 'Resource Type: Upcoming Webinar'
+  resource-type:video:
+    conceptId: video
+    description: 'Resource Type: Video'
+  resource-type:webinar:
+    conceptId: webinar
+    description: 'Resource Type: Webinar'
+  resource-type:white-paper:
+    conceptId: whitePaper
+    description: 'Resource Type: White Paper'
+  product-family:accounts-payable-automation:
+    conceptId: accountsPayableAutomation
+    description: 'Product Families: Accounts Payable Automation'
+  product-family:accounts-receivable-automation:
+    conceptId: accountsReceivableAutomation
+    description: 'Product Families: Accounts Receivable Automation'
+  product-family:cash-dashboard:
+    conceptId: cashDashboard
+    description: 'Product Families: Cash Dashboard'
+  product-family:customer-communications-management:
+    conceptId: customerCommunicationsManagement
+    description: 'Product Families: Customer Communications Management'
+  product-family:default-product-family:
+    conceptId: defaultProductFamily
+    description: 'Product Families: Default Product Family'
+  product-family:digital-printers:
+    conceptId: digitalPrinters
+    description: 'Product Families: Digital Printers'
+  product-family:folder-inserters:
+    conceptId: folderInsertersproduct
+    description: 'Product Families: Folder Inserters'
+  product-family:inbound-tracking-system:
+    conceptId: inboundTrackingSystem
+    description: 'Product Families: Inbound Tracking System'
+  product-family:ink-supplies:
+    conceptId: inkSupplies
+    description: 'Product Families: Ink & Supplies'
+  product-family:invoice-delivery:
+    conceptId: invoiceDeliveryproduct
+    description: 'Product Families: Invoice Delivery'
+  product-family:mail-shipping-automation:
+    conceptId: mailShippingAutomation
+    description: 'Product Families: Mail & Shipping Automation'
+  product-family:mail-automation-software:
+    conceptId: mailAutomationSoftware
+    description: 'Product Families: Mail Automation Software'
+  product-family:mail-openers-preparation-equipment:
+    conceptId: mailOpenersPreparationEquipment
+    description: 'Product Families: Mail Openers & Preparation Equipment'
+  product-family:mailroom-equipment:
+    conceptId: mailroomEquipment
+    description: 'Product Families: Mailroom Equipment'
+  product-family:outbound-tracking-system:
+    conceptId: outboundTrackingSystem
+    description: 'Product Families: Outbound Tracking System'
+  product-family:paper-feeding-finishing-equipment:
+    conceptId: paperFeedingFinishingEquipment
+    description: 'Product Families: Paper Feeding & Finishing Equipment'
+  product-family:parcel-shipping-tracking:
+    conceptId: parcelShippingTracking
+    description: 'Product Families: Parcel Shipping & Tracking'
+  product-family:postage-meters:
+    conceptId: postageMeters
+    description: 'Product Families: Postage Meters'
+  product-family:quadient-platform:
+    conceptId: quadientPlatform
+    description: 'Product Families: Quadient Platform'
+  industry:accounting:
+    conceptId: accounting
+    description: 'Industries: Accounting'
+  industry:association:
+    conceptId: association
+    description: 'Industries: Association'
+  industry:banking:
+    conceptId: banking
+    description: 'Industries: Banking'
+  industry:business-services-technology:
+    conceptId: businessServicesTechnology
+    description: 'Industries: Business Services / Technology'
+  industry:default-industry:
+    conceptId: defaultIndustry
+    description: 'Industries: Default Industry'
+  industry:education:
+    conceptId: education
+    description: 'Industries: Education'
+  industry:financial-services:
+    conceptId: finance
+    description: 'Industries: Financial Services'
+  industry:healthcare:
+    conceptId: healthcare
+    description: 'Industries: Healthcare'
+  industry:industry:
+    conceptId: industry
+    description: 'Industries: Industry'
+  industry:insurance:
+    conceptId: insurance
+    description: 'Industries: Insurance'
+  industry:legal:
+    conceptId: legalServices
+    description: 'Industries: Legal'
+  industry:manufacturing:
+    conceptId: manufacturingLogistics
+    description: 'Industries: Manufacturing'
+  industry:media-entertainment:
+    conceptId: mediaEntertainment
+    description: 'Industries: Media & Entertainment'
+  industry:print-service-providers:
+    conceptId: printServiceProviders
+    description: 'Industries: Print Service Providers'
+  industry:professional-services:
+    conceptId: professionalBusinessServices
+    description: 'Industries: Professional Services'
+  industry:property-management-real-estate:
+    conceptId: propertyManagementRealEstate
+    description: 'Industries: Property Management / Real Estate'
+  industry:public-sector-government:
+    conceptId: publicSector
+    description: 'Industries: Public Sector / Government'
+  industry:retail:
+    conceptId: retailConsumerServices
+    description: 'Industries: Retail'
+  industry:service-providers:
+    conceptId: serviceProviders
+    description: 'Industries: Service Providers'
+  industry:shipping-carriers:
+    conceptId: shippingCarriers
+    description: 'Industries: Shipping Carriers'
+  industry:technology:
+    conceptId: technologyTelecommunications
+    description: 'Industries: Technology'
+  industry:telecommunications:
+    conceptId: telecommunications
+    description: 'Industries: Telecommunications'
+  industry:utilities:
+    conceptId: utilities
+    description: 'Industries: Utilities'
+  industry:wealth-management:
+    conceptId: wealthManagement
+    description: 'Industries: Wealth Management'
+  industry:wholesale-distribution:
+    conceptId: wholesaleDistribution
+    description: 'Industries: Wholesale & Distribution'
+  role:customer-experience:
+    conceptId: customerExperiencerole
+    description: 'Roles: Customer Experience'
+  role:data-processing:
+    conceptId: dataProcessing
+    description: 'Roles: Data Processing'
+  role:default-role:
+    conceptId: defaultRole
+    description: 'Roles: Default Role'
+  role:direction:
+    conceptId: direction
+    description: 'Roles: Direction'
+  role:executive:
+    conceptId: executive
+    description: 'Roles: Executive'
+  role:finance:
+    conceptId: financerole
+    description: 'Roles: Finance'
+  role:human-resources:
+    conceptId: humanResources
+    description: 'Roles: Human Resources'
+  role:it:
+    conceptId: it
+    description: 'Roles: IT'
+  role:legal-compliance:
+    conceptId: legalcompliance
+    description: 'Roles: Legal/Compliance'
+  role:line-of-business-lob:
+    conceptId: lineOfBusinessLob
+    description: 'Roles: Line Of Business (LOB)'
+  role:mailing:
+    conceptId: mailing
+    description: 'Roles: Mailing'
+  role:mailroom:
+    conceptId: mailroom
+    description: 'Roles: Mailroom'
+  role:marketing:
+    conceptId: marketing
+    description: 'Roles: Marketing'
+  role:operations:
+    conceptId: operations
+    description: 'Roles: Operations'
+  role:shipping:
+    conceptId: shipping
+    description: 'Roles: Shipping'
+  topic:accounts-payable:
+    conceptId: accountsPayable
+    description: 'Topics: Accounts Payable'
+  topic:accounts-receivable:
+    conceptId: accountsReceivable
+    description: 'Topics: Accounts Receivable'
+  topic:business-insights:
+    conceptId: businessInsights
+    description: 'Topics: Business Insights'
+  topic:business-process-automation:
+    conceptId: businessProcessAutomation
+    description: 'Topics: Business Process Automation'
+  topic:corporate-culture:
+    conceptId: corporateCulture
+    description: 'Topics: Corporate Culture'
+  topic:credit:
+    conceptId: credit
+    description: 'Topics: Credit'
+  topic:customer-communications:
+    conceptId: customerCommnunications
+    description: 'Topics: Customer Communications'
+  topic:customer-experience:
+    conceptId: customerExperience
+    description: 'Topics: Customer Experience'
+  topic:customer-journey:
+    conceptId: customerJourney
+    description: 'Topics: Customer Journey'
+  topic:data-quality:
+    conceptId: dataQuality
+    description: 'Topics: Data Quality'
+  topic:default-topic:
+    conceptId: defaultTopic
+    description: 'Topics: Default Topic'
+  topic:digital-and-mobile-experience:
+    conceptId: digitalAndMobileExperience
+    description: 'Topics: Digital and Mobile Experience'
+  topic:digital-transformation:
+    conceptId: digitalTransformation
+    description: 'Topics: Digital Transformation'
+  topic:document-automation:
+    conceptId: documentAutomationtopic
+    description: 'Topics: Document Automation'
+  topic:document-management:
+    conceptId: documentManagement
+    description: 'Topics: Document Management'
+  topic:expense-management:
+    conceptId: expenseManagement
+    description: 'Topics: Expense Management'
+  topic:future-technology:
+    conceptId: futureTechnology
+    description: 'Topics: Future Technology'
+  topic:invoicing:
+    conceptId: invoicing
+    description: 'Topics: Invoicing'
+  topic:mailing-postage:
+    conceptId: mailingsPostage
+    description: 'Topics: Mailing & Postage'
+  topic:payments:
+    conceptId: payments
+    description: 'Topics: Payments'
+  topic:risk-and-compliance:
+    conceptId: riskAndCompliance
+    description: 'Topics: Risk and Compliance'
+  topic:shipping-tracking:
+    conceptId: shippingTracking
+    description: 'Topics: Shipping & Tracking'
+  knowledge-hub-topic:accounts-payable:
+    conceptId: accountsPayabledirect
+    description: 'Knowledge Hub Topics: Accounts Payable'
+  knowledge-hub-topic:accounts-receivable:
+    conceptId: accountsReceivabledirect
+    description: 'Knowledge Hub Topics: Accounts Receivable'
+  knowledge-hub-topic:ap-automation:
+    conceptId: apAutomationdirect
+    description: 'Knowledge Hub Topics: AP Automation'
+  knowledge-hub-topic:ar-automation:
+    conceptId: arAutomationdirect
+    description: 'Knowledge Hub Topics: AR Automation'
+  knowledge-hub-topic:ar-collection:
+    conceptId: arCollection
+    description: 'Knowledge Hub Topics: AR Collection'
+  knowledge-hub-topic:bulk-mailing-solutions:
+    conceptId: bulkMailingSolutions
+    description: 'Knowledge Hub Topics: Bulk Mailing Solutions'
+  knowledge-hub-topic:business-mailing-101:
+    conceptId: businessMailing101
+    description: 'Knowledge Hub Topics: Business Mailing 101'
+  knowledge-hub-topic:business-process-automation:
+    conceptId: businessProcessAutomationdirect
+    description: 'Knowledge Hub Topics: Business Process Automation'
+  knowledge-hub-topic:ccm-and-cxm-customer-research:
+    conceptId: ccmAndCxmCustomerResearch
+    description: 'Knowledge Hub Topics: CCM and CXM Customer Research'
+  knowledge-hub-topic:certified-mail:
+    conceptId: certifiedMail
+    description: 'Knowledge Hub Topics: Certified Mail'
+  knowledge-hub-topic:credit-management-system:
+    conceptId: creditManagementSystem
+    description: 'Knowledge Hub Topics: Credit Management System'
+  knowledge-hub-topic:customer-communication-management:
+    conceptId: customerCommunicationManagement
+    description: 'Knowledge Hub Topics: Customer Communication Management'
+  knowledge-hub-topic:customer-expectations:
+    conceptId: customerExpectations
+    description: 'Knowledge Hub Topics: Customer Expectations'
+  knowledge-hub-topic:customer-experience-management:
+    conceptId: customerExperienceManagement
+    description: 'Knowledge Hub Topics: Customer Experience Management'
+  knowledge-hub-topic:customer-journey:
+    conceptId: customerJourneydirect
+    description: 'Knowledge Hub Topics: Customer Journey'
+  knowledge-hub-topic:customer-research:
+    conceptId: customerResearch
+    description: 'Knowledge Hub Topics: Customer Research'
+  knowledge-hub-topic:digital-archiving:
+    conceptId: digitalArchiving
+    description: 'Knowledge Hub Topics: Digital Archiving'
+  knowledge-hub-topic:direct:
+    conceptId: direct
+    description: 'Knowledge Hub Topics: Direct'
+  knowledge-hub-topic:document-automation:
+    conceptId: documentAutomation
+    description: 'Knowledge Hub Topics: Document Automation'
+  knowledge-hub-topic:document-automation-customer-research:
+    conceptId: documentAutomationCustomerResearch
+    description: 'Knowledge Hub Topics: Document Automation Customer Research'
+  knowledge-hub-topic:document-delivery:
+    conceptId: documentDelivery
+    description: 'Knowledge Hub Topics: Document Delivery'
+  knowledge-hub-topic:e-invoicing-and-payments:
+    conceptId: eInvoicingAndPayments
+    description: 'Knowledge Hub Topics: e-Invoicing and Payments'
+  knowledge-hub-topic:erp-calculator:
+    conceptId: erpCalculator
+    description: 'Knowledge Hub Topics: ERP Calculator'
+  knowledge-hub-topic:erp-integrations:
+    conceptId: erpIntegrations
+    description: 'Knowledge Hub Topics: ERP Integrations'
+  knowledge-hub-topic:financial-discipline:
+    conceptId: financialDiscipline
+    description: 'Knowledge Hub Topics: Financial Discipline'
+  knowledge-hub-topic:flat-rate-shipping:
+    conceptId: flatRateShipping
+    description: 'Knowledge Hub Topics: Flat Rate Shipping'
+  knowledge-hub-topic:folder-inserters:
+    conceptId: folderInserters
+    description: 'Knowledge Hub Topics: Folder Inserters'
+  knowledge-hub-topic:human-capital:
+    conceptId: humanCapital
+    description: 'Knowledge Hub Topics: Human Capital'
+  knowledge-hub-topic:hybrid-mail:
+    conceptId: hybridMailmail
+    description: 'Knowledge Hub Topics: Hybrid Mail'
+  knowledge-hub-topic:introduction-to-po-boxes:
+    conceptId: introductionToPoBoxes
+    description: 'Knowledge Hub Topics: Introduction to PO Boxes'
+  knowledge-hub-topic:invoice-delivery:
+    conceptId: invoiceDelivery
+    description: 'Knowledge Hub Topics: Invoice Delivery'
+  knowledge-hub-topic:invoice-processing:
+    conceptId: invoiceProcessing
+    description: 'Knowledge Hub Topics: Invoice Processing'
+  knowledge-hub-topic:mail:
+    conceptId: mail
+    description: 'Knowledge Hub Topics: Mail'
+  knowledge-hub-topic:none:
+    conceptId: none
+    description: 'Knowledge Hub Topics: None'
+  knowledge-hub-topic:po-boxes:
+    conceptId: poBoxes
+    description: 'Knowledge Hub Topics: PO Boxes'
+  knowledge-hub-topic:postage-for-special-mail-types:
+    conceptId: postageForSpecialMailTypes
+    description: 'Knowledge Hub Topics: Postage for Special Mail Types'
+  knowledge-hub-topic:postage-meter:
+    conceptId: postageMeter
+    description: 'Knowledge Hub Topics: Postage Meter'
+  knowledge-hub-topic:postal-automation:
+    conceptId: postalAutomation
+    description: 'Knowledge Hub Topics: Postal Automation'
+  knowledge-hub-topic:print-mail-outsourcing:
+    conceptId: printMailOutsourcing
+    description: 'Knowledge Hub Topics: Print & mail outsourcing'
+  knowledge-hub-topic:purchase-ordering:
+    conceptId: purchaseOrdering
+    description: 'Knowledge Hub Topics: Purchase Ordering'
+  knowledge-hub-topic:registered-mail:
+    conceptId: registeredMail
+    description: 'Knowledge Hub Topics: Registered Mail'
+  knowledge-hub-topic:regulatory-frameworks:
+    conceptId: regulatoryFrameworks
+    description: 'Knowledge Hub Topics: Regulatory Frameworks'
+  knowledge-hub-topic:small-business-shipping:
+    conceptId: smallBusinessShipping
+    description: 'Knowledge Hub Topics: Small Business Shipping'
+  knowledge-hub-topic:special-mail-types:
+    conceptId: specialMailTypes
+    description: 'Knowledge Hub Topics: Special Mail Types'
+  knowledge-hub-topic:sustainability:
+    conceptId: sustainability
+    description: 'Knowledge Hub Topics: Sustainability'
+  partner-program-track:alliances-partners:
+    conceptId: alliancesPartners
+    description: 'Partner Program Track: Alliances Partners'
+  partner-program-track:business-partners:
+    conceptId: businessPartners
+    description: 'Partner Program Track: Business Partners'
+  partner-program-track:delivery-partners:
+    conceptId: deliveryPartners
+    description: 'Partner Program Track: Delivery Partners'
+  partner-program-track:distributor:
+    conceptId: distributor
+    description: 'Partner Program Track: Distributor'
+  partner-program-track:experience-partners:
+    conceptId: experiencePartners
+    description: 'Partner Program Track: Experience Partners'
+  partner-program-track:isv-technology-partners:
+    conceptId: isvTechnologyPartners
+    description: 'Partner Program Track: ISV / Technology Partners'
+  partner-program-track:none:
+    conceptId: noneppt
+    description: 'Partner Program Track: None'
+  partner-program-track:technology-partners:
+    conceptId: technologyPartners
+    description: 'Partner Program Track: Technology Partners'
+  partner-badge:accounts-payable:
+    conceptId: accountsPayablepb
+    description: 'Partner Badge: Accounts Payable'
+  partner-badge:accounts-receivable:
+    conceptId: accountsReceivablepb
+    description: 'Partner Badge: Accounts Receivable'
+  partner-badge:certified-delivery-partners:
+    conceptId: certifiedDeliveryPartners
+    description: 'Partner Badge: Certified Delivery Partners'
+  partner-badge:cloud-partners:
+    conceptId: cloudPartners
+    description: 'Partner Badge: Cloud Partners'
+  partner-badge:evolve:
+    conceptId: evolve
+    description: 'Partner Badge: Evolve'
+  partner-badge:flex:
+    conceptId: flex
+    description: 'Partner Badge: Flex'
+  partner-badge:global-partners:
+    conceptId: globalPartners
+    description: 'Partner Badge: Global Partners'
+  partner-badge:iforms:
+    conceptId: iFormspb
+    description: 'Partner Badge: iForms'
+  partner-badge:impress:
+    conceptId: impress
+    description: 'Partner Badge: Impress'
+  partner-badge:none:
+    conceptId: nonepb
+    description: 'Partner Badge: None'
+  partner-tier:gold:
+    conceptId: gold
+    description: 'Partner Tier: Gold'
+  partner-tier:n-a:
+    conceptId: na
+    description: 'Partner Tier: N/A'
+  partner-tier:none:
+    conceptId: nonept
+    description: 'Partner Tier: None'
+  partner-tier:platinum:
+    conceptId: platinum
+    description: 'Partner Tier: Platinum'
+  partner-tier:registered:
+    conceptId: registered
+    description: 'Partner Tier: Registered'
+  partner-tier:silver:
+    conceptId: silver
+    description: 'Partner Tier: Silver'
+  partner-tier:unregistered:
+    conceptId: unregistered
+    description: 'Partner Tier: Unregistered'
+  partners-technology-focu:acumatica:
+    conceptId: acumatica
+    description: 'Partners Technology Focus: Acumatica'
+  partners-technology-focu:netsuite:
+    conceptId: netSuite
+    description: 'Partners Technology Focus: NetSuite'
+  partners-technology-focu:none:
+    conceptId: noneptf
+    description: 'Partners Technology Focus: None'
+  partners-technology-focu:sage:
+    conceptId: sage
+    description: 'Partners Technology Focus: Sage'
+  partner-region:americas:
+    conceptId: americas
+    description: 'Partner Region: Americas'
+  partner-region:asia:
+    conceptId: asia
+    description: 'Partner Region: Asia'
+  partner-region:europe:
+    conceptId: europeregion
+    description: 'Partner Region: Europe'
+  partner-region:europe-middle-east:
+    conceptId: europeMiddleEast
+    description: 'Partner Region: Europe & Middle East'
+  partner-region:global:
+    conceptId: global
+    description: 'Partner Region: Global'
+  partner-region:none:
+    conceptId: noneregion
+    description: 'Partner Region: None'
+  partner-country:afghanistan:
+    conceptId: afghanistan
+    description: 'Partner Countries: Afghanistan'
+  partner-country:aland-islands:
+    conceptId: alandIslands
+    description: 'Partner Countries: Åland Islands'
+  partner-country:albania:
+    conceptId: albania
+    description: 'Partner Countries: Albania'
+  partner-country:algeria:
+    conceptId: algeria
+    description: 'Partner Countries: Algeria'
+  partner-country:american-samoa:
+    conceptId: americanSamoa
+    description: 'Partner Countries: American Samoa'
+  partner-country:andorra:
+    conceptId: andorra
+    description: 'Partner Countries: Andorra'
+  partner-country:angola:
+    conceptId: angola
+    description: 'Partner Countries: Angola'
+  partner-country:anguilla:
+    conceptId: anguilla
+    description: 'Partner Countries: Anguilla'
+  partner-country:antarctica:
+    conceptId: antarctica
+    description: 'Partner Countries: Antarctica'
+  partner-country:antigua-barbuda:
+    conceptId: antiguaBarbuda
+    description: 'Partner Countries: Antigua & Barbuda'
+  partner-country:argentina:
+    conceptId: argentina
+    description: 'Partner Countries: Argentina'
+  partner-country:armenia:
+    conceptId: armenia
+    description: 'Partner Countries: Armenia'
+  partner-country:aruba:
+    conceptId: aruba
+    description: 'Partner Countries: Aruba'
+  partner-country:ascension-island:
+    conceptId: ascensionIsland
+    description: 'Partner Countries: Ascension Island'
+  partner-country:australia:
+    conceptId: austrailia
+    description: 'Partner Countries: Australia'
+  partner-country:austria:
+    conceptId: austria
+    description: 'Partner Countries: Austria'
+  partner-country:azerbaijan:
+    conceptId: azerbaijan
+    description: 'Partner Countries: Azerbaijan'
+  partner-country:bahamas:
+    conceptId: bahamas
+    description: 'Partner Countries: Bahamas'
+  partner-country:bahrain:
+    conceptId: bahrain
+    description: 'Partner Countries: Bahrain'
+  partner-country:bangladesh:
+    conceptId: bangladesh
+    description: 'Partner Countries: Bangladesh'
+  partner-country:barbados:
+    conceptId: barbados
+    description: 'Partner Countries: Barbados'
+  partner-country:belarus:
+    conceptId: belarus
+    description: 'Partner Countries: Belarus'
+  partner-country:belgium:
+    conceptId: belgium
+    description: 'Partner Countries: Belgium'
+  partner-country:belize:
+    conceptId: belize
+    description: 'Partner Countries: Belize'
+  partner-country:benin:
+    conceptId: benin
+    description: 'Partner Countries: Benin'
+  partner-country:bermuda:
+    conceptId: bermuda
+    description: 'Partner Countries: Bermuda'
+  partner-country:bhutan:
+    conceptId: bhutan
+    description: 'Partner Countries: Bhutan'
+  partner-country:bolivia:
+    conceptId: bolivia
+    description: 'Partner Countries: Bolivia'
+  partner-country:bosnia-herzegovina:
+    conceptId: bosniaHerzegovina
+    description: 'Partner Countries: Bosnia & Herzegovina'
+  partner-country:botswana:
+    conceptId: botswana
+    description: 'Partner Countries: Botswana'
+  partner-country:bouvet-island:
+    conceptId: bouvetIsland
+    description: 'Partner Countries: Bouvet Island'
+  partner-country:brazil:
+    conceptId: brazil
+    description: 'Partner Countries: Brazil'
+  partner-country:british-indian-ocean-territory:
+    conceptId: britishIndianOceanTerritory
+    description: 'Partner Countries: British Indian Ocean Territory'
+  partner-country:british-virgin-islands:
+    conceptId: britishVirginIslands
+    description: 'Partner Countries: British Virgin Islands'
+  partner-country:brunei:
+    conceptId: brunei
+    description: 'Partner Countries: Brunei'
+  partner-country:bulgaria:
+    conceptId: bulgaria
+    description: 'Partner Countries: Bulgaria'
+  partner-country:burkina-faso:
+    conceptId: burkinaFaso
+    description: 'Partner Countries: Burkina Faso'
+  partner-country:burundi:
+    conceptId: burundi
+    description: 'Partner Countries: Burundi'
+  partner-country:cambodia:
+    conceptId: cambodia
+    description: 'Partner Countries: Cambodia'
+  partner-country:cameroon:
+    conceptId: cameroon
+    description: 'Partner Countries: Cameroon'
+  partner-country:canada:
+    conceptId: canada
+    description: 'Partner Countries: Canada'
+  partner-country:canary-islands:
+    conceptId: canaryIslands
+    description: 'Partner Countries: Canary Islands'
+  partner-country:cape-verde:
+    conceptId: capeVerde
+    description: 'Partner Countries: Cape Verde'
+  partner-country:caribbean-netherlands:
+    conceptId: caribbeanNetherlands
+    description: 'Partner Countries: Caribbean Netherlands'
+  partner-country:cayman-islands:
+    conceptId: caymanIslands
+    description: 'Partner Countries: Cayman Islands'
+  partner-country:central-african-republic:
+    conceptId: centralAfricanRepublic
+    description: 'Partner Countries: Central African Republic'
+  partner-country:ceuta-melilla:
+    conceptId: ceutaMelilla
+    description: 'Partner Countries: Ceuta & Melilla'
+  partner-country:chad:
+    conceptId: chad
+    description: 'Partner Countries: Chad'
+  partner-country:chile:
+    conceptId: chile
+    description: 'Partner Countries: Chile'
+  partner-country:china:
+    conceptId: china
+    description: 'Partner Countries: China'
+  partner-country:christmas-island:
+    conceptId: christmasIsland
+    description: 'Partner Countries: Christmas Island'
+  partner-country:clipperton-island:
+    conceptId: clippertonIsland
+    description: 'Partner Countries: Clipperton Island'
+  partner-country:cocos-keeling-islands:
+    conceptId: cocosKeelingIslands
+    description: 'Partner Countries: Cocos (Keeling) Islands'
+  partner-country:colombia:
+    conceptId: colombia
+    description: 'Partner Countries: Colombia'
+  partner-country:comoros:
+    conceptId: comoros
+    description: 'Partner Countries: Comoros'
+  partner-country:congo-brazzaville:
+    conceptId: congoBrazzaville
+    description: 'Partner Countries: Congo - Brazzaville'
+  partner-country:congo-kinshasa:
+    conceptId: congoKinshasa
+    description: 'Partner Countries: Congo - Kinshasa'
+  partner-country:cook-islands:
+    conceptId: cookIslands
+    description: 'Partner Countries: Cook Islands'
+  partner-country:costa-rica:
+    conceptId: costaRica
+    description: 'Partner Countries: Costa Rica'
+  partner-country:cote-d-ivoire:
+    conceptId: coteDlvoire
+    description: 'Partner Countries: Côte d''ivoire'
+  partner-country:croatia:
+    conceptId: croatia
+    description: 'Partner Countries: Croatia'
+  partner-country:cuba:
+    conceptId: cuba
+    description: 'Partner Countries: Cuba'
+  partner-country:curacao:
+    conceptId: curacao
+    description: 'Partner Countries: Curaçao'
+  partner-country:czech-republic:
+    conceptId: czechRepublic
+    description: 'Partner Countries: Czech Republic'
+  partner-country:czechia:
+    conceptId: czechia
+    description: 'Partner Countries: Czechia'
+  partner-country:denmark:
+    conceptId: denmark
+    description: 'Partner Countries: Denmark'
+  partner-country:diego-garcia:
+    conceptId: diegoGarcia
+    description: 'Partner Countries: Diego Garcia'
+  partner-country:djibouti:
+    conceptId: djibouti
+    description: 'Partner Countries: Djibouti'
+  partner-country:dominica:
+    conceptId: dominica
+    description: 'Partner Countries: Dominica'
+  partner-country:dominican-republic:
+    conceptId: dominicanRepublic
+    description: 'Partner Countries: Dominican Republic'
+  partner-country:ecuador:
+    conceptId: ecuador
+    description: 'Partner Countries: Ecuador'
+  partner-country:egypt:
+    conceptId: egypt
+    description: 'Partner Countries: Egypt'
+  partner-country:el-salvador:
+    conceptId: elSalvador
+    description: 'Partner Countries: El Salvador'
+  partner-country:equatorial-guinea:
+    conceptId: equatorialGuinea
+    description: 'Partner Countries: Equatorial Guinea'
+  partner-country:eritrea:
+    conceptId: eritrea
+    description: 'Partner Countries: Eritrea'
+  partner-country:estonia:
+    conceptId: estonia
+    description: 'Partner Countries: Estonia'
+  partner-country:eswatini:
+    conceptId: eswatini
+    description: 'Partner Countries: Eswatini'
+  partner-country:ethiopia:
+    conceptId: ethiopia
+    description: 'Partner Countries: Ethiopia'
+  partner-country:falkland-islands:
+    conceptId: falklandIslands
+    description: 'Partner Countries: Falkland Islands'
+  partner-country:faroe-islands:
+    conceptId: faroeIslands
+    description: 'Partner Countries: Faroe Islands'
+  partner-country:fiji:
+    conceptId: fiji
+    description: 'Partner Countries: Fiji'
+  partner-country:finland:
+    conceptId: finland
+    description: 'Partner Countries: Finland'
+  partner-country:france:
+    conceptId: france
+    description: 'Partner Countries: France'
+  partner-country:french-guiana:
+    conceptId: frenchGuiana
+    description: 'Partner Countries: French Guiana'
+  partner-country:french-polynesia:
+    conceptId: frenchPolynesia
+    description: 'Partner Countries: French Polynesia'
+  partner-country:french-southern-territories:
+    conceptId: frenchSouthernTerritories
+    description: 'Partner Countries: French Southern Territories'
+  partner-country:gabon:
+    conceptId: gabon
+    description: 'Partner Countries: Gabon'
+  partner-country:gambia:
+    conceptId: gambia
+    description: 'Partner Countries: Gambia'
+  partner-country:georgia:
+    conceptId: georgia
+    description: 'Partner Countries: Georgia'
+  partner-country:germany:
+    conceptId: germany
+    description: 'Partner Countries: Germany'
+  partner-country:ghana:
+    conceptId: ghana
+    description: 'Partner Countries: Ghana'
+  partner-country:gibraltar:
+    conceptId: gibraltar
+    description: 'Partner Countries: Gibraltar'
+  partner-country:global-all:
+    conceptId: globalAll
+    description: 'Partner Countries: Global / All'
+  partner-country:greece:
+    conceptId: greece
+    description: 'Partner Countries: Greece'
+  partner-country:greenland:
+    conceptId: greenland
+    description: 'Partner Countries: Greenland'
+  partner-country:guadeloupe:
+    conceptId: guadeloupe
+    description: 'Partner Countries: Guadeloupe'
+  partner-country:guam:
+    conceptId: guam
+    description: 'Partner Countries: Guam'
+  partner-country:guatemala:
+    conceptId: guatemala
+    description: 'Partner Countries: Guatemala'
+  partner-country:guernsey:
+    conceptId: guernsey
+    description: 'Partner Countries: Guernsey'
+  partner-country:guinea:
+    conceptId: guinea
+    description: 'Partner Countries: Guinea'
+  partner-country:guinea-bissau:
+    conceptId: guineaBissau
+    description: 'Partner Countries: Guinea-Bissau'
+  partner-country:guyana:
+    conceptId: guyana
+    description: 'Partner Countries: Guyana'
+  partner-country:haiti:
+    conceptId: haiti
+    description: 'Partner Countries: Haiti'
+  partner-country:heard-mcdonald-islands:
+    conceptId: heardMcDonaldIslands
+    description: 'Partner Countries: Heard & McDonald Islands'
+  partner-country:honduras:
+    conceptId: honduras
+    description: 'Partner Countries: Honduras'
+  partner-country:hong-kong-sar-china:
+    conceptId: hongKongSarChina
+    description: 'Partner Countries: Hong Kong SAR China'
+  partner-country:hungary:
+    conceptId: hungary
+    description: 'Partner Countries: Hungary'
+  partner-country:iceland:
+    conceptId: iceland
+    description: 'Partner Countries: Iceland'
+  partner-country:india:
+    conceptId: india
+    description: 'Partner Countries: India'
+  partner-country:indonesia:
+    conceptId: indonesia
+    description: 'Partner Countries: Indonesia'
+  partner-country:iran:
+    conceptId: iran
+    description: 'Partner Countries: Iran'
+  partner-country:iraq:
+    conceptId: iraq
+    description: 'Partner Countries: Iraq'
+  partner-country:ireland:
+    conceptId: ireland
+    description: 'Partner Countries: Ireland'
+  partner-country:isle-of-man:
+    conceptId: isleOfMan
+    description: 'Partner Countries: Isle of Man'
+  partner-country:israel:
+    conceptId: isreal
+    description: 'Partner Countries: Israel'
+  partner-country:italy:
+    conceptId: italycountry
+    description: 'Partner Countries: Italy'
+  partner-country:jamaica:
+    conceptId: jamaica
+    description: 'Partner Countries: Jamaica'
+  partner-country:japan:
+    conceptId: japan
+    description: 'Partner Countries: Japan'
+  partner-country:jersey:
+    conceptId: jersey
+    description: 'Partner Countries: Jersey'
+  partner-country:jordan:
+    conceptId: jordan
+    description: 'Partner Countries: Jordan'
+  partner-country:kazakhstan:
+    conceptId: kazakhstan
+    description: 'Partner Countries: Kazakhstan'
+  partner-country:kenya:
+    conceptId: kenya
+    description: 'Partner Countries: Kenya'
+  partner-country:kiribati:
+    conceptId: kiribati
+    description: 'Partner Countries: Kiribati'
+  partner-country:kosovo:
+    conceptId: kosovo
+    description: 'Partner Countries: Kosovo'
+  partner-country:kuwait:
+    conceptId: kuwait
+    description: 'Partner Countries: Kuwait'
+  partner-country:kyrgyzstan:
+    conceptId: kyrgyzstan
+    description: 'Partner Countries: Kyrgyzstan'
+  partner-country:laos:
+    conceptId: laos
+    description: 'Partner Countries: Laos'
+  partner-country:latvia:
+    conceptId: latvia
+    description: 'Partner Countries: Latvia'
+  partner-country:lebanon:
+    conceptId: lebanon
+    description: 'Partner Countries: Lebanon'
+  partner-country:lesotho:
+    conceptId: lesotho
+    description: 'Partner Countries: Lesotho'
+  partner-country:liberia:
+    conceptId: liberia
+    description: 'Partner Countries: Liberia'
+  partner-country:libya:
+    conceptId: libya
+    description: 'Partner Countries: Libya'
+  partner-country:liechtenstein:
+    conceptId: liechtenstein
+    description: 'Partner Countries: Liechtenstein'
+  partner-country:lithuania:
+    conceptId: lithuania
+    description: 'Partner Countries: Lithuania'
+  partner-country:luxembourg:
+    conceptId: luxembourg
+    description: 'Partner Countries: Luxembourg'
+  partner-country:macao-sar-china:
+    conceptId: macaoSarChina
+    description: 'Partner Countries: Macao SAR China'
+  partner-country:madagascar:
+    conceptId: madagascar
+    description: 'Partner Countries: Madagascar'
+  partner-country:malawi:
+    conceptId: malawi
+    description: 'Partner Countries: Malawi'
+  partner-country:malaysia:
+    conceptId: malaysia
+    description: 'Partner Countries: Malaysia'
+  partner-country:maldives:
+    conceptId: maldives
+    description: 'Partner Countries: Maldives'
+  partner-country:mali:
+    conceptId: mali
+    description: 'Partner Countries: Mali'
+  partner-country:malta:
+    conceptId: malta
+    description: 'Partner Countries: Malta'
+  partner-country:marshall-islands:
+    conceptId: marshallIslands
+    description: 'Partner Countries: Marshall Islands'
+  partner-country:martinique:
+    conceptId: martinique
+    description: 'Partner Countries: Martinique'
+  partner-country:mauritania:
+    conceptId: mauritania
+    description: 'Partner Countries: Mauritania'
+  partner-country:mauritius:
+    conceptId: mauritius
+    description: 'Partner Countries: Mauritius'
+  partner-country:mayotte:
+    conceptId: mayotte
+    description: 'Partner Countries: Mayotte'
+  partner-country:mexico:
+    conceptId: mexico
+    description: 'Partner Countries: Mexico'
+  partner-country:micronesia:
+    conceptId: micronesia
+    description: 'Partner Countries: Micronesia'
+  partner-country:moldova:
+    conceptId: moldova
+    description: 'Partner Countries: Moldova'
+  partner-country:monaco:
+    conceptId: monaco
+    description: 'Partner Countries: Monaco'
+  partner-country:mongolia:
+    conceptId: mongolia
+    description: 'Partner Countries: Mongolia'
+  partner-country:montenegro:
+    conceptId: montenegro
+    description: 'Partner Countries: Montenegro'
+  partner-country:montserrat:
+    conceptId: montserrat
+    description: 'Partner Countries: Montserrat'
+  partner-country:morocco:
+    conceptId: morocco
+    description: 'Partner Countries: Morocco'
+  partner-country:mozambique:
+    conceptId: mozambique
+    description: 'Partner Countries: Mozambique'
+  partner-country:myanmar-burma:
+    conceptId: myanmarBurma
+    description: 'Partner Countries: Myanmar (Burma)'
+  partner-country:namibia:
+    conceptId: namibia
+    description: 'Partner Countries: Namibia'
+  partner-country:nauru:
+    conceptId: nauru
+    description: 'Partner Countries: Nauru'
+  partner-country:nepal:
+    conceptId: nepal
+    description: 'Partner Countries: Nepal'
+  partner-country:netherlands:
+    conceptId: netherlands
+    description: 'Partner Countries: Netherlands'
+  partner-country:netherlands-antilles:
+    conceptId: netherlandsAntilles
+    description: 'Partner Countries: Netherlands Antilles'
+  partner-country:new-caledonia:
+    conceptId: newCaledonia
+    description: 'Partner Countries: New Caledonia'
+  partner-country:new-zealand:
+    conceptId: newZealand
+    description: 'Partner Countries: New Zealand'
+  partner-country:nicaragua:
+    conceptId: nicaragua
+    description: 'Partner Countries: Nicaragua'
+  partner-country:niger:
+    conceptId: niger
+    description: 'Partner Countries: Niger'
+  partner-country:nigeria:
+    conceptId: nigeria
+    description: 'Partner Countries: Nigeria'
+  partner-country:niue:
+    conceptId: niue
+    description: 'Partner Countries: Niue'
+  partner-country:none:
+    conceptId: nonecountries
+    description: 'Partner Countries: None'
+  partner-country:norfolk-island:
+    conceptId: norfolkIsland
+    description: 'Partner Countries: Norfolk Island'
+  partner-country:north-korea:
+    conceptId: northKorea
+    description: 'Partner Countries: North Korea'
+  partner-country:north-macedonia:
+    conceptId: northMacedonia
+    description: 'Partner Countries: North Macedonia'
+  partner-country:northern-mariana-islands:
+    conceptId: northernMarianaIslands
+    description: 'Partner Countries: Northern Mariana Islands'
+  partner-country:norway:
+    conceptId: norway
+    description: 'Partner Countries: Norway'
+  partner-country:oman:
+    conceptId: oman
+    description: 'Partner Countries: Oman'
+  partner-country:outlying-oceania:
+    conceptId: outlyingOceania
+    description: 'Partner Countries: Outlying Oceania'
+  partner-country:pakistan:
+    conceptId: pakistan
+    description: 'Partner Countries: Pakistan'
+  partner-country:palau:
+    conceptId: palau
+    description: 'Partner Countries: Palau'
+  partner-country:palestinian-territories:
+    conceptId: palestinianTerritories
+    description: 'Partner Countries: Palestinian Territories'
+  partner-country:panama:
+    conceptId: panama
+    description: 'Partner Countries: Panama'
+  partner-country:papua-new-guinea:
+    conceptId: papuaNewGuinea
+    description: 'Partner Countries: Papua New Guinea'
+  partner-country:paraguay:
+    conceptId: paraguay
+    description: 'Partner Countries: Paraguay'
+  partner-country:peru:
+    conceptId: peru
+    description: 'Partner Countries: Peru'
+  partner-country:philippines:
+    conceptId: philippines
+    description: 'Partner Countries: Philippines'
+  partner-country:pitcairn-islands:
+    conceptId: pitcairnIslands
+    description: 'Partner Countries: Pitcairn Islands'
+  partner-country:poland:
+    conceptId: poland
+    description: 'Partner Countries: Poland'
+  partner-country:portugal:
+    conceptId: portugal
+    description: 'Partner Countries: Portugal'
+  partner-country:puerto-rico:
+    conceptId: puertoRico
+    description: 'Partner Countries: Puerto Rico'
+  partner-country:qatar:
+    conceptId: qatar
+    description: 'Partner Countries: Qatar'
+  partner-country:reunion:
+    conceptId: reunion
+    description: 'Partner Countries: Réunion'
+  partner-country:romania:
+    conceptId: romania
+    description: 'Partner Countries: Romania'
+  partner-country:russia:
+    conceptId: russia
+    description: 'Partner Countries: Russia'
+  partner-country:rwanda:
+    conceptId: rwanda
+    description: 'Partner Countries: Rwanda'
+  partner-country:samoa:
+    conceptId: samoa
+    description: 'Partner Countries: Samoa'
+  partner-country:san-marino:
+    conceptId: sanMarino
+    description: 'Partner Countries: San Marino'
+  partner-country:sao-tome-principe:
+    conceptId: saoTomePrincipe
+    description: 'Partner Countries: São Tomé & Príncipe'
+  partner-country:saudi-arabia:
+    conceptId: saudiArabia
+    description: 'Partner Countries: Saudi Arabia'
+  partner-country:senegal:
+    conceptId: senegal
+    description: 'Partner Countries: Senegal'
+  partner-country:serbia:
+    conceptId: serbia
+    description: 'Partner Countries: Serbia'
+  partner-country:seychelles:
+    conceptId: seychelles
+    description: 'Partner Countries: Seychelles'
+  partner-country:sierra-leone:
+    conceptId: sierraLeone
+    description: 'Partner Countries: Sierra Leone'
+  partner-country:singapore:
+    conceptId: singapore
+    description: 'Partner Countries: Singapore'
+  partner-country:sint-maarten:
+    conceptId: sintMaarten
+    description: 'Partner Countries: Sint Maarten'
+  partner-country:slovakia:
+    conceptId: slovakia
+    description: 'Partner Countries: Slovakia'
+  partner-country:slovenia:
+    conceptId: slovenia
+    description: 'Partner Countries: Slovenia'
+  partner-country:solomon-islands:
+    conceptId: solomonIslands
+    description: 'Partner Countries: Solomon Islands'
+  partner-country:somalia:
+    conceptId: somalia
+    description: 'Partner Countries: Somalia'
+  partner-country:south-africa:
+    conceptId: southAfrica
+    description: 'Partner Countries: South Africa'
+  partner-country:south-georgia-south-sandwich-islands:
+    conceptId: southGeorgiaSouthSandwichIslands
+    description: 'Partner Countries: South Georgia & South Sandwich Islands'
+  partner-country:south-korea:
+    conceptId: southKorea
+    description: 'Partner Countries: South Korea'
+  partner-country:south-sudan:
+    conceptId: southSudan
+    description: 'Partner Countries: South Sudan'
+  partner-country:spain:
+    conceptId: spain
+    description: 'Partner Countries: Spain'
+  partner-country:sri-lanka:
+    conceptId: sriLanka
+    description: 'Partner Countries: Sri Lanka'
+  partner-country:st-barthelemy:
+    conceptId: stBarthelemy
+    description: 'Partner Countries: St. Barthélemy'
+  partner-country:st-helena:
+    conceptId: stHelena
+    description: 'Partner Countries: St. Helena'
+  partner-country:st-kitts-nevis:
+    conceptId: stKittsNevis
+    description: 'Partner Countries: St. Kitts & Nevis'
+  partner-country:st-lucia:
+    conceptId: stLucia
+    description: 'Partner Countries: St. Lucia'
+  partner-country:st-martin:
+    conceptId: stMartin
+    description: 'Partner Countries: St. Martin'
+  partner-country:st-pierre-miquelon:
+    conceptId: stPierreMiquelon
+    description: 'Partner Countries: St. Pierre & Miquelon'
+  partner-country:st-vincent-grenadines:
+    conceptId: stVincentGrenadines
+    description: 'Partner Countries: St. Vincent & Grenadines'
+  partner-country:sudan:
+    conceptId: sudan
+    description: 'Partner Countries: Sudan'
+  partner-country:suriname:
+    conceptId: suriname
+    description: 'Partner Countries: Suriname'
+  partner-country:svalbard-jan-mayen:
+    conceptId: svalbardJanMayen
+    description: 'Partner Countries: Svalbard & Jan Mayen'
+  partner-country:sweden:
+    conceptId: sweden
+    description: 'Partner Countries: Sweden'
+  partner-country:switzerland:
+    conceptId: switzerland
+    description: 'Partner Countries: Switzerland'
+  partner-country:syria:
+    conceptId: syria
+    description: 'Partner Countries: Syria'
+  partner-country:taiwan:
+    conceptId: taiwan
+    description: 'Partner Countries: Taiwan'
+  partner-country:tajikistan:
+    conceptId: tajikistan
+    description: 'Partner Countries: Tajikistan'
+  partner-country:tanzania:
+    conceptId: tanzania
+    description: 'Partner Countries: Tanzania'
+  partner-country:thailand:
+    conceptId: thailand
+    description: 'Partner Countries: Thailand'
+  partner-country:timor-leste:
+    conceptId: timorLeste
+    description: 'Partner Countries: Timor-Leste'
+  partner-country:togo:
+    conceptId: togo
+    description: 'Partner Countries: Togo'
+  partner-country:tokelau:
+    conceptId: tokelau
+    description: 'Partner Countries: Tokelau'
+  partner-country:tonga:
+    conceptId: tonga
+    description: 'Partner Countries: Tonga'
+  partner-country:trinidad-tobago:
+    conceptId: trinidadTobago
+    description: 'Partner Countries: Trinidad & Tobago'
+  partner-country:tristan-da-cunha:
+    conceptId: tristanDaCunha
+    description: 'Partner Countries: Tristan da Cunha'
+  partner-country:tunisia:
+    conceptId: tunisia
+    description: 'Partner Countries: Tunisia'
+  partner-country:turkey:
+    conceptId: turkey
+    description: 'Partner Countries: Turkey'
+  partner-country:turkmenistan:
+    conceptId: turkmenistan
+    description: 'Partner Countries: Turkmenistan'
+  partner-country:turks-caicos-islands:
+    conceptId: turksCaicosIslands
+    description: 'Partner Countries: Turks & Caicos Islands'
+  partner-country:tuvalu:
+    conceptId: tuvalu
+    description: 'Partner Countries: Tuvalu'
+  partner-country:u-s-outlying-islands:
+    conceptId: uSOutlyingIslands
+    description: 'Partner Countries: U.S. Outlying Islands'
+  partner-country:u-s-virgin-islands:
+    conceptId: uSVirginIslands
+    description: 'Partner Countries: U.S. Virgin Islands'
+  partner-country:uganda:
+    conceptId: uganda
+    description: 'Partner Countries: Uganda'
+  partner-country:ukraine:
+    conceptId: ukraine
+    description: 'Partner Countries: Ukraine'
+  partner-country:united-arab-emirates:
+    conceptId: unitedArabEmirates
+    description: 'Partner Countries: United Arab Emirates'
+  partner-country:united-kingdom:
+    conceptId: unitedKingdom
+    description: 'Partner Countries: United Kingdom'
+  partner-country:united-states:
+    conceptId: unitedStates
+    description: 'Partner Countries: United States'
+  partner-country:uruguay:
+    conceptId: uruguay
+    description: 'Partner Countries: Uruguay'
+  partner-country:uzbekistan:
+    conceptId: uzbekistan
+    description: 'Partner Countries: Uzbekistan'
+  partner-country:vanuatu:
+    conceptId: vanuatu
+    description: 'Partner Countries: Vanuatu'
+  partner-country:vatican-city:
+    conceptId: vaticanCity
+    description: 'Partner Countries: Vatican City'
+  partner-country:venezuela:
+    conceptId: venezuela
+    description: 'Partner Countries: Venezuela'
+  partner-country:vietnam:
+    conceptId: vietnam
+    description: 'Partner Countries: Vietnam'
+  partner-country:wallis-futuna:
+    conceptId: wallisFutuna
+    description: 'Partner Countries: Wallis & Futuna'
+  partner-country:western-sahara:
+    conceptId: westernSahara
+    description: 'Partner Countries: Western Sahara'
+  partner-country:yemen:
+    conceptId: yemen
+    description: 'Partner Countries: Yemen'
+  partner-country:zambia:
+    conceptId: zambia
+    description: 'Partner Countries: Zambia'
+  partner-country:zimbabwe:
+    conceptId: zimbabwe
+    description: 'Partner Countries: Zimbabwe'
+  form:consideration:
+    conceptId: jsConsideration
+    description: 'Forms: Consideration'
+  form:cxm:
+    conceptId: formCXM
+    description: 'Forms: CXM'
+  form:fefewfew:
+    conceptId: fefewfew
+    description: 'Forms: fefewfew'
+  form:fewfefew:
+    conceptId: fewfefew
+    description: 'Forms: fewfefew'
+  form:fewfewfe:
+    conceptId: fewfewfe
+    description: 'Forms: fewfewfe'
+  form:form-journey-stage:
+    conceptId: journeyStage
+    description: 'Forms: Form - Journey Stage'
+  form:form-solution:
+    conceptId: solution
+    description: 'Forms: Form - Solution'
+  subprocessor:all-customers-globally:
+    conceptId: allCustomersGlobally
+    description: 'Subprocessors: All customers globally'
+  subprocessor:ap:
+    conceptId: ap
+    description: 'Subprocessors: AP'
+  subprocessor:ar:
+    conceptId: ar
+    description: 'Subprocessors: AR'
+  subprocessor:au:
+    conceptId: au
+    description: 'Subprocessors: AU'
+  subprocessor:br:
+    conceptId: br
+    description: 'Subprocessors: BR'
+  subprocessor:ca:
+    conceptId: ca
+    description: 'Subprocessors: CA'
+  subprocessor:cmx:
+    conceptId: cmx
+    description: 'Subprocessors: CMX'
+  subprocessor:cxm:
+    conceptId: cxm
+    description: 'Subprocessors: CXM'
+  subprocessor:cz:
+    conceptId: cz
+    description: 'Subprocessors: CZ'
+  subprocessor:eu:
+    conceptId: europe
+    description: 'Subprocessors: EU'
+  subprocessor:eu--eu:
+    conceptId: eu
+    description: 'Subprocessors: EU'
+  subprocessor:eu-be:
+    conceptId: euBe
+    description: 'Subprocessors: EU (BE)'
+  subprocessor:eu-de-be:
+    conceptId: euDeBe
+    description: 'Subprocessors: EU (DE, BE)'
+  subprocessor:eu-de:
+    conceptId: euDe
+    description: 'Subprocessors: EU (DE)'
+  subprocessor:eu-fr:
+    conceptId: euFr
+    description: 'Subprocessors: EU (FR)'
+  subprocessor:eu-irl-fr-de:
+    conceptId: euIrlFrDe
+    description: 'Subprocessors: EU (IRL, FR, DE)'
+  subprocessor:eu-irl:
+    conceptId: euIrl
+    description: 'Subprocessors: EU (IRL)'
+  subprocessor:eu-nl-irl:
+    conceptId: euNlIrl
+    description: 'Subprocessors: EU (NL, IRL)'
+  subprocessor:eu-nl:
+    conceptId: euNl
+    description: 'Subprocessors: EU (NL)'
+  subprocessor:eu-sw:
+    conceptId: euSw
+    description: 'Subprocessors: EU (SW)'
+  subprocessor:hub:
+    conceptId: hub
+    description: 'Subprocessors: HUB'
+  subprocessor:ida:
+    conceptId: ida
+    description: 'Subprocessors: IDA'
+  subprocessor:ifaams:
+    conceptId: iFaaMs
+    description: 'Subprocessors: iFaaMS'
+  subprocessor:iforms:
+    conceptId: iForms
+    description: 'Subprocessors: iForms'
+  subprocessor:in:
+    conceptId: in
+    description: 'Subprocessors: IN'
+  subprocessor:internal-quadient-processor:
+    conceptId: internalQuadientProcessor
+    description: 'Subprocessors: Internal Quadient Processor'
+  subprocessor:ir:
+    conceptId: ir
+    description: 'Subprocessors: IR'
+  subprocessor:it:
+    conceptId: italy
+    description: 'Subprocessors: IT'
+  subprocessor:jp:
+    conceptId: jp
+    description: 'Subprocessors: JP'
+  subprocessor:mx:
+    conceptId: mx
+    description: 'Subprocessors: MX'
+  subprocessor:noram:
+    conceptId: noram
+    description: 'Subprocessors: NORAM'
+  subprocessor:subcontractor:
+    conceptId: subcontractor
+    description: 'Subprocessors: Subcontractor'
+  subprocessor:subprocessor:
+    conceptId: subprocessortype
+    description: 'Subprocessors: Subprocessor'
+  subprocessor:subprocessor-customer-region:
+    conceptId: subprocessorCustomerRegion
+    description: 'Subprocessors: Subprocessor Customer Region'
+  subprocessor:subprocessor-digital-solutions:
+    conceptId: subprocessorDigitalSolutions
+    description: 'Subprocessors: Subprocessor Digital Solutions'
+  subprocessor:subprocessor-processing-location:
+    conceptId: subprocessorProcessingLocation
+    description: 'Subprocessors: Subprocessor Processing Location'
+  subprocessor:subprocessor-types:
+    conceptId: subprocessorTypes
+    description: 'Subprocessors: Subprocessor Types'
+  subprocessor:ua:
+    conceptId: ua
+    description: 'Subprocessors: UA'
+  subprocessor:uk:
+    conceptId: uk
+    description: 'Subprocessors: UK'
+  subprocessor:us:
+    conceptId: us
+    description: 'Subprocessors: US'

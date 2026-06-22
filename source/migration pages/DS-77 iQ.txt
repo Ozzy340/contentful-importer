@@ -1,0 +1,201 @@
+﻿DS-77 iQ
+Sitemap
+Folder inserters > Mid-size business > DS-77 iQ folder inserter
+Page goal: Position the Quadient DS-77 iQ as a flexible, secure folder inserter for mid-size mail operations that need to process higher mail volumes, variable-page jobs, and customer communications with speed, accuracy, and less manual work.
+Primary audiences
+ Mailroom managers
+Operations teams
+Office managers
+Billing and finance teams
+Secondary audiences
+ Healthcare offices
+Financial services teams
+Local government and education teams
+Organizations upgrading from small-office inserters
+Target keyword: DS-77 iQ folder inserter
+Supporting keywords:
+ mid-size business folder inserter
+envelope inserting machine
+mail folding and inserting machine
+variable-page mail inserter
+barcode folder inserter
+Quadient DS-77 iQ
+Page title: DS-77 iQ folder inserter for mid-size mailrooms | Quadient
+Meta description: Discover the Quadient DS-77 iQ folder inserter. Fold, insert, and seal up to 3,800 envelopes per hour with touchscreen setup, barcode reading, and secure mailpiece integrity.
+________________
+
+
+<Hero> Contentful module: Hero Standard
+<eyebrow>
+ Mid-size business folder inserter
+<h1>
+Smooth mail runs with less disruption
+<Description>
+The Quadient DS-77 iQ helps teams prepare high-volume customer mail with speed, accuracy, and confidence, at up to 40,000 envelopes per month.
+<Primary CTA>
+Order now
+<CTA microcopy>
+ See how the DS-77 iQ fits your mail volume.
+<Secondary CTA>
+ Download brochure
+________________
+
+
+<Value proposition intro> Contentful module: USP Listing
+<h2>
+For customer mail that has to be right
+<Description>
+Prepare higher-volume customer communications with more speed and accuracy
+<bullets>
+ <bullet> Fold, insert, and seal up to 3,800 envelopes per hour.
+<bullet> Set up a new job in less than a minute.
+<bullet> Load up to 325 sheets at a time.
+<bullet> Use barcode reading to group the right pages together.
+________________
+
+
+<Video Block> Contentful module: Full Video Block
+<h2>
+ See the DS-77 iQ in action
+________________
+
+
+<How product helps> Contentful module: Stacked Card Block
+<h2>
+More speed. More accuracy. Less manual work.
+<cards>
+<card>
+ <h3> Finish mail faster
+<Description> Process up to 40,000 envelopes per month to keep higher-volume jobs moving.
+<card>
+ <h3> Set up jobs quickly
+<Description> A 7" color touchscreen and wizard-based guidance help users create and run jobs with less training.
+<card>
+ <h3> Match every page to the right envelope
+<Description> Barcode reading helps group variable-page documents before they are inserted.
+<card>
+ <h3> Protect customer privacy
+<Description> AIMS Office can monitor and verify mail assembly from start to finish.
+________________
+
+
+<Upsell bundle> Contentful module: Product Family Card[a]
+<h2>
+ Enhance your mailing workflow
+<cards>
+<card>
+ AIMS Office
+ Add closed-loop verification to track mailpiece integrity from assembly to completion.
+<card>
+ Impress Automate
+ Prepare, format, personalize, group, barcode, and address documents before inserting.
+<card>
+ iX-7 mailing system
+ Meter higher-volume finished mail with speed, postage control, and connected reporting.
+<card>
+ High-capacity feeder
+ Load up to 725 sheets to support longer jobs with fewer interruptions.
+________________
+
+
+<Comparison with the alternatives> Contentful module: Comparison Table
+<h2>
+ See the difference
+<table>
+ <columns> Alternatives | Quadient DS-77 iQ[b]
+<rows>
+ <row> Manual folding and stuffing | Automates folding, inserting, and sealing at up to 3,800 envelopes per hour.
+<row> Basic inserters | Handles single-page, multi-page, and variable-page mailings.
+<row> Manual quality checks | Barcode reading helps match pages to the right envelope.
+<row> Frequent unloading | High-capacity vertical stacker holds up to 500 finished envelopes.
+________________
+
+
+<Key features> Contentful module: USP Listing
+<h2>
+ Key features at a glance
+<bullets>
+ <bullet> Up to 40,000 mail pieces monthly volume.
+<bullet> Up to 3,800 envelopes per hour.
+<bullet> 7" color touchscreen with wizard-based guidance.
+<bullet> CIS full-page scanner with OMR, 1D, and 2D code reading.
+<bullet> Up to 50 pre-programmable jobs.
+<bullet> LAN, wireless USB key, and remote assistance included.
+________________
+
+
+<Specifications> Contentful module: Comparison Table
+<h2>
+ Specifications at a glance
+<table>
+ <columns> Feature | Details
+<rows>
+ <row> Monthly volume | 40,000 mail pieces
+<row> Processing speed | Up to 3,800 envelopes/hour
+<row> Touchscreen | 7" color touchscreen standard
+<row> Scanner | CIS full-page scanner standard
+<row> Automatic settings | Standard
+<row> Job memory | 50
+<row> Feeders | Up to 3
+<row> Document feeder capacity | 325 sheets, 20 lb.
+<row> Envelope feeder capacity | 325 envelopes
+<row> Folding capacity | Up to 10 sheets, 20 lb., single fold
+<row> High-capacity vertical stacker | Up to 500 envelopes
+<row> Fold types | Letter, z-fold, single, double, parallel, no fold
+<row> Connectivity | LAN embedded; wireless USB key standard
+<row> Noise level | 66 dB
+<row> Dimensions | 50" × 20" × 29" with 3 feeders and catch tray
+<row> Weight | 175 lbs.
+<CTA>
+ Download full specifications
+________________
+
+
+<Related products and solutions> Contentful module: Product Family Card
+<h2>
+ Explore other Quadient products
+<cards>
+<card>
+ DS-64i folder inserter
+ A smaller-office inserter for teams processing up to 2,500 envelopes per hour.
+<card>
+ DS-85i folder inserter
+ A higher-capacity option for more demanding mailroom workflows.
+<card>
+ Postage meters & mailing systems
+ Finish prepared mail with accurate weighing, metering, and postage control.
+________________
+
+
+<FAQ module> Contentful module: FAQs List
+<h2>
+ Frequently asked questions
+<accordion>
+ <question> What mail volume is the DS-77 iQ built for?
+<question> Can the DS-77 iQ handle variable-page mailings?
+<question> Does the DS-77 iQ support barcode reading?
+<question> Can AIMS Office be used with the DS-77 iQ?
+________________
+
+
+<Proof> Contentful module: Testimonial
+<h2>
+ Trusted by businesses like yours
+<quote>
+ “With our Quadient folder inserter, we have increased productivity and decreased labor costs.”
+<attribution>
+ Heath Card, Mashantucket Pequot Tribal Nation
+________________
+
+
+<Final CTA> Module: CTA Form
+<h2>
+ Ready to make higher-volume mail easier?
+<Primary CTA>
+ Speak with an expert
+<links to>
+ /contact
+
+
+[a]secure barcode, docsecure
+[b]does it make sense to compare with manual work?

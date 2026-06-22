@@ -1,0 +1,101 @@
+﻿Page: Before You Apply[a]
+Objective of the page: Clear information on what candidates should prepare before applying, what to expect in the recruitment process, and where to explore the rest of the careers hub.
+Future URL: https://www.quadient.com/en-us/careers/before-you-apply
+Current URL or Current URLs which will be condensed into one URL: https://careers.quadient.com/en/before-you-apply
+Primary audiences
+Active job seekers evaluating whether they are ready to apply
+Candidates who want clarity on the hiring journey before submitting
+Professionals comparing Quadient with other employers
+Secondary audiences
+Early-career candidates and career switchers
+Passive candidates exploring the brand before applying
+Employee referrers sharing the application journey with prospects
+Target keyword: before you apply
+Supporting keywords: Quadient hiring process; how to apply at Quadient; application tips; recruitment process; what to expect in an interview
+Page title: Before you apply at Quadient | Application tips & hiring process
+Meta description: Get ready to apply at Quadient with guidance on what to prepare, what to expect in the hiring process, and where to explore careers, culture, teams, and locations.
+________________
+
+
+Module: <Hero Standard>
+<Eyebrow> Careers
+<Heading> Feel ready to apply
+<SubHeading> Understand what to prepare and what happens next before you submit.
+<Content copy> This page should reduce uncertainty, build confidence, and guide candidates into the right next step while reinforcing Quadient’s culture and credibility.
+<CTA> Browse roles
+<CTA Microcopy> Explore current openings
+ 
+Module: <USP listing>
+<Eyebrow> Prepare
+<Heading> What candidates should know first
+<SubHeading> Focus this section on confidence-building, not process overload.
+<Content Heading> Tailor your CV
+<Content subheading> Keep it clear, relevant, and aligned to the role requirements.
+<Content Heading> Check role fit
+<Content subheading> Encourage candidates to review responsibilities, skills, and location details carefully.
+<Content Heading> Gather examples
+<Content subheading> Prompt candidates to prepare concrete examples that show impact, collaboration, and problem-solving.
+<Content Heading> Explore Quadient
+<Content subheading> Link out to culture, locations, and careers content so candidates arrive informed.
+ 
+Module: <Timeline Block>
+<Eyebrow> Process
+<Heading> What to expect
+<SubHeading> Show the hiring journey as a simple, transparent sequence.
+<Content Heading> 1. Explore roles
+<Content copy> Review open roles and tailor your CV to the most relevant opportunity.
+<Content Heading> 2. Submit application
+<Content copy> Apply through Job Hub and confirm that candidate data is handled securely.
+<Content Heading> 3. Intro conversation
+<Content copy> Explain the first recruiter conversation and its purpose in plain language.
+<Content Heading> 4. Hiring manager interview
+<Content copy> Set expectations around role discussion, team fit, and success criteria.
+<Content Heading> 5. Skills assessment
+<Content copy> Clarify that only some roles include a case study or scenario-based assessment.
+<Content Heading> 6. Offer and onboarding
+<Content copy> Close with the verbal and written offer flow plus onboarding preparation.
+ 
+Module: <Standard Card>
+<Heading> Helpful guidance
+<Content copy> Add a short reassurance block that candidates do not need a perfect background and should focus on relevant skills, learning agility, and fit for the role.
+ 
+Module: <Solution Card Carousel>
+<Eyebrow> Explore
+<Heading> Continue your journey
+<Content copy> Use cards to route candidates into the wider careers hub before or after they apply.
+<card> Life at Quadient
+<Description> What it’s like to work at Quadient
+<CTA> Explore page
+<links to> https://www.quadient.com/en-us/careers/life-at-quadient
+<card> Job Hub
+<Description> Browse open opportunities
+<CTA> Browse roles
+<links to> https://www.quadient.com/en-us/careers/job-hub
+<card> Offices
+<Description> Explore global locations
+<CTA> View offices
+<links to> https://www.quadient.com/en-us/careers/offices
+<card> Connect Hub
+<Description> Stay connected to future roles
+<CTA> Join network
+<links to> https://www.quadient.com/en-us/careers/connect-hub
+<card> Events
+<Description> Discover recruiting events
+<CTA> View events
+<links to> https://www.quadient.com/en-us/careers/events
+ 
+Module: <FAQs List>
+<Heading> Questions before you apply
+<SubHeading> Keep answers concise, practical, and candidate-friendly.
+<Content copy> Include FAQs on hiring timeline, interview stages, compensation and benefits, growth opportunities, flexible work, feedback surveys, and technical support. Keep each answer action-oriented and reassuring.
+ 
+Module: <CTA Form>
+<Heading> Ready to find your next role?
+<CTA> Browse roles
+<CTA Microcopy> Search open jobs
+ 
+
+
+
+
+[a]Mapped page here: https://gemini.google.com/share/be1e961b64f0

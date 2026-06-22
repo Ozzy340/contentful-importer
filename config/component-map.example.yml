@@ -1,0 +1,756 @@
+document:
+  targetContentType: contentPage
+  entryIdPattern: "{{contentType}}--{{slug}}"
+  fields:
+    internalName:
+      template: "{{metadata.title}}"
+    heading:
+      source: metadata.title
+      required: true
+    slug:
+      source: metadata.slug
+      transform: slug
+      required: true
+    heroContentArea:
+      strategy: componentReference
+      component: HeroStandard
+    excludeFromSearch:
+      default: false
+    bodyContentArea:
+      strategy: blockReferences
+      includeKinds:
+        - richText
+        - component
+      excludeComponents:
+        - HeroStandard
+
+components:
+  HeroStandard:
+    targetContentType: heroBlock
+    entryIdPattern: "{{parentId}}--hero-block--{{index}}"
+    fields:
+      internalName:
+        template: "{{metadata.title}} hero block {{index}}"
+      heroStyle:
+        default: Standard
+      headingFontStyle:
+        default: Regular
+      eyebrowText:
+        source: block.props.eyebrow
+      subtitle:
+        source: block.props.description
+      lowerSubtext:
+        source: block.props.lowerSubtext
+      callToActions:
+        strategy: nestedEntryLinks
+        collection: callsToAction
+      media:
+        strategy: nestedEntryLink
+        collection: media
+      desktopImageSize:
+        default: Large
+      hideImageAccent:
+        default: false
+      theme:
+        default: White
+      applyGradient:
+        default: false
+    nestedEntries:
+      callsToAction:
+        source: block.props.callsToAction
+        targetContentType: ctaItem
+        entryIdPattern: "{{parentId}}--hero-cta--{{index}}"
+        fields:
+          internalName:
+            template: "{{metadata.title}} hero cta {{index}}"
+          linkText:
+            source: item.text
+            required: true
+          customiseStyle:
+            default: true
+          style:
+            source: item.style
+          openUrlInNewTab:
+            source: item.openInNewTab
+            transform: boolean
+          useExternalLink:
+            default: true
+          externalUrl:
+            source: item.url
+      media:
+        source: block.props.image
+        targetContentType: imageWithFocalPoint
+        entryIdPattern: "{{parentId}}--hero-media--{{index}}"
+        asset:
+          source: item.path
+          altSource: item.alt
+          titleSource: item.title
+          descriptionSource: item.description
+          assetIdPattern: "asset--{{documentSlug}}--hero-media--{{index}}"
+        fields:
+          title:
+            source: item.title
+            required: true
+          image:
+            source: linkedAsset
+            required: true
+          altText:
+            source: item.alt
+          focus:
+            default: Center
+
+  MissionFraming:
+    targetContentType: promoBlock
+    entryIdPattern: "{{parentId}}--mission-framing--{{index}}"
+    fields:
+      internalName:
+        template: "{{metadata.title}} mission framing {{index}}"
+      heading:
+        source: block.props.heading
+        required: true
+      headingStyle:
+        default: h2
+      statementText:
+        source: block.props.eyebrow
+      description:
+        source: block.props.description
+      callToAction:
+        strategy: nestedEntryLink
+        collection: callToAction
+      style:
+        default: White
+      textColour:
+        default: Grey
+      hideCornerAccent:
+        default: false
+    nestedEntries:
+      callToAction:
+        source: block.props.callToAction
+        targetContentType: ctaItem
+        entryIdPattern: "{{parentId}}--mission-cta--{{index}}"
+        fields:
+          internalName:
+            template: "{{metadata.title}} mission cta {{index}}"
+          linkText:
+            source: item.text
+            required: true
+          customiseStyle:
+            default: true
+          style:
+            source: item.style
+          openUrlInNewTab:
+            source: item.openInNewTab
+            transform: boolean
+          useExternalLink:
+            default: true
+          externalUrl:
+            source: item.url
+
+  StatsBlock:
+    targetContentType: statisticsBlock
+    entryIdPattern: "{{parentId}}--statistics-block--{{index}}"
+    fields:
+      internalName:
+        template: "{{metadata.title}} statistics block {{index}}"
+      eyebrowText:
+        source: block.props.eyebrow
+      heading:
+        source: block.props.heading
+      headingStyle:
+        default: h2
+      style:
+        default: Statistics
+      statistics:
+        strategy: nestedEntryLinks
+        collection: statistics
+    nestedEntries:
+      statistics:
+        source: block.props.statistics
+        targetContentType: statisticItem
+        entryIdPattern: "{{parentId}}--statistic-item--{{index}}"
+        fields:
+          internalName:
+            template: "{{metadata.title}} statistic item {{index}}"
+          supportingText:
+            source: item.supportingText
+          supportingTextColour:
+            default: Grey
+          statisticStyle:
+            default: Text
+          text:
+            source: item.text
+
+  UspListing:
+    targetContentType: stackedCarouselCardBlock
+    entryIdPattern: "{{parentId}}--usp-listing--{{index}}"
+    fields:
+      internalName:
+        template: "{{metadata.title}} usp listing {{index}}"
+      eyebrowText:
+        source: block.props.eyebrow
+      heading:
+        source: block.props.heading
+      headingStyle:
+        default: H2
+      description:
+        source: block.props.description
+      cards:
+        strategy: nestedEntryLinks
+        collection: cards
+      layout:
+        default: Stacked 2 per row
+      backgroundColour:
+        default: White
+    nestedEntries:
+      cards:
+        source: block.props.cards
+        targetContentType: cardItem
+        entryIdPattern: "{{parentId}}--usp-card--{{index}}"
+        fields:
+          internalName:
+            template: "{{metadata.title}} usp card {{index}}"
+          heading:
+            source: item.heading
+            required: true
+          description:
+            source: item.description
+          link:
+            strategy: nestedEntryLink
+            collection: link
+        nestedEntries:
+          link:
+            source: item.link
+            targetContentType: ctaItem
+            entryIdPattern: "{{parentId}}--usp-card-link--{{index}}"
+            fields:
+              internalName:
+                template: "{{metadata.title}} usp card link {{index}}"
+              linkText:
+                source: item.text
+                required: true
+              customiseStyle:
+                default: true
+              style:
+                source: item.style
+              openUrlInNewTab:
+                source: item.openInNewTab
+                transform: boolean
+              useExternalLink:
+                default: true
+              externalUrl:
+                source: item.url
+
+  Testimonial:
+    targetContentType: testimonialsBlock
+    entryIdPattern: "{{parentId}}--testimonials-block--{{index}}"
+    fields:
+      internalName:
+        template: "{{metadata.title}} testimonials block {{index}}"
+      heading:
+        source: block.props.heading
+      headingStyle:
+        default: H2
+      testimonials:
+        strategy: nestedEntryLinks
+        collection: testimonials
+    nestedEntries:
+      testimonials:
+        source: block.props.testimonials
+        targetContentType: testimonialItem
+        entryIdPattern: "{{parentId}}--testimonial-item--{{index}}"
+        fields:
+          internalName:
+            template: "{{metadata.title}} testimonial item {{index}}"
+          tagline:
+            source: item.tagline
+            required: true
+          quote:
+            source: item.quote
+            required: true
+          sourceName:
+            source: item.sourceName
+          sourceJobTitle:
+            source: item.sourceJobTitle
+          hideImageAccent:
+            default: false
+
+  Testimonials:
+    targetContentType: testimonialsBlock
+    entryIdPattern: "{{parentId}}--testimonials-block--{{index}}"
+    fields:
+      internalName:
+        template: "{{metadata.title}} testimonials block {{index}}"
+      heading:
+        source: block.props.heading
+      headingStyle:
+        default: H2
+      testimonials:
+        strategy: nestedEntryLinks
+        collection: testimonials
+    nestedEntries:
+      testimonials:
+        source: block.props.testimonials
+        targetContentType: testimonialItem
+        entryIdPattern: "{{parentId}}--testimonial-item--{{index}}"
+        fields:
+          internalName:
+            template: "{{metadata.title}} testimonial item {{index}}"
+          tagline:
+            source: item.tagline
+            required: true
+          quote:
+            source: item.quote
+            required: true
+          sourceName:
+            source: item.sourceName
+          sourceJobTitle:
+            source: item.sourceJobTitle
+          hideImageAccent:
+            default: false
+
+  SolutionCardCarousel:
+    targetContentType: stackedCarouselCardBlock
+    entryIdPattern: "{{parentId}}--solution-carousel--{{index}}"
+    fields:
+      internalName:
+        template: "{{metadata.title}} solution carousel {{index}}"
+      eyebrowText:
+        source: block.props.eyebrow
+      heading:
+        source: block.props.heading
+      headingStyle:
+        default: H2
+      description:
+        source: block.props.description
+      cards:
+        strategy: nestedEntryLinks
+        collection: cards
+      layout:
+        default: Carousel
+      backgroundColour:
+        default: White
+    nestedEntries:
+      cards:
+        source: block.props.cards
+        targetContentType: cardItem
+        entryIdPattern: "{{parentId}}--community-card--{{index}}"
+        fields:
+          internalName:
+            template: "{{metadata.title}} community card {{index}}"
+          heading:
+            source: item.heading
+            required: true
+          description:
+            source: item.description
+          link:
+            strategy: nestedEntryLink
+            collection: link
+        nestedEntries:
+          link:
+            source: item.link
+            targetContentType: ctaItem
+            entryIdPattern: "{{parentId}}--community-card-link--{{index}}"
+            fields:
+              internalName:
+                template: "{{metadata.title}} community card link {{index}}"
+              linkText:
+                source: item.text
+                required: true
+              customiseStyle:
+                default: true
+              style:
+                source: item.style
+              openUrlInNewTab:
+                source: item.openInNewTab
+                transform: boolean
+              useExternalLink:
+                default: true
+              externalUrl:
+                source: item.url
+
+  LogoWall:
+    targetContentType: logoBlock
+    entryIdPattern: "{{parentId}}--logo-wall--{{index}}"
+    fields:
+      internalName:
+        template: "{{metadata.title}} logo wall {{index}}"
+      eyebrowText:
+        source: block.props.eyebrow
+      heading:
+        source: block.props.heading
+      headingStyle:
+        default: H2
+      subtext:
+        source: block.props.description
+      logoItems:
+        strategy: nestedEntryLinks
+        collection: logoItems
+      backgroundColour:
+        default: White
+      pauseTickerAnimation:
+        default: false
+    nestedEntries:
+      logoItems:
+        source: block.props.logos
+        targetContentType: logoItem
+        entryIdPattern: "{{parentId}}--logo-item--{{index}}"
+        fields:
+          internalName:
+            template: "{{metadata.title}} logo item {{index}}"
+          colouredHoverLogo:
+            strategy: nestedEntryLink
+            collection: image
+          logoLink:
+            strategy: nestedEntryLink
+            collection: link
+        nestedEntries:
+          image:
+            source: item.image
+            targetContentType: imageWithFocalPoint
+            entryIdPattern: "{{parentId}}--logo-image--{{index}}"
+            asset:
+              source: item.path
+              altSource: item.alt
+              titleSource: item.title
+              descriptionSource: item.description
+              assetIdPattern: "asset--{{documentSlug}}--logo-image--{{index}}"
+            fields:
+              title:
+                source: item.title
+                required: true
+              image:
+                source: linkedAsset
+                required: true
+              altText:
+                source: item.alt
+              focus:
+                default: Center
+          link:
+            source: item.link
+            targetContentType: ctaItem
+            entryIdPattern: "{{parentId}}--logo-link--{{index}}"
+            fields:
+              internalName:
+                template: "{{metadata.title}} logo link {{index}}"
+              linkText:
+                source: item.text
+                required: true
+              customiseStyle:
+                default: true
+              style:
+                source: item.style
+              openUrlInNewTab:
+                source: item.openInNewTab
+                transform: boolean
+              useExternalLink:
+                default: true
+              externalUrl:
+                source: item.url
+
+  InsightsResources:
+    targetContentType: stackedCarouselCardBlock
+    entryIdPattern: "{{parentId}}--insights-resources--{{index}}"
+    fields:
+      internalName:
+        template: "{{metadata.title}} insights resources {{index}}"
+      eyebrowText:
+        source: block.props.eyebrow
+      heading:
+        source: block.props.heading
+      headingStyle:
+        default: H2
+      description:
+        source: block.props.description
+      callToAction:
+        strategy: nestedEntryLink
+        collection: callToAction
+      cards:
+        strategy: nestedEntryLinks
+        collection: cards
+      layout:
+        default: Stacked 2 per row
+      backgroundColour:
+        default: White
+    nestedEntries:
+      callToAction:
+        source: block.props.callToAction
+        targetContentType: ctaItem
+        entryIdPattern: "{{parentId}}--resource-cta--{{index}}"
+        fields:
+          internalName:
+            template: "{{metadata.title}} resource cta {{index}}"
+          linkText:
+            source: item.text
+            required: true
+          customiseStyle:
+            default: true
+          style:
+            source: item.style
+          openUrlInNewTab:
+            source: item.openInNewTab
+            transform: boolean
+          useExternalLink:
+            default: true
+          externalUrl:
+            source: item.url
+      cards:
+        source: block.props.cards
+        targetContentType: cardItem
+        entryIdPattern: "{{parentId}}--resource-card--{{index}}"
+        fields:
+          internalName:
+            template: "{{metadata.title}} resource card {{index}}"
+          heading:
+            source: item.heading
+            required: true
+          description:
+            source: item.description
+          link:
+            strategy: nestedEntryLink
+            collection: link
+        nestedEntries:
+          link:
+            source: item.link
+            targetContentType: ctaItem
+            entryIdPattern: "{{parentId}}--resource-card-link--{{index}}"
+            fields:
+              internalName:
+                template: "{{metadata.title}} resource card link {{index}}"
+              linkText:
+                source: item.text
+                required: true
+              customiseStyle:
+                default: true
+              style:
+                source: item.style
+              openUrlInNewTab:
+                source: item.openInNewTab
+                transform: boolean
+              useExternalLink:
+                default: true
+              externalUrl:
+                source: item.url
+
+  CtaForm:
+    targetContentType: stackedCarouselCardBlock
+    entryIdPattern: "{{parentId}}--cta-form--{{index}}"
+    fields:
+      internalName:
+        template: "{{metadata.title}} cta form {{index}}"
+      heading:
+        source: block.props.heading
+      headingStyle:
+        default: H2
+      description:
+        source: block.props.description
+      cards:
+        strategy: nestedEntryLinks
+        collection: cards
+      layout:
+        default: Stacked 2 per row
+      backgroundColour:
+        default: Light Grey
+    nestedEntries:
+      cards:
+        source: block.props.cards
+        targetContentType: cardItem
+        entryIdPattern: "{{parentId}}--cc--{{index}}"
+        fields:
+          internalName:
+            template: "{{metadata.title}} cta card {{index}}"
+          heading:
+            source: item.heading
+            required: true
+          description:
+            source: item.description
+          link:
+            strategy: nestedEntryLink
+            collection: link
+        nestedEntries:
+          link:
+            source: item.link
+            targetContentType: ctaItem
+            entryIdPattern: "{{parentId}}--cl--{{index}}"
+            fields:
+              internalName:
+                template: "{{metadata.title}} cta card link {{index}}"
+              linkText:
+                source: item.text
+                required: true
+              customiseStyle:
+                default: true
+              style:
+                source: item.style
+              openUrlInNewTab:
+                source: item.openInNewTab
+                transform: boolean
+              useExternalLink:
+                default: true
+              externalUrl:
+                source: item.url
+
+  CtaSection:
+    targetContentType: stackedCarouselCardBlock
+    entryIdPattern: "{{parentId}}--cta-section--{{index}}"
+    fields:
+      internalName:
+        template: "{{metadata.title}} cta section {{index}}"
+      heading:
+        source: block.props.heading
+      headingStyle:
+        default: H2
+      description:
+        source: block.props.description
+      cards:
+        strategy: nestedEntryLinks
+        collection: cards
+      layout:
+        default: Stacked 2 per row
+      backgroundColour:
+        default: Light Grey
+    nestedEntries:
+      cards:
+        source: block.props.cards
+        targetContentType: cardItem
+        entryIdPattern: "{{parentId}}--cc--{{index}}"
+        fields:
+          internalName:
+            template: "{{metadata.title}} cta card {{index}}"
+          heading:
+            source: item.heading
+            required: true
+          description:
+            source: item.description
+          link:
+            strategy: nestedEntryLink
+            collection: link
+        nestedEntries:
+          link:
+            source: item.link
+            targetContentType: ctaItem
+            entryIdPattern: "{{parentId}}--cl--{{index}}"
+            fields:
+              internalName:
+                template: "{{metadata.title}} cta card link {{index}}"
+              linkText:
+                source: item.text
+                required: true
+              customiseStyle:
+                default: true
+              style:
+                source: item.style
+              openUrlInNewTab:
+                source: item.openInNewTab
+                transform: boolean
+              useExternalLink:
+                default: true
+              externalUrl:
+                source: item.url
+
+  FaqBlock:
+    targetContentType: accordionBlock
+    entryIdPattern: "{{parentId}}--faq-block--{{index}}"
+    fields:
+      internalName:
+        template: "{{metadata.title}} faq block {{index}}"
+      Heading:
+        source: block.props.heading
+      headingStyle:
+        default: h2
+      firstItemOpen:
+        default: false
+      accordionItems:
+        strategy: nestedEntryLinks
+        collection: items
+    nestedEntries:
+      items:
+        source: block.props.items
+        targetContentType: accordionItem
+        entryIdPattern: "{{parentId}}--faq-item--{{index}}"
+        fields:
+          internalName:
+            template: "{{metadata.title}} faq item {{index}}"
+          itemHeading:
+            source: item.heading
+            required: true
+          itemContent:
+            source: item.body
+            transform: richText
+
+  richText:
+    targetContentType: richTextBlock
+    entryIdPattern: "{{parentId}}--rich-text--{{index}}"
+    fields:
+      internalName:
+        template: "{{metadata.title}} rich text {{index}}"
+      content:
+        source: block.body
+        required: true
+
+  PromoBlock:
+    targetContentType: promoBlock
+    entryIdPattern: "{{parentId}}--promo-block--{{index}}"
+    fields:
+      internalName:
+        template: "{{metadata.title}} promo block {{index}}"
+      heading:
+        source: block.props.heading
+        required: true
+      headingStyle:
+        default: h2
+      statementText:
+        source: block.props.statementText
+      description:
+        source: block.props.description
+      style:
+        default: White
+      textColour:
+        default: Grey
+      hideCornerAccent:
+        default: false
+
+  PromoCard:
+    targetContentType: promoBlock
+    entryIdPattern: "{{parentId}}--promo-card--{{index}}"
+    fields:
+      internalName:
+        template: "{{metadata.title}} promo card {{index}}"
+      heading:
+        source: block.props.title
+        required: true
+      headingStyle:
+        default: h2
+      description:
+        source: block.props.summary
+      style:
+        default: White
+      textColour:
+        default: Grey
+      hideCornerAccent:
+        default: false
+
+  NotificationBlock:
+    targetContentType: notificationBlock
+    entryIdPattern: "{{parentId}}--notification-block--{{index}}"
+    fields:
+      internalName:
+        template: "{{metadata.title}} notification block {{index}}"
+      notificationHeading:
+        source: block.props.heading
+        required: true
+      notificationDescription:
+        source: block.props.body
+        transform: richText
+
+  CallToActionBanner:
+    targetContentType: notificationBlock
+    entryIdPattern: "{{parentId}}--cta-banner--{{index}}"
+    fields:
+      internalName:
+        template: "{{metadata.title}} cta banner {{index}}"
+      notificationHeading:
+        source: block.props.headline
+        required: true
+      notificationDescription:
+        source: block.props.body
+        transform: richText

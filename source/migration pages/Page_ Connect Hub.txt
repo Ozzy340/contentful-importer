@@ -1,0 +1,130 @@
+﻿Page: Connect Hub[a]
+Objective of the page:  Create a place for candidates to stay connected with Quadient, hear about jobs and events, and share their candidate experience. [Proposed]
+Future URL: quadient.com/en-us/careers/connect-hub
+Current URL or Current URLs which will be condensed into one URL:
+• https://careers.quadient.com/en/connect-hub
+• https://careers.quadient.com/
+Primary audiences
+• Passive candidates who want to stay close to Quadient before applying
+• Active job seekers who need a lighter-touch next step than a full application
+• Event-driven candidates looking for ongoing contact after a recruiting touchpoint
+Secondary audiences
+• Former applicants and silver-medalist candidates
+• Early-career talent researching culture, offices, and future openings
+• Experienced professionals interested in future roles but not ready to apply
+Target keyword:  quadient talent community
+Supporting keywords:  quadient careers; quadient jobs; quadient career events; candidate experience; stay connected with Quadient careers
+Page title:  Join the Quadient talent community | Quadient Careers
+Meta description:  Stay connected with Quadient careers. Join the talent community to hear about jobs, events, and life at Quadient, and share your candidate experience.
+ 
+Module: Hero Standard
+<Heading> Stay connected with Quadient
+<SubHeading> Join our talent community for jobs, events, and career updates tailored to your interests.
+<CTA> Join now
+<CTA Microcopy> No application required
+<links to> TBD — talent community sign-up destination to validate
+Note: Primary conversion should be the talent community sign-up, with the form or modal available above the fold.
+Module: Mission Framing
+<Eyebrow> Why join
+<Heading> One place to keep the conversation going
+<SubHeading> Use this page to turn passive interest into an ongoing relationship, especially for visitors who are not ready to apply today. Position Connect Hub as the bridge between awareness, engagement, and future conversion.
+<CTA> Explore jobs
+<links to> quadient.com/en-us/careers/job-hub
+Module: Solution Card Carousel
+<Eyebrow> Stay close
+<Heading> Choose your next step
+<Content copy> Give candidates clear pathways based on intent, not just job readiness.
+<cards>
+<card>
+<Content Heading> Join talent community
+<Content copy> Sign up for role alerts, event invitations, and tailored career updates.
+<CTA> Sign up
+<links to> TBD — talent community sign-up destination to validate
+<card>
+<Content Heading> Explore open roles
+<Content copy> Send ready-to-apply candidates directly to current opportunities.
+<CTA> View jobs
+<links to> quadient.com/en-us/careers/job-hub
+<card>
+<Content Heading> Meet us at events
+<Content copy> Surface recruiting events, webinars, and employer brand touchpoints.
+<CTA> View events
+<links to> quadient.com/en-us/careers/events
+<card>
+<Content Heading> Share your experience
+<Content copy> Capture candidate feedback after events, screening, or interview stages.
+<CTA> Give feedback
+<links to> TBD — candidate experience submission destination to validate
+Note: Lead with the sign-up and feedback cards so the page serves both pre-application nurture and post-touchpoint follow-up.
+Module: CTA Form
+<Heading> Join the Quadient talent community for updates
+<CTA> Sign up
+<CTA Microcopy> Jobs, events, updates
+<Description> Use a short form that captures email, area of interest, location preference, and consent for future communications.
+<links to> TBD — talent community sign-up destination to validate
+Note: Keep the form concise to reduce friction; the page should still feel useful for visitors who only want to browse.
+Module: Timeline Block
+<Eyebrow> Journey
+<Heading> How it works
+<SubHeading> Show candidates what they gain before, during, and after sign-up.
+<timeline>
+<Content Heading> Join
+<Content copy> Candidates subscribe to the community and choose the kinds of roles, topics, or events they want to hear about.
+<Content Heading> Stay informed
+<Content copy> Quadient shares relevant job openings, recruiting events, and culture content based on interest and timing.
+<Content Heading> Re-engage
+<Content copy> When the right opportunity opens, candidates can move into Job Hub or share feedback after an event or interview.
+<CTA> View jobs
+<links to> quadient.com/en-us/careers/job-hub
+Module: Insights & Resources
+<Eyebrow> Explore
+<Heading> Keep exploring careers
+<CTA> View jobs
+<links to> quadient.com/en-us/careers/job-hub
+<cards>
+<card>
+<Heading> Life at Quadient
+<Description> Help candidates understand culture, values, and what it is like to work here.
+<links to> quadient.com/en-us/careers/life-at-quadient
+<card>
+<Heading> Offices
+<Description> Show where Quadient teams are located to support location-led browsing.
+<links to> quadient.com/en-us/careers/offices
+<card>
+<Heading> Events
+<Description> Promote upcoming career events and recruiting touchpoints.
+<links to> quadient.com/en-us/careers/events
+<card>
+<Heading> Job Hub
+<Description> Provide a direct path to current openings for candidates ready to apply.
+<links to> quadient.com/en-us/careers/job-hub
+Note: Use this module to keep visitors in the careers ecosystem even when they do not convert on the sign-up form immediately.
+Module: Testimonial
+<Heading> Candidate experience matters
+<Content Heading> Candidate voice
+<Content copy> Use this module for a short candidate or employee-ambassador quote about staying informed, feeling welcomed, or discovering the right role through ongoing engagement.
+Note: If a real quote is not available, swap this module for an Editorial Content Block highlighting how Quadient communicates throughout the candidate journey.
+Module: FAQs List
+<Heading> Questions before you join
+<SubHeading> Reduce uncertainty around sign-up, relevance, and privacy.
+<question> What will candidates receive after joining the talent community?
+<Content copy> Clarify that subscribers receive relevant job alerts, recruiting event invitations, and selected culture or career updates based on the interests they choose.
+<question> Do candidates need to apply for a job to join?
+<Content copy> Make it clear that visitors can join the community even if they are only exploring or want to hear about future roles.
+<question> How often will Quadient send updates?
+<Content copy> Set expectations on email cadence and relevance so the page feels helpful rather than promotional.
+<question> Can candidates share feedback on their experience?
+<Content copy> Explain how visitors can submit feedback after an event, screening, or interview and how that input supports a better candidate journey.
+<question> How does Quadient use candidate information?
+<Content copy> Provide a brief privacy explanation and link to the privacy statement from this section.
+<links to> quadient.com/en-us/quadient-website-privacy-statement
+Module: Action Block
+<Eyebrow> Next step
+<Heading> Keep Quadient on your career radar today
+<Content copy> End with a low-friction action for visitors who want to stay close to future opportunities.
+<CTA> Join now
+<links to> TBD — talent community sign-up destination to validate
+Note: Add a secondary text link beneath the CTA to Job Hub for visitors who are ready to apply today.
+
+
+[a]Mapped page here: https://gemini.google.com/share/b224c680831d

@@ -1,0 +1,205 @@
+﻿IX-7
+Sitemap
+Postage meters & mailing systems > iX-7 Mailing System
+Page goal: Position the Quadient iX-7 as a mid-to-high-volume mailing system for demanding mail centers that need faster throughput, dynamic weighing, USPS IMI/DIM compliance, and connected cost control.
+Primary audiences
+ Mailroom managers
+Operations managers
+Facilities teams
+Administrative teams handling high mail volumes
+Secondary audiences
+ Finance teams tracking postage spend
+Organizations upgrading from mid-volume meters
+Teams managing letters, flats, and parcels
+Target keyword: iX-7 mailing system
+Supporting keywords:
+ iX-7 postage meter
+high-volume mailing system
+mid-volume mailing system
+USPS IMI postage meter
+automatic postage meter
+mailroom mailing system
+Page title: iX-7 mailing system for high-volume mail | Quadient
+Meta description: Discover the Quadient iX-7 mailing system for mid-to-high-volume mail. Process up to 175 lpm, stay USPS IMI compliant, and manage postage with greater control.
+________________
+
+
+<Hero> Contentful module: Hero Standard
+<eyebrow>
+Mid-to-high-volume mailing system
+<h1>
+Working at the speed of business
+<Description>
+The Quadient iX-7 keeps mixed mail moving at up to 175 lpm, with dynamic weighing, intuitive controls, and built-in USPS IMI and DIM compliance for demanding mail centers.
+<Primary CTA>
+Order now
+<CTA microcopy>
+ Find the right iX-7 setup for your mail volume.
+<Secondary CTA>
+ Download brochure
+________________
+
+
+<Value proposition intro> Contentful module: USP Listing
+<h2>
+Why choose the iX-7?
+<Description>
+Handle more mail with fewer interruptions and better cost control.
+<bullets>
+ <bullet> Process mixed mail at up to 140 lpm, or up to 175 lpm with iX-7PRO
+<bullet> Reduce manual sorting with dynamic weighing
+<bullet> Stay current with USPS IMI and DIM requirements
+<bullet> Manage mail, shipping, and postage costs with online tools
+________________
+
+
+<Video Block> Contentful module: Full Video Block
+<h2>
+ Take an interactive tour of the iX-7
+________________
+
+
+<How product helps> Contentful module: Stacked Card Block
+<h2>
+Built to perform in the most demanding mail centers
+<cards>
+<card>
+ <h3> Move mixed mail faster
+<Description> Feed mixed mail at high speed without slowing the whole operation.
+<card>
+ <h3> Promote your brand
+<Description> Add a professional touch to envelopes with Neoslogan. Choose from 100+ images, create your own, and store up to 10 designs.
+<card>
+ <h3> Simplify daily operation
+<Description> A color touchscreen, shortcut keys, and Rate Wizard make daily use easier.
+<card>
+ <h3> Reduce interruptions
+<Description> Low Ink Email Alerts and the auto-ink program help keep production on schedule.
+________________
+
+
+<Upsell bundle> Contentful module: Product Family Card[a]
+<h2>
+Enhance your mailing workflow
+<cards>
+<card>
+ S.M.A.R.T.
+ Process parcels with USPS, UPS, FedEx, and DHL from one shipping application.
+<card>
+ Dynamic weighing
+ Keep mixed mail moving while postage is calculated automatically.
+<card>
+ Power conveyor stacker
+ Reduce starts and stops with smoother output handling.
+<card>
+ Neostats Enhanced
+ Add deeper postage reporting for better reconciliation and chargeback control.
+________________
+
+
+<Comparison with the alternatives> Contentful module: Comparison Table
+<h2>
+See the difference at higher volume
+<table>
+ <columns> Alternative [b]| Quadient iX-7
+<rows>
+ <row> Manual sorting before metering | Dynamic weighing helps process mixed mail faster
+<row> Slower mid-volume meters |Up to 140 lpm on iX-7, or 175 lpm on iX-7PRO
+<row> Limited operator guidance | Color touchscreen, shortcut keys, and Rate Wizard
+<row> Disconnected cost tracking | Online tools help manage mail, shipping, and postage costs
+[c]
+________________
+
+
+<Key features> Contentful module: USP Listing
+<h2>
+Key features at a glance
+<bullets>
+ <bullet> Mixed mail processing up to 140 lpm on iX-7
+<bullet> iX-7PRO processing up to 175 lpm for postcards
+<bullet> Dynamic weighing up to 75 lpm on iX-7
+<bullet> Color touchscreen with shortcut keys and Rate Wizard
+<bullet> Neoslogan for logos and marketing messages
+<bullet> USPS-based IMI meter standard
+________________
+
+
+<Specifications> Contentful module: Comparison Table
+<h2>
+ Specifications at a glance[d]
+<table>
+ <columns> Feature | Details
+<rows>
+ <row> Processing speed, iX-7 | Up to 140 lpm
+<row> Processing speed, iX-7PRO | Up to 175 lpm for postcards
+<row> Dynamic weighing, iX-7 | Up to 75 lpm
+<row> Dynamic weighing, iX-7PRO | Up to 110 lpm for postcards
+<row> Color display | Standard
+<row> Envelope size | 3.5" x 5" minimum; 10" x 13" maximum
+<row> Envelope thickness | Up to 5/8"
+<row> Envelope orientation | Landscape or portrait
+<row> Connectivity | LAN standard
+<row> Accounts/departments | 100 standard; upgrade to 300 or 500
+<row> Job imprint memories | 9
+<row> Postage meter tapes | Integrated automatic dispenser
+<row> Neostats Basic | Standard
+<row> Neostats Consolidated / Enhanced | Available
+<row> External weighing platform | 10, 30, or 70 lb. available
+<row> System dimensions, iX-7 with tray | 50" x 18" x 13"
+<row> System dimensions, iX-7 with dynamic scale and tray | 67" x 18" x 13"
+<CTA>
+ Download full specifications
+________________
+
+
+<Related products and solutions> Contentful module: Product Family Card
+<h2>
+ Explore other Quadient products
+<cards>
+<card>
+ DS-95i folder inserter
+ Prepare complex mailings with a dependable inserter that supports up to seven feed stations.
+<card>
+ iX-5 mailing system
+ A flexible choice for mid-level mail volumes with hand-feed or auto-feed models.
+<card>
+ iX-9 mailing and shipping system
+ Step up to a high-output system built for maximum uptime and high-volume productivity.
+________________
+
+
+<FAQ module> Contentful module: FAQs List
+<h2>
+ Frequently asked questions
+<accordion>
+ <question> What mail volume is the iX-7 built for?
+<question> What is the difference between iX-7 and iX-7PRO?
+<question> Does the iX-7 meet USPS IMI and DIM requirements?
+<question> Can the iX-7 process mixed mail?
+<question> Can I track postage costs by account or department?
+________________
+
+
+<Proof> Contentful module: Testimonial
+<h2>
+ Trusted by businesses like yours
+<quote>
+ “The Quadient mailing system is great, easy use and they have great customer service.”
+<attribution>
+ Brian Fahl, Business Professional | US Department of Veterans Affairs
+________________
+
+
+<Final CTA> Module: CTA Form
+<h2>
+ Ready to keep high-volume mail moving?
+<Primary CTA>
+ Speak with an expert
+<links to>
+ /contact
+
+
+[a]SMART essential, SMART mail center, Impress Distribute?
+[b]should we give it a name?
+[c]shall we add about Neoslogan here?
+[d]maybe reduce the number of rows here?

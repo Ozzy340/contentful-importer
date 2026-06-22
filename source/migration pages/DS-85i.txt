@@ -1,0 +1,201 @@
+﻿DS-85i
+Sitemap
+Folder inserters > Mid-size business > DS-85i folder inserter
+Page goal: Position the Quadient DS-85i as a flexible folder inserter for mid-size mailrooms that need to automate varied document jobs, protect mailpiece accuracy, and process higher monthly volumes with less operator time.
+Primary audiences
+ Mailroom managers
+Operations teams
+Billing and finance teams
+Administrative teams
+Secondary audiences
+ Healthcare teams
+Education and nonprofit teams
+Financial services teams
+Organizations upgrading from lower-volume inserters
+Target keyword: DS-85i folder inserter
+Supporting keywords:
+ folder inserter machine
+mail folding and inserting machine
+mid-size business folder inserter
+document inserting machine
+variable-page mail inserter
+Quadient DS-85i
+Page title: DS-85i folder inserter for mid-size mailrooms | Quadient
+Meta description: Discover the Quadient DS-85i folder inserter. Fold, insert, and seal up to 60,000 envelopes per month with flexible feeders, barcode reading, and automated job setup.
+________________
+
+
+<Hero> Contentful module: Hero Standard
+<eyebrow>
+ Mid-size business folder inserter
+<h1>
+ High-volume mail prep, without the slowdown
+<Description>
+The Quadient DS-85i folds, inserts, and seals up to 60,000 envelopes per month with flexible feeders, barcode reading, and automated job setup.
+<Primary CTA>
+ Speak with an expert
+<CTA microcopy>
+ See how the DS-85i fits your mail volume.
+<Secondary CTA>
+ Download brochure
+________________
+
+
+<Value proposition intro> Contentful module: USP Listing
+<h2>
+The mailroom optimizer
+<Description>
+Prepare multi-page mailings faster without giving up accuracy or flexibility.
+<bullets>
+ <bullet> Run up to 4,000 envelopes per hour.
+<bullet> Recall up to 50 stored jobs or create new ones with ease.
+<bullet> Configure up to 6 documents and insert feeders.
+<bullet> Use CIS scanning to read 1D, 2D, QR, and OMR codes.
+________________
+
+
+<Video Block> Contentful module: Full Video Block
+<h2>
+ See the DS-85i in action
+________________
+
+
+<How product helps> Contentful module: Stacked Card Block
+<h2>
+Bring multi-document mail runs together
+<cards>
+<card>
+ <h3> Handle mixed mail jobs
+<Description> Process different document sizes, envelope sizes, inserts, and variable-page mailings from one system.
+<card>
+ <h3> Set up jobs faster
+<Description> Load envelopes and documents, and the DS-85i adjusts settings automatically for faster job setup.
+<card>
+ <h3> Keeps mail moving
+<Description> Let another feeder take over when one runs empty, so operators can reload without stopping the job.
+<card>
+ <h3> Verify every mail piece
+<Description> CIS scanning reads codes across the full page to help ensure the right documents reach the right envelope.
+________________
+
+
+<Upsell bundle> Contentful module: Product Family Card[a]
+<h2>
+ Enhance your mailing workflow
+<cards>
+<card>
+ AIMS
+ Add closed-loop verification to monitor processing and confirm each mailpiece is completed accurately.
+<card>
+ Impress Automate
+ Prepare, group, personalize, barcode, and address documents before inserting.
+<card>
+ High-capacity vertical stacker
+ Hold up to 500 finished envelopes and reduce unloading time.
+<card>
+ MaxiFeeder
+ Load up to 1,200 sheets for longer runs with fewer reloads.
+________________
+
+
+<Comparison with the alternatives> Contentful module: Comparison Table[b]
+<h2>
+ See the difference
+<table>
+ <columns> Alternatives | Quadient DS-85i
+<rows>
+ <row> Manual folding and stuffing | Automates folding, inserting, and sealing at up to 4,000 envelopes/hour.
+<row> Basic inserters | Handles a wide range of document sizes, types, and feeder combinations.
+<row> Fixed barcode placement | CIS scanning can read codes printed nearly anywhere on the page.
+<row> Frequent unloading | Optional vertical stacker holds up to 500 finished envelopes.
+________________
+
+
+<Key features> Contentful module: USP Listing
+<h2>
+ Key features at a glance
+<bullets>
+ <bullet> Up to 60,000 envelopes monthly volume.
+<bullet> Up to 4,000 envelopes per hour.
+<bullet> 7" color touchscreen with automatic job setup.
+<bullet> Up to 6 document and insert feeders.
+<bullet> 50 stored jobs for fast recall.
+<bullet> Barcode recognition, OMR, and closed-loop verification available.
+________________
+
+
+<Specifications> Contentful module: Comparison Table
+<h2>
+ Specifications at a glance
+<table>
+ <columns> Feature | Details
+<rows>
+ <row> Monthly volume | Up to 60,000 envelopes
+<row> Processing speed | Up to 4,000 envelopes/hour
+<row> Touchscreen | 7" color touchscreen, standard
+<row> Automatic settings | Standard
+<row> Document and insert feeders | Up to 6
+<row> Job memory | 50
+<row> Document feeder capacity | Up to 725 sheets, 20 lb.
+<row> Envelope feeder capacity | 325 envelopes
+<row> MaxiFeeder capacity | 1,200 sheets, 20 lb.
+<row> Fold types | Letter, z-fold, single, double parallel, no fold
+<row> Document height | 3.5"–14"
+<row> Document width | 5.1"–9"
+<row> Envelope length | 3.5"–6.3"
+<row> Envelope width | 6.3"–9.7"
+<row> Maximum set thickness | 2.5 mm
+<row> Options | BCR, OMR, closed-loop verification, short feeders, VersaFeeder, automation software
+<CTA>
+ Download full specifications
+________________
+
+
+<Related products and solutions> Contentful module: Product Family Card
+<h2>
+ Explore other Quadient products
+<cards>
+<card>
+ DS-77 iQ folder inserter
+ A strong fit for mid-size teams with lower monthly volume needs.
+<card>
+ DS-95i folder inserter
+ A higher-capacity system for mailrooms with larger, more demanding jobs.
+<card>
+ Postage meters & mailing systems
+ Finish prepared mail with accurate weighing, metering, and postage control.
+________________
+
+
+<FAQ module> Contentful module: FAQs List
+<h2>
+ Frequently asked questions
+<accordion>
+ <question> What mail volume is the DS-85i built for?
+<question> Can the DS-85i handle variable-page mailings?
+<question> How many feeders can the DS-85i support?
+<question> Does the DS-85i support barcode reading and mailpiece verification?
+________________
+
+
+<Proof> Contentful module: Testimonial
+<h2>
+ Trusted by businesses like yours
+<quote>
+ “It used to take me about six hours... now it takes an hour and 15 minutes.”
+<attribution>
+ Peter Gibson, Andover Newton Theological School
+________________
+
+
+<Final CTA> Module: CTA Form
+<h2>
+ Ready to optimize mailroom output?
+<Primary CTA>
+ Speak with an expert
+<links to>
+ /contact
+
+
+[a]secure barcode, docsecure, impress automate
+[b]comparison with manual?

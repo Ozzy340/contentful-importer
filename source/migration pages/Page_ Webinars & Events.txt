@@ -1,0 +1,239 @@
+﻿Page: Webinars & Events[a]
+
+
+Objective of the page: List all our relevant events
+Future URL: https://www.quadient.com/en-us/webinars-events
+Current URL or Current URLs which will be condensed into one URL: https://www.quadient.com/en-us/webinars-events ; https://www.quadient.com/en-us [Proposed]
+Primary audiences
+• In-market buyers researching Quadient solutions through educational content
+• Practitioners looking for webinars and live events by topic, industry, or solution
+• Returning visitors from campaigns, email nurtures, and sales follow-up who need a single event hub
+Secondary audiences
+• Existing customers exploring new use cases and best practices
+• Partners and analysts tracking Quadient thought leadership
+• Internal teams reusing webinar and event content in nurture journeys
+Target keyword: webinars and events
+Supporting keywords: on-demand webinars; business webinars; finance automation webinars; customer communications webinars; digital transformation events
+Page title: Webinars & Events | Quadient
+Meta description: Explore Quadient webinars, virtual events and on-demand sessions covering customer communications, finance automation, mail and parcel operations.
+Strategic view: Create a resource discovery page for Webinars & Events that improves findability, filtering, and reuse of existing content while supporting lead generation and education.
+
+
+________________
+
+
+
+
+Module: Hero Standard
+<Eyebrow> Resources
+<Heading> Explore webinars and events
+<SubHeading> Find live and on-demand sessions by solution, industry and business challenge.
+<CTA> View resources
+<CTA Microcopy> Browse related content
+<Content copy> Create one clear destination for webinar discovery, event registration and on-demand learning that supports education first and lead capture second.
+<links to> https://www.quadient.com/en-us/resources
+Note: Above-the-fold filters should be visible immediately on mobile and desktop.
+
+
+Module: Big Idea Panel
+<Heading> One hub for live and on-demand learning
+<SubHeading> Help visitors move from curiosity to commitment without hunting across disconnected resource pages.
+Note: The page should feel like a discovery hub, not a chronological archive.
+
+
+Module: Solutions Toggle
+<Heading> Browse events by format and topic
+<SubHeading> Use toggles and filter chips to surface the most relevant webinar or event in one click.
+<CTA> View resources
+<links to> https://www.quadient.com/en-us/resources
+<Content Heading> Upcoming events
+<Content subheading> Join live
+<Content copy> Prioritize the next live webinars, trade shows and partner events with date, format, speaker and primary CTA visible on card.
+<Content Heading> On-demand webinars
+<Content subheading> Watch now
+<Content copy> Surface evergreen sessions with short value-led summaries, duration, topic tags and a clear watch CTA.
+<Content Heading> By solution
+<Content subheading> Solve pain
+<Content copy> Let visitors narrow by customer communications, finance automation, or mail and shipping.
+<Content Heading> By industry
+<Content subheading> See relevance
+<Content copy> Let visitors filter by finance, insurance, utilities and public sector to increase contextual relevance as well as “others”.
+Note: Filter taxonomy should include Format, Topic, Solution, Industry, and Region/Language where available. Content cards should be reusable across sibling resource pages.
+
+
+Module: Editorial Content Block
+<Eyebrow> Featured
+<Heading> Spotlight the next priority live session
+<CTA> Register now
+<links to> [featured event registration URL]
+<Content copy> Reserve this slot for the most strategic live webinar or marquee event with speaker proof, date and audience fit.
+Note: Destination to validate. If no upcoming live event exists, swap automatically to the highest-performing on-demand webinar.
+
+
+Module: Insights & Resources
+<Eyebrow> Live
+<Heading> Upcoming live events
+<CTA> View all
+<links to> https://www.quadient.com/en-us/webinars-events
+<card>
+<Heading> Featured live webinar or event
+<Description> Date, format, audience, one-sentence value proposition and primary registration CTA.
+<CTA> Register now
+<links to> [event URL]
+<card>
+<Heading> Secondary upcoming event
+<Description> Use the same card structure so visitors can compare relevance quickly.
+<CTA> Register now
+<links to> [event URL]
+<card>
+<Heading> Tertiary upcoming event
+<Description> Keep copy concise and use tags for solution, industry and format.
+<CTA> Register now
+<links to> [event URL]
+Note: Default sort should show the nearest upcoming date first. Individual event URLs to validate.
+
+
+Module: Solution Card Carousel
+<Eyebrow> By solution
+<Heading> Continue by topic
+<Content copy> Send visitors from education into the most relevant solution journey.
+<card>
+<Content Heading> Elevate customer communications journeys
+<Content copy> For CCM, compliance and omnichannel experience topics.
+<CTA> Explore solution
+<links to> https://www.quadient.com/en-us/elevate-customer-communications
+<card>
+<Content Heading> Automate finance operations faster
+<Content copy> For AP, AR, billing and payment workflow topics.
+<CTA> Explore solution
+<links to> https://www.quadient.com/en-us/automate-finance-operations
+<card>
+<Content Heading> Modernize mail and shipping
+<Content copy> For physical operations, mail automation and shipping optimization topics.
+<CTA> Explore solution
+<links to> https://www.quadient.com/en-us/modernize-mail-and-shipping
+<card>
+<Content Heading> Streamline parcel delivery workflows
+<Content copy> For parcel lockers, tracking and last-mile experience topics.
+<CTA> Explore solution
+<links to> https://www.quadient.com/en-us/streamline-parcel-delivery
+
+
+Module: Insights & Resources
+<Eyebrow> On-demand
+<Heading> Watch on-demand webinars
+<CTA> View all
+<links to> https://www.quadient.com/en-us/webinars-events
+<card>
+<Heading> Most-viewed webinar
+<Description> Lead with the strongest evergreen session and include duration, topic tags and a watch-now CTA.
+<CTA> Watch now
+<links to> [webinar URL]
+<card>
+<Heading> Solution-specific webinar
+<Description> Use one-line summaries that make the business outcome clear before the click.
+<CTA> Watch now
+<links to> [webinar URL]
+<card>
+<Heading> Industry-focused webinar
+<Description> Show clear industry relevance so visitors can self-select quickly.
+<CTA> Watch now
+<links to> [webinar URL]
+Note: Use the same card structure as live events so both modules can be managed from one shared taxonomy.
+
+
+
+
+
+
+Module: Solution Card Carousel
+<Eyebrow> By industry
+<Heading> Browse industry relevance
+<Content copy> Help visitors self-select into industry pages after engaging with webinar content.
+<card>
+<Content Heading> Finance operations teams
+<Content copy> Connect event topics to billing, AP, AR and compliance priorities.
+<CTA> Explore industry
+<links to> https://www.quadient.com/en-us/finance
+<card>
+<Content Heading> Insurance workflow leaders
+<Content copy> Route visitors into claims, billing and policyholder communication content.
+<CTA> Explore industry
+<links to> https://www.quadient.com/en-us/insurance
+<card>
+<Content Heading> Utilities experience teams
+<Content copy> Connect billing clarity, customer communications and workflow modernization topics.
+<CTA> Explore industry
+<links to> https://www.quadient.com/en-us/utilities
+<card>
+<Content Heading> Public sector organizations
+<Content copy> Bridge from educational content into regulated communication and workflow themes.
+<CTA> Explore industry
+<links to> https://www.quadient.com/en-us/public-sector
+
+
+
+
+Module: Insights & Resources
+<Eyebrow> Keep learning
+<Heading> Extend the journey
+<CTA> View resources
+<links to> https://www.quadient.com/en-us/resources
+<card>
+<Heading> Case Studies
+<Description> Show proof after a webinar with customer stories tied to the same topic or industry.
+<CTA> View case studies
+<links to> https://www.quadient.com/en-us/case-studies
+<card>
+<Heading> Knowledge Hub
+<Description> Offer structured educational content for buyers who are still framing the problem.
+<CTA> Explore hub
+<links to> https://www.quadient.com/en-us/knowledge-hub
+<card>
+<Heading> Ebooks & Papers
+<Description> Give visitors a deeper, downloadable next step after watch or registration behavior.
+<CTA> View papers
+<links to> https://www.quadient.com/en-us/ebooks-papers
+<card>
+<Heading> Blog
+<Description> Capture lower-intent visitors who want shorter takes and ongoing thought leadership.
+<CTA> Read blog
+<links to> https://www.quadient.com/en-us/blog
+Note: This is where content reuse happens—event pages should automatically suggest adjacent assets from the same topic taxonomy.
+
+
+Module: CTA Form
+<Heading> Need help finding the right webinar or event?
+<CTA> Contact us
+<CTA Microcopy> Share your priorities
+<links to> https://www.quadient.com/en-us/contact-us
+Note: If an email alert form exists in CMS, this module can pivot from contact capture to event subscription without changing the page flow.
+
+
+Module: FAQs List
+<Heading> Webinars and events FAQs
+<SubHeading> Remove friction before registration or viewing.
+<Question> What types of events appear here?
+<Content copy> Include live webinars, virtual events, in-person events and on-demand replays when relevant to Quadient buyers.
+<Question> How should visitors filter content?
+<Content copy> Prioritize filters for format, solution, industry and topic; add region or language only when the library is large enough to warrant it.
+<Question> When does live content become on-demand?
+<Content copy> Move recordings into the on-demand module quickly and preserve the same taxonomy so performance history and related content remain connected.
+<Question> What should happen when no live events are scheduled?
+<Content copy> Replace the live section lead slot with a featured on-demand webinar and keep the page value-led rather than empty.
+Note: Implement FAQ schema if the final build supports it.
+
+
+Module: Action Block
+<Eyebrow> Next step
+<Heading> Ready for a more tailored conversation?
+<CTA> Contact us
+<Content copy> Give high-intent visitors a simple path from educational content into a sales-assisted conversation.
+<links to> https://www.quadient.com/en-us/contact-us
+
+
+
+
+
+
+[a]Mapped page here: https://gemini.google.com/share/a21667ff307d

@@ -1,0 +1,79 @@
+﻿CCM partner portal link: https://partners.quadient.com/English/; AP/AR partner portal (NORAM only): https://dash.partnerstack.com/handshake?next=%2Fhome&nextApp=partner CCM partner portal link: https://partners.quadient.com/English/; AP/AR partner portal (NORAM only): https://dash.partnerstack.com/handshake?next=%2Fhome&nextApp=partner
+
+
+Page: Find a Software Partner - Quadient
+Objective of the page: List partners and help prospects find partners they can easily turn to.
+Future URL: https://www.quadient.com/en-us/find-partner
+Current URL or Current URLs which will be condensed into one URL: https://www.quadient.com/en/partner-finder
+Primary audiences
+Prospects evaluating Quadient software and looking for a trusted reseller, implementation, or advisory partner
+IT and digital transformation leaders who need solution-specific or integration-specific partner support
+Procurement and buying teams shortlisting qualified Quadient partners by region and expertise
+Secondary audiences
+Existing Quadient customers looking for implementation or expansion support
+Quadient sales and channel teams sending prospects to the right partner
+Prospective partners who land here and need a clear handoff to apply
+Target keyword: find a software partner
+Supporting keywords: Quadient partner finder, Quadient software partner, business partner, technology partner, Quadient implementation partner
+
+Page title: Find a software partner | Quadient
+Meta description: Search Quadient’s software partner directory by region, solution, partner type, and expertise to find a trusted business or technology partner.
+Module: Hero Standard
+<Eyebrow> Partners
+<h1> Find the right software partner <SubHeading> Search by region, solution, and expertise to connect with a trusted Quadient partner. <CTA> Browse partners <CTA Microcopy> Search and filter <Content copy> Help buyers quickly find the best-fit Quadient business or technology partner for software selection, implementation, integration, and ongoing support. <links to> #partner-directory
+Module: Solutions Toggle
+<Heading> Browse partners by fit
+<SubHeading> Let visitors choose the partner type that matches their buying needs before they filter results.
+<CTA> View all
+<Content Heading> Business partners
+<Content subheading> Buy and deploy
+<Content copy> For prospects looking for resellers, implementation support, services, and solution expertise across Quadient software.
+<Content Heading> Technology partners
+<Content subheading> Connect your stack
+<Content copy> For prospects looking for validated integrations, complementary platforms, and ecosystem compatibility around Quadient software.
+<links to> https://www.quadient.com/en-us/partner-program
+<links to> https://www.quadient.com/en-us/technology-partners
+
+Module: Siderail Navigation
+<h2> Filter partners <Description> Persistent left-rail or sticky filter panel paired with the results grid so users can refine without losing context. <filter group> Partner type <filter group> Region <filter group> Partner tier <filter group> Quadient solutions <filter group> Technology focus <filter group> Clear all
+Module: Product Card Listing
+<Eyebrow> Directory
+<Heading> Software partners
+<SubHeading> Dynamic, searchable, filterable partner results.
+<card>
+<Content Heading> Partner name + logo
+<Content subheading> Partner track | tier | region
+<Content copy> One-sentence summary covering core expertise, ideal customer fit, and relevant Quadient software capabilities.
+<CTA> View partner
+<links to> Partner detail page or approved external partner destination
+<card>
+<Content Heading> Partner detail page
+<Content subheading> Help buyers qualify quickly
+<Content copy> Include overview, regions served, partner track, tier, Quadient solutions supported, technology focus, implementation capability, and direct contact CTA.
+
+Module: USP listing
+<Eyebrow> Selection guide
+<Heading> Choose the best-fit partner faster
+<SubHeading> Give buyers simple criteria so they can move from browsing to outreach with confidence.
+<CTA> Need help
+<links to> https://www.quadient.com/en-us/contact-us
+<Content Heading> Solution expertise
+<Content subheading> Match the product area you need
+<Content copy> Make it easy to filter and compare by Inspire, Impress, AP, AR, and other relevant software categories.
+<Content Heading> Regional coverage
+<Content subheading> Start with where you operate
+<Content copy> Prioritize geography early for buyers who need in-market implementation, services, or local support.
+<Content Heading> Delivery strength
+<Content subheading> Show depth at a glance
+<Content copy> Surface partner tier and implementation capability clearly so visitors can judge experience quickly.
+<Content Heading> Technology alignment
+<Content subheading> Reduce integration risk
+<Content copy> Make ecosystem fit visible for prospects looking for compatible platforms or integration-ready partners.
+Module: FAQs List
+<h2> Common partner questions <SubHeading> Remove friction for visitors who are close to outreach but still need clarity. <question> What is the difference between a business partner and a technology partner? <answer direction> Clarify who helps with selling, implementation, and services versus who provides ecosystem or integration value. <question> Can I filter partners by Quadient software solution? <answer direction> Confirm that visitors can narrow results by the software area they are evaluating. <question> How do I find a partner in my region? <answer direction> Reinforce region-first filtering and geo-specific coverage on partner cards. <question> Do all partners provide implementation services? <answer direction> Explain that implementation capability should be called out explicitly on the profile. <question> What should I do if I cannot find the right fit? <answer direction> Route buyers to Quadient contact for guided matching.
+Module: Action Block
+<Eyebrow> Need help
+<Heading> Not sure which partner is right?
+<Content copy> Give high-intent buyers a direct path to Quadient when they need help matching by region, solution, or project scope.
+<CTA> Contact us
+<links to> https://www.quadient.com/en-us/contact-us

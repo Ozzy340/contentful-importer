@@ -1,0 +1,100 @@
+﻿Page: Life at Quadient Objective of the page: What it's like to work at Quadient [a]
+Future URL: quadient.com/en-us/careers/life-at-quadient
+Current URLs which will be condensed into one URL: https://careers.quadient.com/en/why-quadient https://careers.quadient.com/en/empowered-culture https://careers.quadient.com/en/learning-and-growth https://careers.quadient.com/en/belonging-together
+Primary audiences
+Experienced professionals evaluating culture and career growth
+Early-career and mid-career candidates exploring employer brand
+Values-led candidates looking for inclusion, flexibility, and development
+Secondary audiences
+Passive talent researching Quadient before applying
+Employee referral candidates
+Recruiters and hiring teams sharing one clear “why join” destination
+Target keyword: life at Quadient, Working at Quadient, Quadient culture, Careers at Quadient
+Supporting keywords: Quadient careers; working at Quadient; Quadient culture; learning and growth at Quadient; belonging at Quadient
+Page title: Life at Quadient | Careers
+Meta description: Discover what it’s like to work at Quadient. Meaningful work, empowered culture, continuous learning, inclusive communities and flexible ways of working.
+________________
+
+
+Module: <Hero Standard>
+<image/graphic> Suggested: Candid collage of diverse employees across offices, hybrid settings and team moments; global, human, non-corporate
+<h1> Life at Quadient 
+<Description> At Quadient, we know our strength comes from the people who bring our solutions to life every day. Help power the connections businesses and communities rely on every day while growing your career and being yourself in a culture built on ownership, growth, and belonging.
+<Primary CTA> Search jobs <links to> [Search Jobs destination]
+<Secondary CTA> Meet our people <links to> [Employee stories destination]
+Module: <Mission Framing>
+<eyebrow> Why join
+<h2> Build what matters with people who care 
+<SubHeading> This section should quickly explain what Quadient does in a candidate-first way: employees help power meaningful digital, mail and parcel experiences that keep businesses and communities connected. Keep it about impact, not product detail. 
+<CTA> Explore teams <links to> [Job categories destination] Current “Why Quadient” messaging leans into innovation, meaningful connections and impact across digital, mail and lockers, so this should stay high-level and purpose-led. :contentReference[oaicite:3]{index=3}
+
+Module: <Stats Block>
+<eyebrow> At a glance
+<h2> Grow here 
+<stats> 
+<stat> 91.8% completed CSR training 
+<stat> 95% ethics training engagement 
+<stat> 100+ charities supported globally
+<stat> Global teams, local impact 
+
+Module: <USP Listing>
+ <eyebrow> Experience
+<h2> What to expect  
+<card> <h3> Care and Connection
+<Description> About inclusion, recognition, purpose and collaboration
+<card> <h3> Growth you shape
+<Description> Highlight development tools, internal mobility and support for long-term career growth.
+<card> <h3> Trust-powered ownership
+<Description> Reinforce ownership, trust, approachable leadership and room to contribute ideas.
+<card> <h3> Belonging together 
+<Description> Make inclusion tangible through communities, support systems and shared values.
+
+Module: <Testimonial>
+<h2> Hear from our people 
+<Content Heading> Employee stories 
+<Content copy> Feature one strong quote on community and one on growth/international opportunity. Keep them concise here and link through to longer stories. Prioritize voices that make the culture feel real rather than polished. 
+<Suggested sources> Clarissa on community; Boris on curiosity and deep tech; Tina on international experience; Monica on inclusion leadership.
+
+Module: <Solution Card Carousel>
+<eyebrow> Belonging
+<h2> Communities that bring belonging to life
+<Description> Rather than speaking about inclusion in broad terms, use this module to feature a set of Empowered Communities/ERGs that show how belonging comes to life. 
+<cards> <card> 
+<h3> DiverseAbility
+* DiverseAbility
+Advancing accessibility and disability inclusion, with a focus on equal opportunity and removing barriers at work
+* Fearless WoMen / WITTY
+Supporting women’s growth through mentorship, leadership development, and opportunities in technology
+* Love is Love
+Creating a supportive LGBTQ+ community with active allyship and space to be yourself
+* Act4Earth / Mosaic / VetERA / Carers’ Circle
+Bringing people together around sustainability, cultural diversity, military and service backgrounds, and caregiving support
+
+Module: <Logo Wall>
+ <eyebrow> Partners
+<h2> Connected to broader communities 
+<Description> Use approved partner logos to add external credibility to the belonging story. This helps show that inclusion is not just internal language.
+<logos> myGwork; WISE; The Valuable 500; CEO Action for Diversity & Inclusion; Czechitas; Radius 
+Module: <Insights & Resources>
+<eyebrow> Explore more
+<h2> See more 
+<cards> <card> Employee stories 
+<card> Before you apply 
+<card> Locations
+<card> Job categories 
+<CTA> Explore more <links to> [Relevant careers destinations] This helps turn the page into a real journey hub instead of a dead-end brand page; those pathways already exist in the current careers navigation.
+Module: <CTA Form>
+<h2> Find where you belong at Quadient
+<Primary CTA> Search jobs 
+<links to> [Search Jobs destination] 
+<Secondary CTA> Join our network 
+<links to> [Connect Hub / talent community destination]
+
+
+FAQ:
+- What is it like to work at Quadient
+- Does Quadient offer remote work
+- How does Quadient support career growth
+
+
+[a]Mapped page here: https://gemini.google.com/share/c8a320dd39e9

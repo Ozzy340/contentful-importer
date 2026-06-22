@@ -1,0 +1,189 @@
+﻿DS-40i
+Sitemap
+Folder inserters > Small business > DS-40i folder inserter
+Page goal: Position the Quadient DS-40i as a compact, easy-to-use folder inserter for small businesses that want to stop folding and stuffing envelopes by hand, send mail faster, reduce errors, and protect customer privacy.
+Primary audiences
+ Small business owners
+Office managers
+Administrative teams
+Finance and billing teams
+Secondary audiences
+ Healthcare offices
+Schools and nonprofits
+Teams sending invoices, statements, letters, and customer notices
+Target keyword: DS-40i folder inserter
+Supporting keywords:
+ small business folder inserter
+envelope stuffing machine
+mail folding machine
+document folding and inserting machine
+office folder inserter
+Quadient DS-40i
+Page title: DS-40i folder inserter for small business | Quadient
+Meta description: Discover the Quadient DS-40i folder inserter for small businesses. Fold, insert, and seal mail up to 10X faster than by hand with a compact, easy-to-use system.
+________________
+
+
+<Hero> Contentful module: Hero Standard
+<eyebrow>
+ Small business folder inserter
+<h1>
+Say goodbye to stuffing envelopes by hand!
+<Description>
+The Quadient DS-40i helps small offices fold, insert, and seal mail quickly from one compact system, getting mail done 10X faster than by hand.
+<Primary CTA>
+Order now
+<CTA microcopy>
+ See how much time the DS-40i can save on your mail runs.
+<Secondary CTA>
+ Download brochure
+________________
+
+
+<Value proposition intro> Contentful module: USP Listing
+<h2>
+Why choose the DS-40i?
+<bullets>
+ <bullet> Get mail done 10X faster.
+<bullet> Process up to 1,350 envelopes per hour.
+<bullet> Use the 5" color touchscreen and wizard-based guidance.
+<bullet> Fold, insert, and seal documents to keep contents private.
+________________
+
+
+<Video Block> Contentful module: Full Video Block
+<h2>
+ See the DS-40i fold, insert, and seal
+________________
+
+
+<How product helps> Contentful module: Stacked Card Block
+<h2>
+Finish routine mail in minutes
+<cards>
+<card>
+ <h3> Replace hand stuffing
+<Description>  Fold, insert, and seal invoices, letters, and bills automatically.
+<card>
+ <h3> Start jobs quickly
+<Description> Recall saved jobs or create new ones in under a minute with Wizard-based guidance.
+<card>
+ <h3> Handle everyday mail formats
+<Description> Process a wide range of documents, inserts, and envelope sizes with one compact office system.
+<card>
+ <h3> Protect private mail
+<Description> Insert and securely seal documents inside each envelope to support privacy.
+________________
+
+
+<Upsell bundle> Contentful module: Product Family Card
+<h2>
+Enhance your mailing workflow
+<cards>
+<card>
+ iX-3 postage meter
+ Add accurate postage after the DS-40i folds, inserts, and seals your mail.
+<card>
+ S.M.A.R.T. Online
+ Create USPS-compliant shipping labels and track shipments from your desktop.
+<card>
+ DS-64i folder inserter
+ Step up to higher mail volumes, up to 2,500 envelopes per hour.
+<card>
+ Postage meters & mailing systems
+ Finish outgoing mail with weighing, metering, and postage control.
+________________
+
+
+<Comparison with the alternatives> Contentful module: Comparison Table
+<h2>
+ See the difference
+<table>
+ <columns> Alternatives[a] | Quadient DS-40i
+<rows>
+ <row> Folding and stuffing by hand | Folds, inserts, and seals up to 1,350 envelopes per hour.
+<row> Training every user from scratch | 5" touchscreen and step-by-step guidance walk users through each job.
+<row> Slow setup for repeat jobs | Stored jobs can be recalled quickly.
+<row> Handling loose or sensitive documents | Mail pieces are sealed to help protect privacy.
+________________
+
+
+<Key features> Contentful module: USP Listing
+<h2>
+ Key features at a glance
+<bullets>
+ <bullet> Up to 5,000 envelopes monthly mail volume.
+<bullet> Up to 1,350 envelopes per hour.
+<bullet> Up to 3 document feeders.
+<bullet> Folding capacity up to 5 sheets.
+<bullet> 5" color touchscreen with wizard-based guidance.
+<bullet> Four folding types for professional-looking mail.
+________________
+
+
+<Specifications> Contentful module: Comparison Table
+<h2>
+ Specifications at a glance
+<table>
+ <columns> Feature | Details
+<rows>
+ <row> Monthly mail volume | 5,000 envelopes.
+<row> Processing speed | 1,350 envelopes per hour.
+<row> Document feeders | Up to 3.
+<row> Folding capacity | Up to 5 sheets.
+<row> Touchscreen | 5" color touchscreen.
+<row> Loading capacity | Up to 100 documents and envelopes at a time.
+<row> Feeders | Two sheet feeders and optional insert feeder.
+<row> Folding types | Four folding types.
+<CTA>
+ Download full specifications
+________________
+
+
+<Related products and solutions> Contentful module: Product Family Card
+<h2>
+ Explore other Quadient products
+<cards>
+<card>
+ DS-64i folder inserter
+ For small businesses that need higher speed and more capacity.
+<card>
+ iX-3 postage meter
+ Weigh, print postage, and track mailing costs from one compact system.
+<card>
+ S.M.A.R.T. Online
+ Manage shipping labels, tracking, and USPS services from your desktop.
+________________
+
+
+<FAQ module> Contentful module: FAQs List
+<h2>
+ Frequently asked questions
+<accordion>
+ <question> Is the DS-40i a good fit for small businesses?
+<question> How fast can the DS-40i process mail?
+<question> Can the DS-40i handle different document and envelope sizes?
+<question> Does the DS-40i require special training?
+________________
+
+
+<Proof> Contentful module: Testimonial
+<h2>
+ Trusted by businesses like yours
+<quote>
+ “The Quadient folder inserter is a workhorse!”
+<attribution>
+ Becky Applegate, Robinson Helicopters
+________________
+
+
+<Final CTA> Module: CTA Form
+<h2>
+ Ready to stop stuffing envelopes by hand?
+<Primary CTA>
+ Speak with an expert
+<links to>
+ /contact
+
+
+[a]Manual mail prep?

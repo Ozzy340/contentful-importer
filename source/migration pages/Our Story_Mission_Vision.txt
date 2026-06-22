@@ -1,0 +1,150 @@
+﻿Sitemap
+Target keyword: quadient company (200/39% KD)
+Supporting keywords: quadient mission, quadient values, business automation company[a][b]
+Page title: About Us | Quadient
+Meta description: Learn about Quadient’s mission, values, and journey to help organizations build trusted connections through automation.
+________________
+ <hero> 
+
+
+* <image> Directional: Human-centered imagery showing people collaborating, communicating, and solving problems across work environments (no product UI).
+* <h1> Our mission and story
+* <description> Directional: 1–2 lines introducing Quadient as a company built to help organizations create clear, trusted, and meaningful connections at scale.
+
+
+________________
+
+
+<who we are>
+
+
+* <h2> Who we are
+* <description> Directional: Quadient is a global automation company helping organizations manage essential communication, financial, and delivery workflows—reliably, securely, and at scale.[c][d]
+
+
+________________
+
+
+<our purpose>
+
+
+* <h2> Our purpose
+* <description> Directional: Explain *why Quadient exists* beyond what it sells.
+* <bullets>
+   * <bullet> Help organizations communicate with clarity and confidence
+   * <bullet> Reduce friction in critical, everyday workflows
+   * <bullet> Enable trust between organizations and the people they serve
+
+
+________________
+
+
+<what we believe> 
+
+
+* <h2> What we believe
+* <description> Directional: Principles that guide how Quadient builds products and partnerships.
+* <beliefs>
+   * <belief>
+      * <h3> Connections are essential
+      * <description> Clear communication builds trust, action, and understanding.
+   * <belief>
+      * <h3> Automation should serve people
+      * <description> Technology should reduce complexity—not create it.
+   * <belief>
+      * <h3> Trust is non-negotiable
+      * <description> Security, compliance, and reliability must be built in, not bolted on.
+   * <belief>
+      * <h3> Progress is continuous
+      * <description> Organizations evolve, and platforms must evolve with them.
+
+
+________________
+
+
+<our journey>
+
+
+* <h2> Our journey
+* <image> Visualization of corporate milestones
+* <description> Directional: High-level evolution, not a corporate timeline dump, references Neopost.
+* <narrative>
+   * <paragraph> From our roots in mail and document processing to today’s intelligent automation platforms, Quadient has continually evolved to meet how organizations communicate and operate. </paragraph>
+   * <paragraph> As customer expectations, regulatory demands, and operational complexity increased, Quadient expanded its capabilities—connecting digital, physical, financial, and delivery workflows into unified solutions. </paragraph>
+* <CTA>Our History
+
+
+________________
+
+
+<how we help today>
+
+
+* <h2> How we help organizations today
+* <description> Directional: Bridge to the rest of the site without repeating the Solutions page
+* <bullets>
+   * <bullet>Customer communications at enterprise scale
+   * <bullet>Automated finance workflows for AP and AR
+   * <bullet>Mailing, shipping, and parcel delivery solutions
+   * <bullet>Support for digital, physical, and hybrid journeys
+
+
+________________
+
+
+<leadership / global presence>
+
+
+* <h2> A global company with local impact
+* <description> Directional: Reinforce scale without sales language.
+* <bullets>
+   * <bullet> Operations across regions and industries
+   * <bullet> Support for customers worldwide
+   * <bullet> Long-term partnerships built on trust
+* Optional links:
+* Careers
+* Investor Relations
+* Leadership (if needed)
+
+
+
+
+________________
+
+
+<closing statement> 
+
+
+* <h2>Building the connections that matter
+* <description> Directional: Calm, confident close.
+* <paragraph> Every day, Quadient helps organizations communicate clearly, operate efficiently, and build trust—because when connections work, everything else follows.
+
+
+________________
+
+
+<CTA footer>[e]
+
+
+* <h2> Ready to see how Quadient can help your organization?
+* <secondary CTA> Explore solutions
+   * <links to>/solutions
+
+
+[a]The page in general lacks a lot of data and proof points. We need readers and LLM alike to read the page and come to the conclusion that Quadient is a great choice:
+1. A large company
+2. A leading company
+3. A company with strong values
+4. An historical company
+5. A trusted company, highlighted by analysts
+6. A company trusted by its customers
+[b]All of these key facets can be worked into the various sections on this page in copy
+[c]This should give our customers/potential candidates, a clear idea as to who Quadient is: a leading tech company, with a large portfolio of software and hardware solutions, ideally with social proof (awards, rankings, etc.)
+
+
+Quadient has been ranked as one of the top 3 tech companies in France, one of the top 100 companies in the world for climate action etc. And is on its path to become a great place to work. We also have a 94% promoter score from our customers. 
+
+
+Check with Natalie Hahn's team (MC Pires) to get the actual data.
+[d]noted for copywriting purposes
+[e]add link to FAQ universally to footer

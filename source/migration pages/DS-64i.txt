@@ -1,0 +1,196 @@
+﻿DS-64i
+Sitemap
+Folder inserters > Small business > DS-64i folder inserter
+Page goal: Position the Quadient DS-64i as a flexible, easy-to-use folder inserter for small businesses and busy offices that need to prepare invoices, statements, letters, checks, inserts, and BREs faster, with fewer manual steps and stronger mailpiece integrity.
+Primary audiences
+ Office managers
+Administrative teams
+Billing and finance teams
+Small business mailroom users
+Secondary audiences
+ Schools and local government offices
+Healthcare and financial services teams
+Organizations upgrading from hand folding or entry-level inserting
+Target keyword: DS-64i folder inserter
+Supporting keywords:
+ small business folder inserter
+envelope stuffing machine
+mail folding machine
+document folding and inserting machine
+business reply envelope inserter
+Quadient DS-64i
+Page title: DS-64i folder inserter for small business | Quadient
+Meta description: Discover the Quadient DS-64i folder inserter. Fold, insert, and seal up to 2,500 envelopes per hour with barcode reading, touchscreen setup, and flexible mail handling.
+________________
+
+
+<Hero> Contentful module: Hero Standard
+<eyebrow>
+Small business folder inserter
+<h1>
+Mailing made easier for busy offices
+<Description>
+The Quadient DS-64i turns invoices, statements, letters, inserts, and reply envelopes into finished mail faster—up to 2,500 pieces per hour.
+<Primary CTA>
+ Speak with an expert
+<CTA microcopy>
+ See how the DS-64i fits your mail volume.
+<Secondary CTA>
+ Download brochure
+________________
+
+
+<Value proposition intro> Contentful module: USP Listing
+<h2>
+A small business workhorse for daily mail
+<Description>
+Speed up customer mail with guided setup, flexible feeders, and barcodes.
+<bullets>
+ <bullet> Process up to 42 finished envelopes per minute.
+<bullet> Load up to 325 documents at a time.
+<bullet> Run documents, inserts, checks, BREs, and variable-page mailings.
+<bullet> Use intelligent barcode technology to assemble mail accurately.
+________________
+
+
+<Video Block> Contentful module: Full Video Block
+<h2>
+ See the DS-64i in action
+________________
+
+
+<How product helps> Contentful module: Stacked Card Block
+<h2>
+ Handle mixed mail jobs with confidence
+<cards>
+<card>
+ <h3> Speed up everyday mail
+<Description> Fold, insert, and seal invoices and statements at up to 2,500 envelopes per hour.
+<card>
+ <h3> Handle mixed materials
+<Description> Process letters, inserts, BREs, checks, and variable-page mailings from one system.
+<card>
+ <h3> Match documents accurately
+<Description> Use barcode reading to help place the right documents in the right envelope.
+<card>
+ <h3> Keep feeders running
+<Description> Let another feeder take over automatically when one runs empty.
+________________
+
+
+<Upsell bundle> Contentful module: Product Family Card[a]
+<h2>
+ Enhance your mailing workflow
+<cards>
+<card>
+ Impress Automate
+ Add integrity barcodes and improve document preparation before inserting.
+<card>
+ docsecure
+ Track document integrity through the folding and inserting process.
+<card>
+ iX-5 mailing system
+ Weigh, rate, and meter finished mail after the DS-64i prepares it.
+<card>
+ S.M.A.R.T. Online
+ Create shipping labels, track shipments, and manage outbound mail activity.
+________________
+
+
+<Comparison with the alternatives> Contentful module: Comparison Table
+<h2>
+ See the difference
+<table>
+ <columns> Alternatives [b]| Quadient DS-64i
+<rows>
+ <row> Folding and stuffing by hand | Automates folding, inserting, and sealing.
+<row> Basic inserting only | Handles documents, inserts, BREs, and variable-page sets.
+<row> Checking each mail piece by hand | Barcode reading supports mailpiece accuracy.
+<row> Frequent unloading | Vertical stacker holds up to 500 finished envelopes.
+________________
+
+
+<Key features> Contentful module: USP Listing
+<h2>
+ Key features at a glance
+<bullets>
+ <bullet> Up to 20,000 envelopes monthly volume with Performance Package.
+<bullet> Up to 2,500 envelopes per hour.
+<bullet> Up to 3 document feeders.
+<bullet> Folding capacity up to 8 sheets with Performance Package.
+<bullet> 7" color touchscreen with wizard-based programming.
+<bullet> OMR, BCR 1D, BCR 2D, and CIS scanning support.
+________________
+
+
+<Specifications> Contentful module: Comparison Table
+<h2>
+ Specifications at a glance
+<table>
+ <columns> Feature | Details
+<rows>
+ <row> Processing speed | Up to 2,500 envelopes/hour.
+<row> Monthly volume | 15,000/month; 20,000/month with Performance Package.
+<row> Folding capacity | Up to 5 sheets, 20 lb. single fold; up to 8 with Performance Package.
+<row> Multi-document feeding | Up to 3 documents.
+<row> Touchscreen | 7" color touchscreen.
+<row> Job memory | 50 jobs.
+<row> Feeders | FlexFeed standard; cascade feeder linking standard.
+<row> Envelope feeder capacity | 150 envelopes.
+<row> Document feeder capacity | 325 documents.
+<row> Vertical stacker | Up to 500 envelopes.
+<row> Fold types | Letter, z-fold, single, double parallel, no fold.
+<row> Connectivity | Wireless/LAN enabled.
+<CTA>
+ Download full specifications
+________________
+
+
+<Related products and solutions> Contentful module: Product Family Card
+<h2>
+ Explore other Quadient products
+<cards>
+<card>
+ DS-40i folder inserter
+ A compact entry-level system for lower-volume mail prep.
+<card>
+ DS-77iQ folder inserter
+ A step up for teams that need higher output and more automation.
+<card>
+ Postage meters & mailing systems
+ Finish prepared mail with accurate weighing, postage, and cost control.
+________________
+
+
+<FAQ module> Contentful module: FAQs List
+<h2>
+ Frequently asked questions
+<accordion>
+ <question> What types of mail can the DS-64i process?
+<question> How fast is the DS-64i folder inserter?
+<question> Can the DS-64i handle variable-page mailings?
+<question> Does the DS-64i support barcode reading?
+________________
+
+
+<Proof> Contentful module: Testimonial
+<h2>
+ Trusted by businesses like yours
+<quote>
+ “We use the Quadient folder inserter for our school mailings; the equipment helps make large mailings significantly faster and easier.”
+<attribution>
+ Victoria Williams, Harborfields Central School District
+________________
+
+
+<Final CTA> Module: CTA Form
+<h2>
+ Ready to prepare mail faster?
+<Primary CTA>
+ Speak with an expert
+<links to>
+ /contact
+
+
+[a]secure barcode?
+[b]Manual mail prep

@@ -1,0 +1,143 @@
+﻿Page: Affiliate Partners[a]
+Objective of the page: Explain what our Affiliate Program is, who it's for and how to apply
+Future URL: https://www.quadient.com/en-us/affiliate-partners
+Current URL or Current URLs which will be condensed into one URL: partner program pages, affiliate recruitment copy, and current partner application flows [Proposed]
+Primary audiences
+• Consultants, advisors and agencies with access to finance, CX or operations buyers
+• Publishers, communities and media partners with relevant B2B SaaS audiences
+• Referral-focused partners seeking a low-lift monetization path
+Secondary audiences
+• Existing Quadient partners exploring an affiliate-led motion
+• Technology or ecosystem partners evaluating a lighter-touch entry point
+• Business development teams seeking co-marketing or referral opportunities
+Target keyword: affiliate partners
+Supporting keywords: affiliate partner program; B2B affiliate program; referral partner program; software affiliate program
+Page title: Affiliate partner program | Quadient
+Meta description: Join Quadient’s affiliate partner program to refer qualified opportunities, access partner support and apply through a clear, partner-friendly path.
+ 
+Module: Hero Standard
+<eyebrow> Affiliate program
+<h1> Grow with Quadient referrals
+<SubHeading> Turn qualified introductions into revenue with a clear path for business-focused affiliate partners.
+<CTA> Apply now
+<CTA Microcopy> Start your application
+<Description> Position the program as the simplest way to partner with Quadient for organizations that influence relevant buyers but do not need resale or delivery responsibilities.
+<links to> https://www.quadient.com/en-us/become-partner
+Module: Mission Framing
+<eyebrow> Overview
+<h2> A low-friction way to partner
+<SubHeading> Explain what the Affiliate Program is, how it fits within the broader partner ecosystem and why it exists.
+<Description> Frame this as a referral-first entry point for partners who can introduce qualified opportunities across customer communications, finance automation and adjacent Quadient solution areas.
+<CTA> See partner program
+<links to> https://www.quadient.com/en-us/partner-program
+Note: Keep the distinction clear: this page is for referral/affiliate participation, not full resale, implementation or technology integration.
+Module: USP listing
+<eyebrow> Benefits
+<h2> Why affiliate partners join
+<SubHeading> Lead with commercial value, simplicity and brand credibility before asking for an application.
+<Content Heading> Monetize trusted introductions
+<Content subheading> Earn from relevant referrals without taking on complex delivery obligations.
+<Content Heading> Promote enterprise-ready solutions
+<Content subheading> Point buyers toward proven offers across CXM, AR, AP and operational automation.
+<Content Heading> Work with a clearer next step
+<Content subheading> Route interested partners through a defined application flow instead of fragmented recruitment touchpoints.
+<Content Heading> Expand into deeper partnership
+<Content subheading> Give strong-fit partners a bridge to broader partner or technology tracks over time.
+<CTA> Explore paths
+<links to> https://www.quadient.com/en-us/partner-program
+Note: Validate incentive language, eligibility criteria and any tiering before copy development.
+Module: Solution Card Carousel
+<eyebrow> Audience
+<h2> Best-fit affiliate partners
+<Description> Help visitors self-qualify quickly so higher-intent applicants move forward and mismatched prospects choose the right path.
+<card>
+<Content Heading> Consultants and advisors
+<Description> Trusted recommenders helping finance, operations or customer communications leaders evaluate change.
+<card>
+<Content Heading> Agencies and demand partners
+<Description> Partners that influence software shortlists through campaigns, content or market access.
+<card>
+<Content Heading> Publishers and communities
+<Description> Media, associations and niche communities with relevant B2B audiences and referral potential.
+<card>
+<Content Heading> Existing ecosystem partners
+<Description> Current partners testing a lighter-touch referral motion before pursuing deeper engagement.
+Note: If implementation or resale rights are part of the offer, direct those users toward the broader Partner Program page.
+Module: Comparison Table
+<eyebrow> Fit
+<h2> Choose the right partner path
+<SubHeading> Reduce confusion by showing how affiliate participation differs from other Quadient partner motions.
+<columns> Path | Best for | Primary motion | Destination
+<row> Affiliate Partners | Referrers, publishers, advisors | Refer qualified opportunities without delivery responsibility | Apply via Join Us
+<links to> https://www.quadient.com/en-us/become-partner
+<row> Partner Program | Resellers, consultancies, delivery partners | Co-sell, enable and grow within formal partner tracks | Explore program
+<links to> https://www.quadient.com/en-us/partner-program
+<row> Technology Partners | ISVs and integration partners | Build technical alignment and joint solution value | Explore technology partners
+<links to> https://www.quadient.com/en-us/technology-partners
+<CTA> Compare tracks
+<links to> https://www.quadient.com/en-us/partners
+Module: Timeline Block
+<eyebrow> Process
+<h2> How it works
+<SubHeading> Show the application journey before the CTA so the next action feels low-risk.
+<step> 01
+<Content Heading> Check program fit
+<Content copy> Confirm who the program is for, what type of referrals qualify and whether the affiliate model is the right route.
+<step> 02
+<Content Heading> Apply through Join Us
+<Content copy> Send applicants to the internal Join Us page that centralizes the application flow.
+<links to> https://www.quadient.com/en-us/become-partner
+<step> 03
+<Content Heading> Get reviewed and onboarded
+<Content copy> Set expectations for approval, access, enablement resources and how referrals will be submitted or tracked.
+<step> 04
+<Content Heading> Start referring opportunities
+<Content copy> Move approved partners toward active referral behavior and future program expansion.
+Note: Validate approval timeline, onboarding steps and referral tracking details.
+Module: Insights & Resources
+<eyebrow> Explore
+<h2> More partner routes
+<CTA> See partner pages
+<links to> https://www.quadient.com/en-us/partners
+<card>
+<Content Heading> Partner Program
+<Description> For partners looking for broader enablement, co-selling or formal program detail.
+<links to> https://www.quadient.com/en-us/partner-program
+<card>
+<Content Heading> Technology Partners
+<Description> For ISVs and integration-focused partners exploring technical alignment.
+<links to> https://www.quadient.com/en-us/technology-partners
+<card>
+<Content Heading> Find a Partner
+<Description> For prospects trying to locate an existing Quadient partner rather than apply.
+<links to> https://www.quadient.com/en-us/find-partner
+Module: FAQs List
+<h2> Questions before applying
+<SubHeading> Address the main objections that block application starts and wrong-path clicks.
+<question> What is the Quadient Affiliate Program?
+<answer> Define the program as a referral-focused partnership model for organizations that can introduce relevant prospects to Quadient.
+<question> Who should apply?
+<answer> Clarify the audience, including consultants, agencies, publishers and communities with access to relevant B2B buyers.
+<question> How is this different from the Partner Program?
+<answer> Explain when a visitor should use the affiliate path versus broader partner or technology tracks.
+<question> How do I apply?
+<answer> Route applicants to the Join Us flow and preview the information required in the application.
+<question> What happens after approval?
+<answer> Outline onboarding, access, referral submission and any partner communications or resources.
+Note: Final FAQ answers should include confirmed commercial and operational details only.
+Module: Action Block
+<eyebrow> Existing partners
+<h2> Already working with Quadient?
+<Content copy> Provide a clear side path for current partners and partner-team members so they do not abandon the page or restart an application.
+<CTA> Partner portal
+<links to> https://www.quadient.com/en-us/partner-portal
+Note: If the design supports secondary text links, add Find a Partner and Contact Us in this area.
+Module: CTA Form
+<h2> Apply to become an affiliate partner
+<CTA> Apply now
+<CTA Microcopy> Start your application
+<links to> https://www.quadient.com/en-us/become-partner
+Note: If legal, eligibility or territory requirements apply, place them directly above the CTA so applicants understand the commitment before clicking.
+
+
+[a]https://gemini.google.com/share/4a0fdd230355

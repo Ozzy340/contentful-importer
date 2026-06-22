@@ -1,0 +1,551 @@
+﻿Page: Our activities
+[a]
+Objective of the page: Company profile and activities
+Future URL: quadient.com/en-us/investor-relations/activities
+Current URL or Current URLs which will be condensed into one URL: https://invest.quadient.com/en/activities
+
+Primary audiences
+Institutional investors
+Sell-side analysts
+Prospective investors
+
+Secondary audiences
+Individual shareholders
+Financial media
+Corporate profile and governance researchers
+
+Target keyword: Quadient company profile
+Supporting keywords: Quadient activities; Quadient business model; Quadient investor relations; Quadient markets and operations
+
+Page title: Company Profile and Activities | Quadient Investor Relations
+
+Meta description: Review Quadient’s company profile and three automation activities, Digital, Mail and Lockers, and explore the platforms, customer benefits, and growth levers that support long-term value creation.
+________________
+
+
+Module: Hero Standard
+ <image/graphic> Use original investor-style visual system showing Digital, Mail and Lockers automation platforms.
+<eyebrow> Investors
+<h1> Activities 
+<SubHeading> Three automation platforms powering meaningful business interactions. <Description> Quadient helps companies create simple, efficient and personalized interactions with customers and key stakeholders. 
+<Primary CTA> Explore strategy 
+<CTA Microcopy> Elevate to 2030 
+<links to> quadient.com/en-us/investor-relations/strategy
+________________
+
+
+Module: Big Idea Panel
+<h2> Elevate to 2030 
+<SubHeading> Quadient is focused on growth, resilience and platform-led expansion across Digital, Mail and Lockers.
+________________
+
+
+Module: Stats Block
+ <eyebrow> 2024 revenue
+<h2> Platform scale
+ <stats> 
+<stat> Digital: €267m revenue; +7.7% organic change. :contentReference[oaicite:1]{index=1} <stat> Mail: €732m revenue; -2.5% organic change. :contentReference[oaicite:2]{index=2} 
+<stat> Lockers: €94m revenue; +4.3% organic change. :contentReference[oaicite:3]{index=3}
+________________
+
+
+Module: Solution Card Carousel
+ <eyebrow> Activities
+<h2> Three platforms 
+<Description> Quadient operates across Digital, Mail and Lockers automation. 
+<cards> 
+<card> 
+<h3> Digital automation 
+<Description> SaaS applications that automate communications, finance workflows, forms and hybrid mail. 
+<CTA> View details 
+<links to> #digital 
+<card> 
+<h3> Mail automation
+ <Description> Equipment and software that simplify mailing, postage, document handling and compliance. 
+<CTA> View details 
+<links to> #mail 
+<card> 
+<h3> Lockers automation 
+<Description> Parcel pick-up and return solutions for carriers, properties, retailers and campuses. <CTA> View details
+<links to> #lockers
+________________
+
+
+Module: 50-50 Block
+ <anchor> digital
+<image/graphic> Use original Digital Automation Platform image with revenue card.
+<eyebrow> Digital
+<h2> High-value SaaS automation 
+<Description> Quadient’s Digital platform delivers cloud-based SaaS for customer journey mapping, invoice-to-cash, procure-to-pay, communications, document automation, intelligent forms, and hybrid mail.
+<Description> It includes a centralized control panel, value-added services, add-ons, AI-powered interactions, integrated support, and access to additional applications.
+<CTA> Explore Digital 
+<CTA Microcopy> Automation platform 
+<links to> https://www.quadient.com/en-us/quadient-suite Note: Sitemap lists “Quadient Suite” as closest match to Quadient Platform.
+________________
+
+
+Module: Stats Block
+ <eyebrow> Digital market
+<h2> Growth runway 
+<stats> 
+<stat> Addressable demand: c.€6bn in 2023 to c.€9bn in 2027. 
+<stat> Growth opportunities span communication automation and financial automation. 
+<stat> EU e-invoicing initiatives create compelling regulatory opportunities.
+________________
+
+
+Module: USP listing
+ <eyebrow> Digital customers
+<h2> Serving complex communication and finance needs 
+<SubHeading> Digital customers include SMBs, enterprises and Print Service Providers. 
+<items> 
+<item> 
+<Content Heading> Customer profile
+ <Content subheading> Upper SMBs, large enterprises, and sectors including financial services, insurance, healthcare, and PSPs. 
+<item> 
+<Content Heading> Mail cross-sell 
+<Content subheading> Around two-thirds of Digital customers originate from Mail cross-sell. 
+<item> 
+<Content Heading> Customer value 
+<Content subheading> Improves cost efficiency, convenience, compliance, and operational control.
+________________
+
+
+Module: Solution Card Stacked
+ <eyebrow> Digital pain points
+<h2> Business challenges Digital solves
+ <SubHeading> Fragmented systems, risk and manual work limit performance. 
+<cards> 
+<card> 
+<h3> System complexity 
+<Description> Increased organizational complexity from managing multiple systems. 
+<card> 
+<h3> Digitization pressure 
+<Description> Pressure to digitize and automate business processes. 
+<card> 
+<h3> Compliance exposure 
+<Description> High cost and reputational damage from regulatory non-compliance. 
+<card> 
+<h3> Platform risk 
+<Description> Data security and operational risks linked to existing platforms. 
+<card> 
+<h3> Payment control 
+<Description> Lack of control over outgoing payments. 
+<card> 
+<h3> Cash visibility 
+<Description> Limited visibility into incoming payments and unpredictable cash cycles. 
+<card> 
+<h3> Customer expectations 
+<Description> Rising expectations that can impact customer loyalty.
+Module: Solution Card Stacked
+ <eyebrow> Digital benefits
+<h2> Customer benefits delivered 
+<SubHeading> Faster payments, stronger control and simpler architecture. 
+<cards> 
+<card> 
+<h3> Accelerate cash flow 
+<Description> Reduce payment and collection times to improve liquidity. 
+<card> 
+<h3> Get paid faster 
+<Description> Streamline receivables and improve payment outcomes.
+ <card> 
+<h3> Improve satisfaction 
+<Description> Deliver better experiences across customer touchpoints.
+ <card> 
+<h3> Reduce non-payment 
+<Description> Assess creditworthiness to mitigate payment risk. 
+<card> 
+<h3> Manage communications
+ <Description> Control communications across all channels with one tool. 
+<card> 
+<h3> Simplify systems 
+<Description> Consolidate tools and reduce architecture complexity. 
+<card> 
+<h3> Secure data 
+<Description> Manage sensitive customer data securely. 
+<card> 
+<h3> Eliminate manual work 
+<Description> Reduce manual processes, errors and rework.
+________________
+
+
+Module: Stats Block
+ <eyebrow> Digital ambitions
+<h2> 2030 targets 
+<stats> 
+<stat> 2026 trajectory: >20% EBITDA margin. :contentReference[oaicite:4]{index=4} 
+<stat> 2030 revenue ambition: >€500m. :contentReference[oaicite:5]{index=5} 
+<stat> 2030 subscription-related revenue: >90%. :contentReference[oaicite:6]{index=6} 
+<stat> 2030 EBITDA margin: c.30%. :contentReference[oaicite:7]{index=7} 
+<stat> 2023 base: €245m revenue, 80% subscription-related revenue, 11.8% EBITDA margin. :contentReference[oaicite:8]{index=8}
+________________
+
+
+Module: Solutions Toggle
+<h2> Digital acquisition and expansion 
+<SubHeading> Growth comes from new customers and deeper account penetration. 
+<CTA> Learn more 
+<links to> quadient.com/en-us/investor-relations 
+<content> 
+<Content Heading> Acquisition 
+<Content subheading> c.60% growth 
+<Content copy> Direct sales, partners, Mail cross-sell, and expansion into new sectors and geographies grow the Digital customer base. :contentReference[oaicite:9]{index=9} 
+<Content Heading> Expansion 
+<Content subheading> c.40% growth 
+<Content copy> Upsell, additional users, and increased usage drive deeper Digital account penetration. :contentReference[oaicite:10]{index=10} 
+<Content Heading> Growth levers 
+<Content subheading> Platform-led 
+<Content copy> A comprehensive platform, optimized channels, and multiple customer journeys support Digital growth.
+________________
+
+
+Module: Product Family Card
+<h2> Related Digital solutions 
+<cards> 
+<card> 
+<h3> Customer communications 
+<Description> Personalized, compliant communications across digital and print channels.
+<CTA> Learn more 
+<links to> https://www.quadient.com/en-us/elevate-customer-communications
+<card> 
+<h3> Finance automation 
+<Description> AP and AR automation that improves cash flow and control. 
+<CTA> Learn more 
+<links to> https://www.quadient.com/en-us/automate-finance-operations 
+<card> 
+<h3> AR automation 
+<Description> Automate invoice delivery, payments and collections workflows. 
+<CTA> Learn more 
+<links to> https://www.quadient.com/en-us/ar-automation 
+<card> 
+<h3> AP automation
+<Description> Automate invoice capture, approvals and payment workflows. 
+<CTA> Learn more 
+<links to> https://www.quadient.com/en-us/ap-automation
+________________
+
+
+Module: 50-50 Block
+ <anchor> mail
+<image/graphic> Use original Mail Automation Platform image with revenue card.
+<eyebrow> Mail
+<h2> Resilient mailing automation 
+<Description> Quadient’s Mail platform combines postage meters, folder inserters, letter openers, addressing systems, rating scales, software, and digital printing.
+<Description> Equipment is deployed through rental or leasing, supporting efficiency, accurate postage, in-house mail creation, audit trails, and tracking.
+<CTA> Explore Mail <CTA Microcopy> Mailing solutions 
+<links to> https://www.quadient.com/en-us/modernize-mail-and-shipping
+________________
+
+
+Module: Stats Block
+ <eyebrow> Mail market
+<h2> Resilient performance 
+<stats> 
+<stat> Addressable demand: c.€2.4bn in 2023 to c.€2.0bn in 2027. 
+<stat> Mail volumes are declining, but revenue is expected to decline slowly. 
+<stat> Innovation and market share gains support continued resilience. 
+<stat> Digital mail and parcel cross-selling extend customer relationships.
+________________
+
+
+Module: USP listing
+ <eyebrow> Mail customers
+<h2> A broad, loyal customer base 
+<SubHeading> Mail serves SMBs and large production environments. 
+<items> 
+<item> 
+<Content Heading> Core customers 
+<Content subheading> Mainly small and medium-sized businesses across a wide range of sectors. 
+<item> 
+<Content Heading> Cross-sell base 
+<Content subheading> Mail customers provide strong cross-sell potential for Digital solutions. 
+<item> 
+<Content Heading> Large accounts 
+<Content subheading> Also serves Print Service Providers using both Mail and Digital SaaS solutions.
+________________
+
+
+Module: Solution Card Stacked
+ <eyebrow> Mail pain points
+<h2> Mailing challenges customers face 
+<SubHeading> Cost, labor and control issues create operational friction. 
+<cards> 
+<card> 
+<h3> Postage accuracy 
+<Description> Inaccurately rated or paid postage. 
+<card> 
+<h3> Manual assembly 
+<Description> Long time and manual labor to assemble large mail batches. 
+<card> 
+<h3> Payment friction 
+<Description> Inconvenient payment for postal mailing and shipping. 
+<card> 
+<h3> Lost documents 
+<Description> Important documents lost or mishandled during mailing. 
+<card> 
+<h3> Parcel complexity 
+<Description> Difficulty or complexity when sending parcels. 
+<card> 
+<h3> Spend visibility 
+<Description> Limited visibility and accounting for postal expenses. 
+<card> 
+<h3> Regulatory change 
+<Description> Ongoing need to keep up with requirements.
+________________
+
+
+Module: Solution Card Stacked
+ <eyebrow> Mail benefits
+<h2> Customer benefits delivered 
+<SubHeading> Efficient mailing improves cost, compliance and control. 
+<cards> 
+<card> 
+<h3> Best rates 
+<Description> Access the best postage rates. 
+<card> 
+<h3> Lower costs 
+<Description> Reduce customer communication costs.
+<card> 
+<h3> In-house processing
+<Description> Enable teams to process postage and mail batches internally. 
+<card> 
+<h3> Professional image 
+<Description> Improve ease of use and communication quality. 
+<card> 
+<h3> Mailing proof 
+<Description> Support proof of mailing integrity and audit trails. 
+<card> 
+<h3> Budget control 
+<Description> Track parcels and manage budgets.
+________________
+
+
+Module: Stats Block
+ <eyebrow> Mail ambitions
+<h2> 2030 targets
+ <stats> 
+<stat> 2026 trajectory: >25% EBITDA margin. :contentReference[oaicite:11]{index=11} 
+<stat> 2030 revenue ambition: c.€600m. :contentReference[oaicite:12]{index=12} 
+<stat> 2030 subscription-related revenue: >65%. :contentReference[oaicite:13]{index=13} 
+<stat> 2030 EBITDA margin: 20-25%. :contentReference[oaicite:14]{index=14} 
+<stat> 2023 base: €729m revenue, 68% subscription-related revenue, 29.9% EBITDA margin. :contentReference[oaicite:15]{index=15}
+________________
+
+
+Module: Solutions Toggle
+<h2> Mail acquisition and expansion 
+<SubHeading> Balanced growth keeps the customer base healthy. 
+<CTA> Learn more 
+<links to> quadient.com/en-us/investor-relations 
+<content> <Content Heading> Acquisition 
+<Content subheading> c.20% growth 
+<Content copy> Direct sales, partners, OEMs, and targeted markets drive new customer acquisition. :contentReference[oaicite:16]{index=16} 
+<Content Heading> Expansion <Content subheading> c.80% growth 
+<Content copy> Upgrades, cross-sell, additional users, and transaction growth expand existing accounts. :contentReference[oaicite:17]{index=17} 
+<Content Heading> Customer trust 
+<Content subheading> Multi-year relationships 
+<Content copy> Long-standing relationships position Quadient as a trusted advisor to customers.
+________________
+
+
+Module: Product Family Card
+<h2> Related Mail solutions 
+<cards> 
+<card> 
+<h3> Postage meters 
+<Description> Simplify postage rating, payment and sending. 
+<CTA> Learn more 
+<links to> https://www.quadient.com/en-us/postage-meters 
+<card> 
+<h3> Folder inserters 
+<Description> Automate folding, inserting and mail preparation. 
+<CTA> Learn more 
+<links to> https://www.quadient.com/en-us/folder-inserters 
+<card> 
+<h3> Mail automation 
+<Description> Software for efficient mailroom workflows. 
+<CTA> Learn more 
+<links to> https://www.quadient.com/en-us/mail-automation-software 
+<card> 
+<h3> Parcel shipping 
+<Description> Track parcels and simplify shipping operations. 
+<CTA> Learn more 
+<links to> https://www.quadient.com/en-us/parcels
+________________
+
+
+Module: 50-50 Block
+ <anchor> lockers
+<image/graphic> Use original Lockers Automation Platform image with revenue card.
+<eyebrow> Lockers
+<h2> Parcel automation at scale 
+<Description> Quadient’s Lockers platform supports parcel pick-up and returns through indoor and outdoor lockers and drop boxes with cameras and 24/7 access.
+<Description> It includes open network infrastructure and sales or rental models for lockers used in private and shared environments.
+<CTA> Explore Lockers 
+<CTA Microcopy> Parcel solutions 
+<links to> https://www.quadient.com/en-us/streamline-parcel-delivery
+________________
+
+
+Module: Stats Block
+ <eyebrow> Lockers market
+<h2> Expanding demand 
+<stats> 
+<stat> Addressable demand grows over 10% annually on average. 
+<stat> Market outlook: c.€400m in 2023 to c.€600m in 2027. 
+<stat> E-commerce, returns and C2C growth support locker demand.
+________________
+
+
+Module: USP listing
+ <eyebrow> Lockers customers
+<h2> Serving parcel-intensive environments 
+<SubHeading> Lockers support carriers, properties, retailers and campuses. 
+<items> 
+<item> 
+<Content Heading> Open networks 
+<Content subheading> Deploys and operates lockers across France, Japan, and the UK. 
+<item> 
+<Content Heading> Carrier model 
+<Content subheading> Used by major international and domestic carriers on a fee-per-parcel model. 
+<item> 
+<Content Heading> Typical locations 
+<Content subheading> Installed in transport hubs, gas stations, car parks, and supermarkets. 
+<item> 
+<Content Heading> Private use 
+<Content subheading> Equips residences, universities, retailers, and distributors, including in the US. 
+<item> 
+<Content Heading> Customer types 
+<Content subheading> Used by logistics operators, property managers, retailers, and higher education institutions.
+________________
+
+
+Module: Solution Card Stacked
+ <eyebrow> Lockers pain points
+<h2> Parcel challenges customers face 
+<SubHeading> Delivery cost, convenience and security drive demand. 
+<cards> 
+<card> 
+<h3> Last-mile cost 
+<Description> High cost of last- and first-mile delivery and collection. 
+<card> 
+<h3> Parcel burden 
+<Description> Operational pressure from growing parcel volumes. 
+<card> 
+<h3> BOPIS lanes 
+<Description> Need to avoid “buy online, pick up in store” lanes. 
+<card> 
+<h3> Urban CO2 
+<Description> High delivery emissions in city centers. 
+<card> 
+<h3> Home delivery 
+<Description> Customers need to be at home for parcel delivery. 
+<card> 
+<h3> Return complexity 
+<Description> Parcel returns can be difficult to manage. 
+<card> 
+<h3> Parcel theft 
+<Description> Unsecured deliveries create theft risk.
+________________
+
+
+Module: Solution Card Stacked
+ <eyebrow> Lockers benefits
+<h2> Customer benefits delivered 
+<SubHeading> Secure automation improves delivery, returns and experience. 
+<cards> 
+<card> 
+<h3> Lower delivery costs 
+<Description> Reduce delivery and collection costs. 
+<card> 
+<h3> Simplify handling 
+<Description> Simplify handling of parcels and other items. 
+<card> 
+<h3> Always available 
+<Description> Provide 24/7 convenient pick-up and returns. 
+<card> 
+<h3> Better BOPIS 
+<Description> Enhance “buy online, pick up in store” experiences. 
+<card> 
+<h3> Parcel control 
+<Description> Recover control over residential parcel flows. 
+<card>
+ <h3> Resident amenity 
+<Description> Offer a differentiating amenity for residents. 
+<card> 
+<h3> Lower emissions 
+<Description> Reduce CO2 in city centers and smart cities. 
+<card> 
+<h3> Secure delivery 
+<Description> Improve parcel delivery security.
+________________
+
+
+Module: Stats Block
+ <eyebrow> Lockers ambitions
+<h2> 2030 targets 
+<stats> 
+<stat> 2026 trajectory: >10% EBITDA margin. :contentReference[oaicite:18]{index=18} 
+<stat> 2030 installed base ambition: >40,400 lockers. :contentReference[oaicite:19]{index=19} <stat> 2030 revenue ambition: >€200m. :contentReference[oaicite:20]{index=20} 
+<stat> 2030 EBITDA margin: 20-25%. :contentReference[oaicite:21]{index=21} 
+<stat> 2023 base: 20,200 lockers, €88m revenue, -3.0% EBITDA margin. :contentReference[oaicite:22]{index=22}
+________________
+
+
+Module: Solutions Toggle
+<h2> Lockers acquisition and expansion 
+<SubHeading> Growth combines new sites with installed-base profitability. 
+<CTA> Learn more 
+<links to> quadient.com/en-us/investor-relations 
+<content> 
+<Content Heading> Acquisition 
+<Content subheading> c.40% growth 
+<Content copy> Targeted geographies, partners, and sales channels drive new sites and customers. :contentReference[oaicite:23]{index=23} 
+<Content Heading> Expansion 
+<Content subheading> c.60% growth 
+<Content copy> Data, usage, satisfaction, and optimized locations improve installed-base profitability. :contentReference[oaicite:24]{index=24} 
+<Content Heading> Growth focus 
+<Content subheading> Sites and profitability 
+<Content copy> Growth comes from new sites, expansion, and stronger profitability across the installed base.
+________________
+
+
+Module: Product Family Card
+<h2> Related Lockers solutions 
+<cards> 
+<card> 
+<h3> Parcel lockers 
+<Description> Secure automated lockers for parcel delivery and returns. 
+<CTA> Learn more 
+<links to> https://www.quadient.com/en-us/parcel-lockers 
+<card> 
+<h3> Parcel delivery 
+<Description> Streamline last-mile delivery and parcel experiences. 
+<CTA> Learn more 
+<links to> https://www.quadient.com/en-us/streamline-parcel-delivery
+________________
+
+
+Module: Editorial Content Block
+ <eyebrow> Investor resources
+<h2> Learn more about Quadient’s performance 
+<Description> Explore the Group strategy and the latest financial results. 
+<CTA> Group strategy 
+<links to> quadient.com/en-us/investor-relations 
+<CTA> Financial results 
+<links to> quadient.com/en-us/investor-relations/financial-results Note: Sitemap maps “Our Strategy” to the Investor Relations parent page; destination to validate if a dedicated strategy page is added.
+________________
+
+
+Module: CTA Form
+<h2> Follow Quadient’s investor story 
+<CTA> Contact us 
+<CTA Microcopy> Investor relations team 
+<links to> quadient.com/en-us/investor-relations/contact
+
+
+
+
+
+
+[a]mapped here: https://gemini.google.com/share/e3bddbef9930

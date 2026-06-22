@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Life at Quadient hero collage placeholder</title>
+  <desc id="desc">Abstract placeholder collage with four coloured panels and a caption for importer testing.</desc>
+  <rect width="1200" height="720" fill="#f5f1ea"/>
+  <rect x="48" y="48" width="340" height="280" rx="24" fill="#f49b37"/>
+  <rect x="412" y="48" width="340" height="280" rx="24" fill="#dde7ee"/>
+  <rect x="776" y="48" width="376" height="280" rx="24" fill="#12344d"/>
+  <rect x="48" y="352" width="520" height="320" rx="24" fill="#fff"/>
+  <rect x="592" y="352" width="560" height="320" rx="24" fill="#e7f1eb"/>
+  <circle cx="206" cy="188" r="86" fill="#fff7ef"/>
+  <circle cx="580" cy="188" r="86" fill="#ffffff"/>
+  <circle cx="960" cy="188" r="86" fill="#f0f4f8"/>
+  <circle cx="260" cy="512" r="104" fill="#dde7ee"/>
+  <circle cx="884" cy="512" r="104" fill="#f9d6b0"/>
+  <text x="86" y="602" font-family="Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="#12344d">
+    Placeholder hero collage
+  </text>
+  <text x="86" y="652" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#4d6475">
+    Used to validate nested media and asset upload for the Life at Quadient test page.
+  </text>
+</svg>

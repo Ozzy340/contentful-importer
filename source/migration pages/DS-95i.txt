@@ -1,0 +1,202 @@
+﻿DS-95i
+Sitemap
+Folder inserters > Mid-size business > DS-95i folder inserter
+Page goal: Position the Quadient DS-95i as a flexible, secure folder inserter for mid-size and growing mailrooms that need to automate complex mail jobs, handle varied document sets, and protect mailpiece accuracy at higher volumes.
+Primary audiences
+ Mailroom managers
+Operations teams
+Billing and finance teams
+Customer communications teams
+Secondary audiences
+ Healthcare teams
+Financial services teams
+Education and nonprofit teams
+Organizations upgrading from mid-volume inserters
+Target keyword: DS-95i folder inserter
+Supporting keywords:
+ mid-size folder inserter
+mail folding and inserting machine
+envelope inserting machine
+variable-page mail inserter
+barcode folder inserter
+Quadient DS-95i
+Page title: DS-95i folder inserter for complex mail jobs | Quadient
+Meta description: Discover the Quadient DS-95i folder inserter. Process up to 80,000 envelopes per month with barcode reading, flexible feeding, and secure mailpiece integrity.
+________________
+
+
+<Hero> Contentful module: Hero Standard
+<eyebrow>
+ Mid-size business folder inserter
+<h1>
+ Bring on your most complex mailings
+<Description>
+The Quadient DS-95i helps mailrooms keep complex mail runs moving with faster setup, fewer manual checks, and flexible feeding, and capacity for up to 80,000 envelopes per month.
+<Primary CTA>
+Order now
+<CTA microcopy>
+ See how the DS-95i fits your document mix and mail volume.
+<Secondary CTA>
+ Download brochure
+________________
+
+
+<Value proposition intro> Contentful module: USP Listing
+<h2>
+Ready for whatever the mailroom brings
+<Description>
+Keep changing mail runs moving with speed and flexibility.
+<bullets>
+ <bullet> Run up to 4,300 envelopes per hour.
+<bullet> Handle varied documents, inserts, and envelope sizes.
+<bullet> Configure up to seven feed stations.
+<bullet> Use barcode reading to automate variable-page jobs.
+________________
+
+
+<Video Block> Contentful module: Full Video Block
+<h2>
+ See the DS-95i in action
+________________
+
+
+<How product helps> Contentful module: Stacked Card Block
+<h2>
+ More productivity, precision, and control
+<cards>
+<card>
+ <h3> Handle complex jobs
+<Description> Automate varied document sizes, inserts, BREs, booklets, and variable-page mailings.
+<card>
+ <h3> Speed up setup
+<Description>  Automatically measure mailing materials, switch envelope formats in seconds, and save jobs for fast recall.
+<card>
+ <h3> Reduce manual checks
+<Description> Full-page CIS scanning reads codes placed nearly anywhere on the document.
+<card>
+ <h3> Keep work moving
+<Description> Feeder linking lets another feeder take over when one runs empty.
+________________
+
+
+<Upsell bundle> Contentful module: Product Family Card[a]
+<h2>
+ Enhance your mailing workflow
+<cards>
+<card>
+ AIMS-500
+ Add closed-loop, piece-level verification for more secure mail assembly.
+<card>
+ Document Automation Software
+ Format, personalize, group, barcode, and address documents before inserting.
+<card>
+ VersaFeeder
+ Run inserts, BREs, and booklets up to 2.5 mm thick.
+<card>
+ Mailing system interface
+ Connect inserting and mailing workflows for a smoother finish.
+________________
+
+
+<Comparison with the alternatives> Contentful module: Comparison Table
+<h2>
+ See the difference[b]
+<table>
+ <columns> Alternatives | Quadient DS-95i
+<rows>
+ <row> Manual folding and stuffing | Automates folding, inserting, and sealing at up to 4,300 envelopes/hour.
+<row> Basic inserters | Handles complex document combinations with up to seven feed stations.
+<row> Fixed barcode placement | CIS scanning reads codes nearly anywhere on the page.
+<row> Frequent unloading | High-capacity stacker holds up to 500 finished envelopes.
+________________
+
+
+<Key features> Contentful module: USP Listing
+<h2>
+ Key features at a glance
+<bullets>
+ <bullet> Up to 80,000 envelopes monthly volume.
+<bullet> Up to 4,300 envelopes per hour.
+<bullet> 10" color touchscreen with automatic job setup.
+<bullet> Up to seven feed stations for flexible applications.
+<bullet> Full-page CIS scanner with BCR and OMR support.
+<bullet> 50 stored jobs for fast repeat runs.
+________________
+
+
+<Specifications> Contentful module: Comparison Table
+<h2>
+ Specifications at a glance
+<table>
+ <columns> Feature | Details
+<rows>
+ <row> Monthly volume | Up to 80,000 envelopes
+<row> Processing speed | Up to 4,300 envelopes/hour
+<row> Touchscreen | 10" color touchscreen
+<row> Automatic settings | Standard
+<row> Feed stations | Up to 7
+<row> Document and insert feeders | Up to 6
+<row> Job memory | 50
+<row> Scanner | Full-page CIS scanner
+<row> Code reading | BCR and OMR standard
+<row> High-capacity feeder | Up to 725 sheets, 20 lb.
+<row> MaxiFeeder capacity | 1,200 sheets, 20 lb.
+<row> FlexFeed capacity | 325 sheets
+<row> Fold types | Letter, z-fold, single, double parallel, no fold
+<row> Document size | 3.5"–14" H; 5.1"–9" W
+<row> Envelope size | 3.5"–6.3" L; 6.3"–9.7" W
+<row> Maximum set thickness | 2.5 mm
+<row> Options | AIMS, short feeders, vertical stacker, side exit, Document Automation Software, VersaFeeder, mailing system interface
+<CTA>
+ Download full specifications
+________________
+
+
+<Related products and solutions> Contentful module: Product Family Card
+<h2>
+ Explore other Quadient products
+<cards>
+<card>
+ DS-85i folder inserter
+ A strong fit for mid-size teams with lower monthly volume needs.
+<card>
+ DS-180i folder inserter
+ Step up to higher-volume production mail with more feeder capacity.
+<card>
+ Postage meters & mailing systems
+ Finish prepared mail with accurate weighing, metering, and postage control.
+________________
+
+
+<FAQ module> Contentful module: FAQs List
+<h2>
+ Frequently asked questions
+<accordion>
+ <question> What mail volume is the DS-95i built for?
+<question> Can the DS-95i handle variable-page mailings?
+<question> Does the DS-95i support barcode reading?
+<question> Can AIMS-500 be added for mailpiece verification?
+________________
+
+
+<Proof> Contentful module: Testimonial
+<h2>
+ Trusted by businesses like yours
+<quote>
+ “The Quadient folder inserter makes mailing jobs much easier to finish on time and increases the amount of mailings we do.”
+<attribution>
+ Charleigh Nelson, International Business Ventures
+________________
+
+
+<Final CTA> Module: CTA Form
+<h2>
+ Ready to automate complex mail prep?
+<Primary CTA>
+ Speak with an expert
+<links to>
+ /contact
+
+
+[a]secudre bardcoe, docsecure, impress automate
+[b]change
